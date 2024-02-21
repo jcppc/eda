@@ -1,0 +1,1401 @@
+id|city|osex|cyear|quality|year|buyer.fname|buyer.lname|buyer.ethnicity|buyer.gender|buyer.age|buyer.nationality|house.type|size|n.rooms|n.bathrooms|price
+PT-823|Lisboa|Male|1960|Perfect|2023|Tyler|Borovskikh|5|0|51||Apartamento|213.86|1|1|265
+PT-252|||2003||2017|Sheldon|Cackler|1|0|32|UK||137.66|1|2|276
+PT-528|Faro|Male|1920|High|2021|Breanna|Ortiz Munoz|4|1|39|Portugl|Apartamento|349.18|1|4|205
+PT-1312|Lisboa||1950||2018|Katherine|Bernhardt|5|1|34|ENGLAND|Quinta|273.36|1|3|251
+PT-25|Coimbra||1960|Medium|2020|Jose|Sanchez|4|0|40|ENGLAND|Quinta|245.31|1|2|274
+PT-340|||2017||2017|Malachai|Cheng|2|0|71||Apartamento|320.06|1|3|245
+PT-94|Lisboa||2014|Perfect|2020|Veronica|Chu|2|1|45|PT|Apartamento|139.88|1|4|297
+PT-1211|Porto||1975|Medium|2016|Eric|Goto|2|0|41|Portugal|Vivenda|174.07|1|1|236
+PT-1152|Portimão|Female|1998|High|2016|Sindel|Burukie|3|1|16|Prt|Apartamento|342.91|1|2|262
+PT-1039|Lisboa|Male||Very High|2018|Diocelin|Carbajal|4|1|76|United States of America|Apartamento|236.31|1|3|282
+PT-1272|Lisboa|Male||Perfect|2019|Alec|Vineyard|5|0|55|Portugl|Vivenda|236.21|1|3|254
+PT-1110|Porto|Female||High|2021|Passion|Chaffin|3|1|38|USA|Apartamento|316.28|1|2|276
+PT-1285|LISBOA||2008||2021|Kwhydee Paul|Holland|3|0|37|England|Vivenda|193.68|1|4|228
+PT-371||Male|2015|Medium|2018|Jordan|Mcgee|3|0|23|United States of America||191.06|1|1|226
+PT-1066|Lisboa||1975|Perfect|2020|Jordan|Ware|3|1|24|Portugal|Vivenda|228.12|1|1|251
+PT-1331|Lisboa|Male|2002|High|2017|Danny|Mancha|4|0|54|Prt|Vivenda|220.63|1|3|272
+PT-880|Coimbra|Female|1995|Very High|2017|Sarah|Munoz|1|1|70|||156.81|1|3|253
+PT-1059|Lx||1996|Low|2018|Renae|Sands|2|1|46|PT|Vivenda|329.84|1|4|220
+PT-854|Lisboa||2004||2022|Jesse|Todd|1|1|78|ENGLAND|Apartamento|196.54|1|3|243
+PT-1098|Lagos|Male|1999|High|2018|Lucas|Kinnison|5|0|51||Vivenda|169.39|1|30|250
+PT-1228|Lisboa|Female|1999|Low|2022|James|Kuge|2|0|41||Vivenda|219.33|1|3|247
+PT-469|Lisboa||1999|Perfect|2023|Benjamin|Minard|5|0|19|United States of America|Apartamento|158.16|1|2|248
+PT-1254|Lisboa||2013|High|2018|Antonio|Arvizo|4|0|45|USA|Apartamento|131.68|1|30|302
+PT-55|Coimbra|Female|1998|High|2021|Nhung|Richter|2|1|40|Pt|Apartamento|146.25|1|2|232
+PT-1153||Male|2002|High|2022|Erik|Alex|1|0|40|United States of America|Quinta|193.85|1|2|253
+PT-674|Faro||2007|High|2020|Doann|Yen|2|1|17|Pt||278.97|1|4|245
+PT-1203|Lisboa|Female|2001|Very High|2020|Naasif|el-Sulaiman|6|0|68|United States of America|Vivenda|211.64|1|2|281
+PT-236|Portimão|Female||Very High|2021|Tirsa|Alvarez|4|1|12|ENGLAND||264.01|1|2|306
+PT-1069|Lisboa||2006|Medium|2018|Michelle|Peterson|1|1|41||Apartamento|312.98|1|1|334
+PT-814|Lisboa|Male|1960|High|2017|Azeema|el-Farag|6|1|26|||224.54|1|3|241
+PT-517|Faro|Female|2008|Low|2015|Uwais|el-Malek|6|0|40|England||96.37|1|1|262
+PT-631|Portimão|Male||High|2018|Shukriyya|el-Elamin|6|1|48||Quinta|156.81|1|2|173
+PT-842|||2013|Very High|2022|Diane|Kramer|2|1|41|Portugl|Apartamento|316.16|1|2|235
+PT-779|Lisboa||2002|Very High|2017|Sean|Jarolimek|2|0|10|ENGLAND|Apartamento|127.57|1|4|234
+PT-375|PORTO|Female|1975|Medium|2015|Lauryn|Scott|5|1|51|UK||213.44|1|3|297
+PT-433||Male|1920|Low|2021|Raabiya|al-Salama|6|1|66|PT|Apartamento|324.18|1|2|286
+PT-996|Lisboa||2015|High|2016|Coral|Beltran-Gomez|4|1|43|Pt||134.96|1|1|246
+PT-1398|Lisboa||2006|High|2023|Cochise|Yancey|1|0|34|PT|Quinta|248.13|1|30|230
+PT-1369|Lisboa|Male|2014|Medium|2016|Hudson|Sassolino|5|0|29|Prt|Vivenda|338.02|1|2|249
+PT-1040||Female|1996||2023|Ghaalib|al-Ghazi|6|0|40|Portugl|Apartamento|90.12|1|1|274
+PT-34|Lisboa|Female|1960|Very High|2023|Regina|Goode|1|1|49|PT|Apartamento|294.32|1|2|227
+PT-1351||Female|2001|High|2018|Ryan|Garcia|1|0|25|Portugl|Vivenda|245.94|1|2|281
+PT-625|Porto|Female||Perfect|2018|Paul|Blackmore|1|0|49|EUA|Vivenda|97.4|1|4|222
+PT-1253|Portimão||2007||2019|Jasmine|Trinh|2|1|19||Quinta|305.4|1|3|291
+PT-1014|Porto|Female|1975|High|2017|John|Luong|2|0|40|England||93.4|1|3|260
+PT-39|Porto|||High|2022|Rose|Tindle|1|1|54|Prt|Vivenda|246.08|1|4|223
+PT-508|||1960|Perfect|2022|Torrey|Turner|3|0|64|Portugal|Vivenda|232.72|1|4|252
+PT-226|Lisboa||2002||2016|John|Stateler|5|0|60||Vivenda|115.38|1|1|246
+PT-201|Porto|Male|2007|High|2018|Taahir|el-Salah|6|0|69|United States of America|Vivenda|272.49|1|2|201
+PT-295|Portimão|Female|1920|Low|2018|Alfred|Taylor|1|0|53|United States of America|Apartamento|260.54|1|2|289
+PT-566|Faro||2001|Low|2022|Kirstin|Fulton|5|1|37|Portugal|Apartamento|239.73|1|2|259
+PT-1230|Portimão|Female||Low|2020|Dania|Ramirez|4|1|79|Portugal|Vivenda|322.82|1|2|253
+PT-1046|Lagos|Female|2002|Perfect|2017|Taylor|Madison|3|1|55|Portugal||335.23|1|1|248
+PT-920|Porto|Male|1997|High|2020|Anthony|Armbruster|3|0|42|United States of America|Vivenda|94.74|1|2|216
+PT-516|||2013|High|2019|Laparis|Lawson|3|1|41|Pt|Quinta|348.83|1|2|271
+PT-776|Portimão|Male|2002|High|2023|Howard|Gleitz|1|0|65||Apartamento|105.85|1|3|248
+PT-1068|Lx||1920|Low|2021|Amashell|Gonzalez|4|1|8|USA|Quinta|292.38|1|3|222
+PT-1135|Lisboa|Male||Low|2017|Samuel|Demers|5|0|41|ENGLAND|Apartamento|125.29|1|2|207
+PT-813|Coimbra|Female|1997|Very High|2020|Keliq|Rice|3|0|33|Portugal|Vivenda|255.17|1|2|216
+PT-944||Female||Perfect|2021|Avery|Ahmed|3|0|32|Pt||265.5|1|3|255
+PT-210|Porto|Male|1920|High|2018|Mahdi|al-Rashid|6|0|29|Portugal|Apartamento|112.77|1|1|250
+PT-1116||Male|2015|Medium|2021|Cheyenne|Williams|1|1|34|UK|Apartamento|288.1|1|4|304
+PT-419|Coimbra|Female|2003||2020|Raafida|al-Baccus|6|1|49|England|Apartamento|221.26|1|4|224
+PT-957|Lagos||1980||2019|Will|Douglas|1|0|50|UK|Apartamento|295.38|1|3|226
+PT-456|Lisboa|Female|2002|High|2021|Caitlin|Quintana|4|1|51|England|Apartamento|289.63|1|3|260
+PT-1332|LISBOA||2015|High|2022|Edwell|Cargill|3|0|60||Vivenda|292.17|1|2|288
+PT-1321|Portimão|Male|2004|High|2022|Abdullah|el-Shehadeh|6|0|70|Prt|Vivenda|117.9|1|4|211
+PT-451|PORTO||1980||2015|Geraldine|Stockham|5|1|34|EUA|Quinta|281.49|1|4|224
+PT-885|LISBOA||1997|Low|2023|Michael|Pensoneau|1|0|66|England|Vivenda|333.73|1|3|275
+PT-910|Lisboa|Female||High|2015|Phoebe|Bui|2|1|58|England|Apartamento|332.93|1|2|302
+PT-321|Lisboa|Male|1900||2017|Celida|Fraire-Vasquez|4|1|43|ENGLAND|Quinta|262.28|1|2|228
+PT-65|||1950||2016|Cierra|Wedgeworth|3|1|57|United States of America|Quinta|314.79|1|3|191
+PT-844|Lisboa|Female||High|2017|Carley|Fox|5|1|9|Pt|Apartamento|343.52|1|3|284
+PT-46|Faro||1998|High|2017|Caitlyn|Lawrence|5|1|54|Portugal|Apartamento|132.25|1|4|294
+PT-1355|Lisboa|Female|2012||2015|Zuriel|Walker|4|0|15|England|Apartamento|166.3|1|4|274
+PT-1057|Lisboa||2015|Perfect|2019|Amjad|al-Ebrahim|6|0|50|Pt|Quinta|176.66|1|4|260
+PT-863|Faro||1950||2023|Logan|Macrae|5|0|41|||241.88|1|3|235
+PT-338|Porto|||High|2022|Michaela|Boyd|3|1|18|Portugal|Vivenda|347.57|1|3|250
+PT-1077|Lisboa||||2022|Josiah|Wong|2|0|58|EUA|Apartamento|306.33|1|1|246
+PT-93|Lagos||2015|High|2019|Lutfiyya|el-Naim|6|1|52|UK|Quinta|122.07|1|2|232
+PT-1016|Portimão|Female|2005||2015|Danny|Milasincic|1|0|24|PT|Quinta|132|1|2|269
+PT-772|Portimão||2002||2015|Tana|Swango|5|1|44|United States of America|Vivenda|123.08|1|2|245
+PT-1128|Lisboa|Male|1995|High|2023|Charles|Kirgis|2|0|60|Prt||326.74|1|3|291
+PT-282|PORTO||2015|High|2017|Aasiya|al-Rahim|6|1|47|ENGLAND|Apartamento|239.15|1|2|245
+PT-59|Portimão|Female|2005|High|2022|Jesus|Miramontes|4|0|18|UK|Apartamento|299.97|1|3|281
+PT-1256|Faro||2003|Very High|2020|Nichole|Dubus|1|1|40|UK|Apartamento|286.33|1|3|235
+PT-269|Porto||2005|High|2018|Nickolas|Carroll|1|0|27|United States of America|Quinta|302|1|30|257
+PT-239|Lisboa|Male|||2017|Ivan|Soto|4|0|48|Portugl|Vivenda|173.6|1|4|234
+PT-40||Female|2003|High|2021|Lorrin|Kabotie|1|1|55||Apartamento|259.24|1|2|240
+PT-855|Lisboa|||High|2020|Kevin|Lee|2|0|48|USA|Vivenda|158.31|1|3|238
+PT-387|Lisboa|Female|2004|Low|2023|Maisoon|el-Syed|6|0|46|United States of America|Apartamento|338.73|1|2|220
+PT-558||Female|2003|Very High|2019|Qais|el-Allee|6|0|45||Quinta|134.04|1|2|226
+PT-626|Lagos|Female|2000|Very High|2022|Mequila|Bol|1|1|31|ENGLAND|Vivenda|183.8|1|2|259
+PT-1358|Faro|Female|1995|Low|2017|Makayla|Armstrong|3|1|55|UK|Vivenda|272.71|1|30|275
+PT-457|Lisboa|Female||High|2020|Kaylie|Hunt|1|1|64|USA|Vivenda|115.76|1|3|291
+PT-898|Porto|Female|2005|Low|2022|Mahdeeya|el-Azzam|6|1|58|Portugal|Apartamento|213.14|1|4|224
+PT-220|Lx|Female|2014||2022|Saje|Ament|2|1|55|England|Vivenda|211.36|1|2|187
+PT-176||Female|1920|Low|2018|Donovan|Garman|1|0|75|UK|Quinta|228.85|1|1|281
+PT-959|Lisboa||1950||2021|Derrel|Essogho|3|0|61|Portugl|Vivenda|342.78|1|3|163
+PT-1094|Lx|Male|1996|Medium|2022|Cheyenne|Bell|1|1|58||Quinta|133.65|1|2|259
+PT-857|Lagos|Female|2004|High|2017|Danielle|Heslip-Johnson|3|1|85|Prt|Apartamento|240.25|1|2|267
+PT-1140|Lisboa||2014|High|2019|Isabelle|Westfall|2|1|61|ENGLAND|Apartamento|122.62|1|4|265
+PT-1186|Lisboa|Female|2004|High|2021|Patrick|Hanson|1|0|46||Apartamento|218.24|1|2|233
+PT-1290|Lisboa||1900|Medium|2022|Marcus|Cox|3|0|58|Portugl|Apartamento|131.55|1|3|278
+PT-754|||2016|High|2021|Kala|Kline|1|1|21|England|Apartamento|267.68|1|4|262
+PT-7|Porto|Male|1980|Medium|2019|Shavonte|Shankle|3|1|12||Vivenda|291.57|1|3|266
+PT-54|LISBOA|Male|1980|Very High|2022|Daniel|Perez-Castaneda|4|0|52|EUA|Apartamento|301.37|1|2|267
+PT-603|Lagos||2001|High|2018|Taahir|el-Mina|6|0|81||Vivenda|314.54|1|30|247
+PT-1221|Lx|Female|1995|Perfect|2020|Abigail|Robinson|5|1|64|Prt|Vivenda|166.86|1|4|261
+PT-551|Porto|Female||High|2021|Carlos|Reichmann|4|0|50|Prt||236.09|1|4|227
+PT-812|||2015|High|2021|Bassaam|el-Younes|6|0|49|Portugl||197.18|1|2|232
+PT-495|Faro|Female|1975||2016|Lorena|Garcia|4|1|64|Prt|Vivenda|167.77|1|4|258
+PT-1268||Male|2014|High|2020|Michael|Leidig|2|0|41|UK|Apartamento|186.73|1|2|244
+PT-795|Lisboa|Female|2002|Perfect|2020|Cayman|Whitfield|3|0|46|UK||348.47|1|4|254
+PT-221|Coimbra|Male|2008|High|2022|Parth|Trang|2|0|37|Prt|Apartamento|313.63|1|2|269
+PT-278|Lisboa||2014|High|2017|Leona|Fink|1|1|33||Apartamento|251.71|1|2|250
+PT-398|Lagos|Male||High|2018|Joseph|Ponce|1|0|33|Prt||107.21|1|3|263
+PT-646|Proto|Female|1997|Medium|2015|Fidda|el-Anwar|6|1|50|USA|Apartamento|211.83|1|3|171
+PT-798|Proto|Male|2008|Low|2022|Shuaib|el-Koroma|6|0|45|Pt|Apartamento|119.65|1|3|242
+PT-330|||1997|Low|2023|Sierra|Schneider|1|1|61|UK|Vivenda|94.8|1|4|240
+PT-243|PORTO||2002|Perfect|2019|Zakariyya|al-Turay|6|0|44|England|Apartamento|176.45|1|1|222
+PT-1112|Porto|Female|2017|Medium|2020|Yodit|Casillas|3|1|47|United States of America|Apartamento|119.18|1|1|226
+PT-30||Male|2003|High|2023|David|Gonzalez-Bejarano|4|0|59|UK|Vivenda|190.92|1|4|263
+PT-107|Lisboa|Female|1998|Low|2023|Braxton|Fernandez|4|0|33|Prt|Quinta|229.39|1|3|259
+PT-1087|Faro|Female|1995|High|2015|Fernando|Robertson|3|0|49|Portugl|Apartamento|240.22|1|2|250
+PT-536|Proto|Female|2005|Medium|2016|Fawz|el-Azzam|6|0|40|Portugl|Apartamento|135.93|1|3|260
+PT-444|Lisboa|Female|2008|High|2023|Aspen|Gomez|4|1|52||Apartamento|169.08|1|3|251
+PT-356|||2005|Very High|2022|Chase|Conners|3|0|39|UK|Quinta|211.18|1|2|209
+PT-50|Lisboa||1980|High|2015|Faaid|al-Salih|6|0|49|EUA|Apartamento|295.41|1|3|268
+PT-1249|PORTO||2013|High|2017|Jennifer|Futamata|2|1|53|United States of America||126.27|1|1|267
+PT-478|Lagos|Female|2007|High|2019|Trevor|Smith|5|0|50|ENGLAND|Apartamento|223.81|1|3|263
+PT-896|PORTO|Female|2006|High|2019|Lance|Foster|1|0|25|England|Vivenda|165.99|1|3|270
+PT-1282|Lisboa||1900|Medium|2016|Uriah|Carter|3|1|53|UK|Apartamento|135.53|1|3|313
+PT-1370|||2008|Medium|2021|Brianna|Badsky|1|1|47|United States of America|Apartamento|166.34|1|2|254
+PT-906|Coimbra|Female|1960|Perfect|2019|Deborah|Hammett|5|1|52|ENGLAND|Apartamento|269.8|1|3|283
+PT-28|Proto||2002|High|2023|Ummu Kulthoom|al-Hana|6|1|45||Apartamento|140.16|1|3|275
+PT-392||Female|1900||2023|Austin|Giles|5|0|42|England||113.84|1|2|234
+PT-706|Proto|Female|1980|High|2019|Dylan|Bushyhead|1|0|42|EUA|Apartamento|108.83|1|4|192
+PT-71|Coimbra|Male||High|2022|Amy|Black|2|1|55|USA||91|1|4|316
+PT-642|Portimão||1996||2016|Elijah|Chester|1|1|25|UK|Apartamento|276.13|1|3|190
+PT-1051||Female||Medium|2023|Conner|Nguyen|2|0|63|EUA|Apartamento|239.61|1|1|240
+PT-1083|Lx|Female|2008|High|2015|Jayla|Reese|3|1|60|England||144.53|1|3|238
+PT-1246|Faro|Female|2000|High|2019|Charlotte|Martin|1|1|36|Portugl|Apartamento|225.19|1|3|279
+PT-1300|Portimão|Female|1960|High|2015|Khaleel|al-Rahimi|6|0|72|PT||177.63|1|4|296
+PT-777|Portimão||||2023|Amy|Luong|2|1|22|United States of America|Vivenda|319.73|1|2|276
+PT-538|Proto||1960|High|2018|Hayden|Brown|1|0|58||Quinta|242.12|1|2|292
+PT-796|||1999||2019|Timothy|Jaramillo|4|0|40|England|Apartamento|231.92|1|4|286
+PT-1117|||1996|Perfect|2020|Stephen|Bhagat|2|0|60|Portugal|Vivenda|117.16|1|30|245
+PT-1137|Lisboa||1997|High|2019|Amanda|Espino-Luna|4|1|40|EUA|Apartamento|213.44|1|4|230
+PT-977|Lisboa||1920|High|2023|Yoonus|el-Musa|6|0|66|United States of America|Vivenda|94.65|1|1|250
+PT-1166|Lisboa||2012|Medium|2016|Shashwat|Rossi|2|0|39|Prt|Apartamento|137.97|1|30|265
+PT-1088||Female|2013|Perfect|2017|Rajaa|al-Latif|6|0|49||Apartamento|187.99|1|2|214
+PT-373|Porto|Male||High|2021|Joshua|Melstrom|5|0|47|Pt|Quinta|171.62|1|1|272
+PT-228|Portimão|Male||Perfect|2015|Thomas|Bigback|1|0|34|PT|Apartamento|313|1|1|193
+PT-310||Male|2017|Perfect|2016|Ashqar|al-Greiss|6|0|45|Portugal|Vivenda|230.01|1|3|274
+PT-483||Female|2002|High|2019|London|Mitchell|3|1|51|EUA|Apartamento|97.01|1|4|262
+PT-462|Proto||1998|High|2021|Terrence|Ballou|3|0|74||Apartamento|338.71|1|3|242
+PT-184|PORTO||1997|Medium|2022|Chelsea|Shah|2|1|40|PT|Apartamento|162.51|1|4|275
+PT-597|PORTO|Female|2015|Low|2021|Rich|Amarsaikhan|2|0|46|United States of America|Apartamento|308.63|1|2|221
+PT-874|Porto|Female|2003|Perfect|2018|Lili|Martinez-Castellanos|4|1|62|ENGLAND|Vivenda|197.36|1|2|284
+PT-573||Male|2002|High|2015|Chad|Anderson|4|0|75|PT|Quinta|128.83|1|1|243
+PT-1107|Lisboa|Female||High|2019|Lauren|Estes|1|1|47|PT|Quinta|209.45|1|2|198
+PT-835|Lisboa||1997|Low|2020|Hadeel|al-Naderi|6|1|42|ENGLAND|Apartamento|319.44|1|2|286
+PT-971|Lagos|Female|2000|High|2015|Oliver|Medina|2|0|32|PT|Vivenda|158.28|1|2|255
+PT-496|Coimbra||1999|High|2023|Corey|Harrison|5|0|57|Prt|Apartamento|151.65|1|2|219
+PT-324|||1995|High|2018|Jose|Soto Martinez|4|0|56||Apartamento|298.65|1|4|215
+PT-471|||2016|High|2018|Auriel|Romero|1|1|34|United States of America|Vivenda|276.77|1|3|235
+PT-108|Proto|Male|2003|Very High|2015|Bryanna|Rice|3|1|42||Vivenda|145.43|1|2|276
+PT-380|Lisboa|Female|1980|High|2016|Tantai|Synn|2|0|57|EUA|Vivenda|301.17|1|3|261
+PT-145||Female|1980|High|2015|Ruqayya|el-Molla|6|1|39|England|Vivenda|110.6|1|2|278
+PT-1017|Lagos||2006|High|2015|Desiree|Ellerman|1|1|39|UK|Vivenda|213.95|1|3|277
+PT-347|LISBOA||2002|Perfect|2017|Chad|Haskan|1|0|76|United States of America|Apartamento|313.14|1|2|253
+PT-901|Coimbra|||High|2019|Gerardo|Sabel|4|0|41|UK||138.78|1|1|255
+PT-24|Lagos|Female|1995|Low|2019|Danielle|Salayandia|4|1|44|Portugal||323.16|1|2|297
+PT-360|Portimão|Female|2013||2019|Gilbert|Williams|1|0|26|England|Vivenda|237.84|1|1|239
+PT-667||Female|||2018|Zufar|el-Ramadan|6|0|28|Pt||132.1|1|3|227
+PT-1278|Coimbra||2005|Medium|2016|Briana|Nellum|3|1|38|Prt|Vivenda|275.87|1|4|246
+PT-1194|Lisboa||1998|Low|2023|Cody|Sullivan|1|0|43|Portugl|Apartamento|338.7|1|3|268
+PT-742||Male|2003||2021|Andrew|Kamran|2|0|41|Pt|Apartamento|270.02|1|1|265
+PT-1133||Female|2001|Perfect|2020|Mansoor|al-Basher|6|0|51||Apartamento|173.82|1|4|256
+PT-1167||Female|2016|Medium|2019|Frank|Cain|3|0|37||Vivenda|125.65|1|2|254
+PT-1049||Female|1980|High|2017|Vanessa|Fox|4|1|37|Portugal||170.3|1|2|261
+PT-111|Faro|Male|1995||2022|Talaal|el-Mir|6|0|52|||196.98|1|4|255
+PT-728|Coimbra|Female||High|2020|Konray|Murphy|1|0|46|EUA|Apartamento|217.64|1|3|263
+PT-531|Lisboa||1999|High|2020|Nyein Nyein|Villaester|2|1|22|ENGLAND||178.99|1|3|296
+PT-1173|Porto||2004|High|2022|Erik|Peterson|5|0|55|EUA||240.02|1|2|231
+PT-61|Lisboa|Male|2000|Very High|2020|Jackson|Gunsauls|5|0|80||Vivenda|290.52|1|2|250
+PT-382|Lx|Male|2004|Low|2018|Rashaina|Harriman|1|1|53|Portugl|Apartamento|188.79|1|2|218
+PT-988|Lx||2006||2015|Qamraaa|al-Zia|6|1|27|EUA|Vivenda|314.61|1|30|266
+PT-719|Lisboa||2008|High|2023|Faai Z|el-Muhammed|6|0|51||Quinta|96.96|1|2|223
+PT-13|Lisboa|Female|2005|High|2022|Byungchan|Nandakumar|2|0|56|Portugal|Apartamento|234.01|1|1|259
+PT-170|Lisboa|Male|2015|High|2022|Naadiya|al-Sami|6|1|57|Pt|Vivenda|235.99|1|30|256
+PT-376|Porto|Female|2008||2018|Cassie|Arapahoe|1|1|30|Portugal||229.16|1|1|250
+PT-1279|Porto|Female|2013|Perfect|2021|Chager|Gist|2|0|43|Pt|Vivenda|235.47|1|1|242
+PT-477|Lisboa|Female|2008|Low|2017|Christian|Eriacho|1|0|53||Apartamento|277.86|1|3|252
+PT-726|||2015|High|2017|Brian|Zerom|3|0|37|Portugal||289.89|1|1|318
+PT-1297|Coimbra|Female|1997|Perfect|2015|Kendell|Kalamula|3|1|40|UK|Quinta|186.61|1|4|281
+PT-591|Proto|Male|2001|Very High|2016|Alex|Dilling|5|0|49||Apartamento|150.53|1|2|249
+PT-123|Lisboa|Female|2012||2020|Huda|el-Hoda|6|1|33|Portugal|Apartamento|233.79|1|3|235
+PT-1030|Faro|Female|2016|Perfect|2017|Vincent|Lester|5|0|68|Portugl|Vivenda|198.37|1|30|185
+PT-313|Faro|Female|2004|High|2017|Zita|Mccormick|5|1|34|USA||141.21|1|3|283
+PT-672|||2013|High|2017|Hasnaa|el-Kaba|6|1|28|Portugal|Apartamento|106.68|1|2|214
+PT-279||Male|2001|High|2015|Jason|Alvarado-Ordonez|4|0|27|Portugal|Vivenda|298.63|1|4|250
+PT-622|Lisboa|Female|2015|High|2023|Breanna-Marie|Lampe|2|1|28|Portugal|Quinta|322.43|1|4|262
+PT-1130|Porto||1996|High|2020|Bryson|Morris|3|0|40|Portugl||343.18|2|1|313
+PT-455|Faro|Male|1997|Low|2023|John|Worley|1|0|16|ENGLAND|Apartamento|158.92|2|4|296
+PT-773|Faro|Female|2006|High|2018|Kayjanet|Perez|3|1|59|UK|Apartamento|213.24|2|4|327
+PT-36|Lagos|Male|2007|High|2021|Matthew|Amos|1|0|38|Portugal|Vivenda|301.49|2|1|377
+PT-871|PORTO|Male|1998|High|2017|Ian|Lewis|5|0|44|Prt|Apartamento|194.63|2|2|321
+PT-810|Lisboa|Male|2013|High|2015|Sean|Garofalo|5|0|60|England|Vivenda|255.72|2|2|314
+PT-881|Lagos||2015|High|2020|Trevor|Siriwalothakul|2|0|44|Portugal||112.11|2|2|374
+PT-297|Coimbra|Male|2007||2023|Adhraaa|el-Attar|6|1|23||Vivenda|196.98|2|1|329
+PT-224|||2008|High|2015|Erica|Loase|5|1|34|England|Apartamento|257.12|2|2|304
+PT-1026|Coimbra|Female|1999||2016|Daniel|Silva|4|0|29|United States of America|Vivenda|337.16|2|1|312
+PT-645|Proto|Female|2002|High|2020|Breanna|Little|3|1|41|Pt|Vivenda|170.04|2|3|323
+PT-702||Female||High|2022|Domenik|Mayes|3|0|41|ENGLAND|Apartamento|336.88|2|1|292
+PT-567|Proto||2008|High|2017|Adam|Klocker|5|0|53|United States of America||108.41|2|3|356
+PT-422|Porto|||High|2020|Tyler|Danner|1|0|36|USA||274.35|2|4|352
+PT-505|Lisboa|Male|1975|Medium|2017|Masooma|Westphal|2|1|49|UK|Apartamento|332.75|2|2|321
+PT-1262|Coimbra|Female|2006|Low|2022|Taylor|Scott|5|0|28|ENGLAND|Apartamento|311.64|2|2|343
+PT-431||Female||High|2023|Killian|Sung|2|0|28|PT|Vivenda|100.78|2|2|394
+PT-363|Lx|Female|1998||2020|Adrian|Ruiz|4|0|61|PT|Vivenda|348.49|2|1|309
+PT-489|Porto||1996|Medium|2019|Waleeda|al-Saleem|6|1|43|||232.67|2|2|326
+PT-878|Porto||1980|High|2022|Jasmine|Happ|3|1|42|Portugal|Apartamento|226.22|2|3|320
+PT-435|Portimão|Male|1900|High|2018|Tony|Winklmann|2|0|70|Prt|Apartamento|328.97|2|3|308
+PT-1364|Porto|Male|2013|High|2020|Amal|al-Bina|6|1|39|PT|Quinta|123.15|2|4|342
+PT-390|||1920|High|2020|Anna|Lewis|1|1|53|Portugal||96.89|2|4|367
+PT-554|Portimão|Male|1997|Perfect|2015|John Daniel|Rabbipal|2|0|30|||184.03|2|4|342
+PT-369|Faro|Female|1960|High|2015|Charles|Anderstrom|1|0|-1|PT||219.04|2|3|430
+PT-195|Proto|Female||High|2022|Jason|Shahid|2|0|64|Portugl||292.1|2|2|299
+PT-650|Lisboa|Male|2015|High|2022|Tristany|Iron Cloud-Gresko|1|1|45|Portugal|Quinta|253.19|2|2|304
+PT-746|Coimbra||1980|High|2019|Waail|al-Mansour|6|0|57|EUA|Vivenda|267.95|2|3|401
+PT-932||Female|2007||2018|Samuel|Aaron|5|0|41|Portugl|Vivenda|220.87|2|30|330
+PT-1199|Lisboa||1950|High|2017|Chad|Younger|5|0|35|England|Vivenda|313.8|2|30|391
+PT-312||||High|2018|Tashan|Brandon|3|0|62|EUA|Vivenda|320.55|2|4|371
+PT-983|Coimbra|Female|2000||2022|Zaidaan|al-Dia|6|0|41|EUA|Apartamento|252.39|2|4|305
+PT-308|PORTO||1975|High|2021|Melanie|Bell|3|1|40|England|Quinta|347.46|2|1|326
+PT-143|Lisboa||2006|Very High|2021|Jordan|Hodges|3|1|39|Pt|Quinta|347.38|2|2|317
+PT-1357|Lisboa|Male|2002|High|2017|Shaamikh|el-Salama|6|0|41|United States of America||261.87|2|4|328
+PT-794|Lisboa|Female||High|2020|Dale|Romero|4|0|67|Portugal|Apartamento|238.56|2|2|394
+PT-967|PORTO||1920|Low|2021|Laphonso|Rodriguez Trigueros|4|0|45||Apartamento|105.54|2|3|338
+PT-514|Lisboa|Female|2013|Very High|2015|Nhien|Intavong|2|0|27|Portugal||165.07|2|2|416
+PT-73|Faro||2008||2021|Cameron|Samuel|3|0|61||Vivenda|118.55|2|3|387
+PT-446||Female|1950|High|2017|Hamaama|al-Bangura|6|1|35|EUA|Vivenda|187.73|2|4|317
+PT-934|LISBOA|Male|2003||2018|Christopher|Lumba|2|0|61|Portugal|Apartamento|310.71|2|30|394
+PT-52|Lisboa|Female|2003|Medium|2020|Jameela|al-Emami|6|1|72|ENGLAND||313.73|2|2|403
+PT-1111||Female|2003|Low|2023|Deon|Williams|3|0|55|Portugl|Apartamento|265.55|2|2|280
+PT-1231|Portimão||1950|High|2017|Austin|Turner|2|0|46|ENGLAND|Quinta|333.18|2|2|331
+PT-1105|LISBOA|Female|2012|Medium|2017|Zarqaa|el-Bari|6|1|41|PT|Quinta|105.6|2|2|365
+PT-1252|Faro|Female|1960|Low|2016|Alexis|Booth|3|1|18|USA|Apartamento|205.94|2|4|262
+PT-1251|PORTO|Male|2001|Perfect|2020|Eric|Jordan|3|0|60|England|Quinta|166.17|2|30|377
+PT-1280|Lisboa|Male|2016|High|2020|Carl|Herrington|1|0|33||Vivenda|226.93|2|4|338
+PT-1058|Faro|Female|2012||2017|Raquel|Ramirez|4|1|23|ENGLAND|Quinta|98.87|2|1|353
+PT-33|Lisboa|Female|2013||2015|Krysta|Walborn|1|1|47|United States of America|Apartamento|103.67|2|2|352
+PT-10||Male|2014|Low|2016|Cody|Urland|5|0|44|England||339.37|2|4|356
+PT-598||Female|1996||2017|Ivan|Heguy|4|0|73|UK|Quinta|197.31|2|4|333
+PT-302|Lisboa||2006|Low|2019|Nicholas|Garcia|4|0|66||Vivenda|342.92|2|3|348
+PT-789|Coimbra|Female|1920|High|2018|Daveion|Morton|3|0|58||Quinta|247.42|2|30|297
+PT-492|Portimão|Male|1980|High|2020|Thomas|Patrick|4|0|56|USA|Quinta|160.65|2|2|339
+PT-723|Lisboa||1975|Perfect|2017|Muhaajir|al-Adel|6|0|23|UK|Apartamento|235.55|2|2|344
+PT-1006||Female|2012|Medium|2015|Trent|Brackus|5|0|79|EUA|Quinta|329.36|2|4|321
+PT-721|Faro|Male|2004||2022|Justin|Kim|2|0|43|United States of America|Quinta|153.07|2|3|298
+PT-1158|Proto|Female|2004|Medium|2018|Deirdre|Samoy|1|1|29||Vivenda|161.79|2|2|390
+PT-958|Lisboa|Male|2014|High|2019|Auriel|Cantrell|1|1|54|Prt|Quinta|341.78|2|3|370
+PT-960|Lx||2006||2018|Amjad|el-Salam|6|0|54||Apartamento|265.2|2|30|342
+PT-1060|Lx|Male|2003|High|2015|Cynthia|Her|2|1|77|USA|Vivenda|128.29|2|4|398
+PT-1042|Lagos||||2022|Nakheel|al-Habibi|6|1|41|UK||290.07|2|3|311
+PT-180|Lisboa||2005|Perfect|2020|Amber|Salvatore|5|1|41|United States of America|Apartamento|278.57|2|3|320
+PT-110|Lisboa|Female|2012|High|2016|Abdul Jabbaar|al-Huda|6|0|39|Portugl|Apartamento|341.22|2|30|249
+PT-326|Porto|Female|2001|Medium|2023|Tenzin|Rohilla|2|1|73|UK|Vivenda|254.81|2|2|354
+PT-539|Porto|||High|2022|Elfadly|Talain|2|0|40|United States of America|Quinta|280.76|2|30|375
+PT-1316|Proto|Female||High|2016|Donald|Apparasu|2|0|39|UK|Vivenda|160.28|2|1|360
+PT-381|Portimão|Male|1998|Medium|2016|Margaret|Patterson|5|1|66|UK|Quinta|113.96|2|4|352
+PT-1075|Porto|Male|2001|High|2017|Marc|Solomon|5|0|26|PT||217.75|2|2|378
+PT-350||Female||Perfect|2016|Preston|Shoemaker|5|0|38|Portugal|Vivenda|297.91|2|2|362
+PT-870|Lisboa||1999||2021|Seth-Mitchell|Du|2|0|43|Portugal|Apartamento|238.84|2|2|372
+PT-765|Porto||2016||2017|Wyatt|Ironshield|1|0|54|Pt|Vivenda|330.23|2|2|388
+PT-639|Lisboa||2013|Perfect|2017|Dorian|Martinez|3|0|44|United States of America|Vivenda|159.18|2|1|375
+PT-951|Porto||1960|High|2017|Cinthya|Mesa|4|1|43|Portugal|Apartamento|193.89|2|2|365
+PT-437|Lisboa|Male|1998|High|2018|Wajdiyya|el-Hashemi|6|1|51|Pt|Vivenda|246.04|2|4|340
+PT-307|Lisboa|Female|2006||2019|Garrett|Quick Bear|1|0|34|USA|Apartamento|340.53|2|3|302
+PT-918|Coimbra|Female|2012|Medium|2019|Toni|Qualls|3|1|56|ENGLAND|Apartamento|196.8|2|1|355
+PT-332|Lisboa||2003||2021|Jennyfer|Seidel|4|1|40|ENGLAND|Vivenda|116.43|2|2|250
+PT-171|||2004|High|2015|Abdul Jabbaar|al-Din|6|0|30|Portugl|Quinta|177.03|2|2|296
+PT-75||Female|1920|High|2015|Rawda|al-Rahman|6|1|49|ENGLAND|Quinta|104.92|2|3|407
+PT-601|Porto|Male|2008|Very High|2019|Phillip|Banks|1|0|45|ENGLAND|Vivenda|189|2|3|340
+PT-1015|Lisboa|Male|1999||2022|Alaina|Chukkapalli|2|1|51|UK|Quinta|268.83|2|3|330
+PT-1023|Portimão|Female|||2017|Angel|Griego|4|1|30|Portugl|Apartamento|322.29|2|3|358
+PT-76|Coimbra|||High|2020|Steven|Evangelista|1|0|61|England||157.32|2|4|329
+PT-268||Male|1920|Perfect|2016|Monica|Nguyen|2|1|56|Portugal|Apartamento|225.28|2|4|412
+PT-157|Coimbra|Female||High|2018|Marcos|Parra|4|0|32|EUA|Quinta|325.38|2|2|396
+PT-916||Male|1900||2018|Nadeera|el-Bey|6|1|61|Portugl|Quinta|330.26|2|3|349
+PT-1212|Porto||1980|Medium|2022|Odalis|Hernandez|4|1|49|UK|Apartamento|243.05|2|3|276
+PT-325||Male|2015|Medium|2022|Molly|Watkins|5|1|24|Portugal|Vivenda|192.89|2|3|343
+PT-197||Male||Perfect|2021|Donald|Carpenter|5|0|47|Pt|Vivenda|243.69|2|2|390
+PT-181|Lisboa|Female|1900|Very High|2018|Raafi|el-Madani|6|0|36||Quinta|220.3|2|4|382
+PT-1029|PORTO|Female|1900|High|2016|Cornelius|Palma|1|0|12|Pt|Vivenda|125.37|2|30|393
+PT-179|Coimbra|Female||Medium|2023|Wadha|el-Sultana|6|1|38|Portugal||202.12|2|2|349
+PT-693|Lisboa|Female|2007|Low|2020|Alejandro|Atencio-Romero|4|0|60|Portugal|Vivenda|143.58|2|4|287
+PT-1269|Proto|Female|2007||2018|Naseeba|el-Salem|6|1|56|United States of America|Apartamento|175.77|2|4|365
+PT-47|Faro||1900|Low|2015|Erik|Sullivan|5|0|22||Quinta|273.73|2|2|351
+PT-602||Female|2012||2016|Hye In|Otwell|2|1|42|ENGLAND|Quinta|328.19|2|3|342
+PT-515|Lisboa||1960|High|2017|Maria|Gonzalez|4|1|38|Prt|Vivenda|250.05|2|3|360
+PT-378|Lisboa|Female|2015|Very High|2022|Ghassaan|el-Jama|6|0|51|Portugl|Vivenda|338.09|2|2|364
+PT-1326|Coimbra|Female|2004|High|2015|Andres|Gallegos|4|0|37|UK|Apartamento|101.53|2|3|320
+PT-418|Coimbra|Male|2002||2016|Joshua|Burkepile|4|0|48|Portugal|Vivenda|90.56|2|3|343
+PT-926|PORTO|Female||High|2022|Stephani|Crane|2|1|28|Prt|Vivenda|253.83|2|3|382
+PT-35|Lisboa|Female||Very High|2019|William|Burciaga Flores|4|0|61||Quinta|315.42|2|3|303
+PT-1084|Portimão|||High|2019|Fikra|el-Sharifi|6|1|14||Vivenda|93.92|2|3|373
+PT-1162|Coimbra|Male|1999|High|2016|Andy|Naqica|2|0|48|Portugal|Apartamento|313.14|2|4|304
+PT-177|Lisboa|Female|2002|Perfect|2021|Maria|West|4|1|46|Portugal||204.71|2|2|371
+PT-527|Coimbra|||High|2018|Ricardo|Brena|4|0|61|EUA|Quinta|305.5|2|4|364
+PT-961|Porto|Male|1980|High|2021|Tristen|Pierson|5|1|52|Portugl||331.82|2|2|339
+PT-1070|Lisboa||2001||2020|Luis|Bojorquez Coss|4|0|58|EUA|Quinta|144.74|2|2|313
+PT-659||Male||Perfect|2015|Vanna|Marlow|2|1|31|United States of America|Quinta|257.34|2|3|335
+PT-714|Proto||1950|High|2021|Chloe|Deloach|3|1|46|USA|Apartamento|283.54|2|3|211
+PT-875||Female|2005|High|2022|Huy|Caballero|2|0|20||Vivenda|326.55|2|3|311
+PT-1106|LISBOA|Male|1995|Very High|2021|Aiman|al-Mattar|6|0|24||Apartamento|326.55|2|2|320
+PT-449|Lisboa|Female||High|2023|Shaamil|al-Beydoun|6|0|30|EUA|Quinta|245.61|2|2|387
+PT-248|Lisboa||1980|High|2018|Shaheera|al-Saleh|6|1|61|Pt|Apartamento|216.07|2|4|297
+PT-943|Faro|Male|2007||2015|Darion|Peralta|4|0|42|PT|Apartamento|229.18|2|3|326
+PT-1333|Porto||1998|High|2020|Adrian|Enos|4|0|65|ENGLAND|Vivenda|296.05|2|30|341
+PT-271|Portimão|Female|2006|High|2015|Dewyone|Martin|3|0|45|USA|Apartamento|224.97|2|4|242
+PT-1365||Female|1900|High|2018|Amanda|Leung|2|1|34|EUA|Vivenda|107.28|2|4|359
+PT-946|Coimbra|||High|2020|Barry|Brown|3|0|17|UK|Apartamento|222.95|2|4|323
+PT-237|Porto|Male|1920|Medium|2015|Kameela|al-Mohammad|6|1|62|Portugal|Vivenda|308.48|2|2|390
+PT-575|Coimbra||1998|Medium|2018|Malik|Gilbert|3|0|53|Portugal|Vivenda|294.26|2|2|361
+PT-1043|Lx|Female||Perfect|2018|Alyssa|Chavez|4|1|81|UK|Apartamento|101.89|2|4|317
+PT-1347|Lisboa|Male|1975|High|2022|Roberto|Thompson|4|0|26||Vivenda|319.66|2|4|367
+PT-534||Male|2005|Medium|2019|Melanie|Stigall|5|1|74||Apartamento|260.56|2|30|357
+PT-255|Lisboa|Female|1998|High|2020|Sandra|Cruz|2|1|36||Apartamento|282.13|2|2|332
+PT-512|Lisboa|||High|2019|Shaafi|al-Salama|6|0|65|Portugl|Quinta|253.03|2|4|370
+PT-1379|Coimbra||2016|High|2022|Ae|Jhaveri|2|1|62|UK|Vivenda|255.05|2|4|344
+PT-475|Faro|Female|1980|High|2017|Karina|Vega|4|1|60||Quinta|229.11|2|3|328
+PT-1394|Porto|Male|2004|High|2022|Maeselle|Murphy|1|1|51|Pt||214.19|2|2|322
+PT-246|Lagos||2003|Medium|2016|Kenaya|Beyale|1|1|29|United States of America|Quinta|102.19|2|2|341
+PT-227|Lisboa|Female|2008|High|2022|James|Warwick|5|0|38|Portugal|Apartamento|181.95|2|3|288
+PT-1065|Proto||1920|High|2016|Jacob|Medina|4|0|60|ENGLAND|Apartamento|286.61|2|4|438
+PT-1392|Lisboa||2005|High|2019|Jazmine|Kassahun|3|1|42|EUA|Apartamento|289.04|2|1|321
+PT-1172|Porto||1998|High|2022|Shane|Taylor|3|0|26|USA|Apartamento|237.76|2|4|353
+PT-856|Portimão|Male|2007|High|2023|Frida|Lucero|4|1|51|UK||190.72|2|2|330
+PT-1020|Porto|Female|1975|High|2016|Tristan|Cox|5|0|49|PT|Apartamento|214.94|2|4|348
+PT-42|Portimão||2015|Very High|2015|Khaalid|al-Younes|6|0|49||Quinta|229.7|2|4|369
+PT-102|Lagos|Female|2005|Very High|2016|Cassandra|Smith|5|1|51|Portugl|Vivenda|303.19|2|1|326
+PT-748|Lisboa|Male|2013|Low|2017|Himma|el-Samaan|6|1|51|Portugl|Apartamento|263.51|2|3|403
+PT-222|Lisboa|Female|2015|High|2016|Raavyn|Wright|3|1|70|England|Quinta|209.13|2|4|307
+PT-218|Lisboa||2017|High|2019|Amal|el-Naderi|6|1|41|PT|Apartamento|232.54|2|4|306
+PT-632||Male||Low|2015|Brandon|Chavez|4|0|15|Pt|Apartamento|137.43|2|3|337
+PT-1163|Coimbra|Male||High|2018|Jasmin|Hines|3|1|58|USA||277.02|2|2|356
+PT-834|Proto|Female|2008|High|2016|Xavier|Martinez|4|0|10|Portugal|Quinta|282.5|2|2|348
+PT-1389|Lx|Female|2008|Very High|2020|Ngirchoeang|Kim|2|0|51|||163.75|2|3|324
+PT-1362|Porto|||High|2022|Gianny|Nocon|3|1|37|EUA|Vivenda|283.92|2|2|349
+PT-687|Lisboa|Male|2002|High|2023|Jalaal|el-Yacoub|6|0|57|ENGLAND|Vivenda|326.87|2|3|360
+PT-942|LISBOA||1995|Very High|2019|David|Raab|2|0|41||Vivenda|179.4|2|2|308
+PT-318|Lisboa||2005|Medium|2019|Paul|Lee|2|0|57|United States of America|Quinta|306.62|2|1|376
+PT-1067|||1997|Medium|2019|Brian|Arvelo|2|0|54|PT|Quinta|165.24|2|2|321
+PT-11|Lagos||2003||2022|Ashley|Barnes|1|1|34|England|Vivenda|285.29|2|2|330
+PT-612|Portimão||1960||2021|Keenan|Lujan|3|0|44|England|Apartamento|315.8|2|3|321
+PT-589||Female|2005|High|2021|Brenda|Heredia|4|1|47|EUA|Apartamento|200.36|2|4|273
+PT-711|LISBOA|Female|1995|High|2016|Ria|Hosseini|2|1|45|ENGLAND|Apartamento|264.07|2|30|358
+PT-989|PORTO||2007|High|2021|Kevin|Tucson|1|0|32|USA|Apartamento|224.07|2|3|372
+PT-872|Porto|Male|1997||2015|Victor|Holliday|4|0|19|Prt|Apartamento|133.77|2|3|361
+PT-439|Lisboa|||Medium|2023|Josie|Xue|2|1|42||Vivenda|213.92|2|3|277
+PT-722|Porto|Female|1920||2015|Erin|Sanchez|4|1|66||Apartamento|307.12|2|3|347
+PT-43||Female|2015||2020|Camille|Carey|3|1|42|United States of America|Apartamento|315.84|2|3|359
+PT-196||Female|1960|High|2020|Najaat|al-Mousa|6|1|25||Apartamento|295.86|2|1|316
+PT-1397|||2004|High|2015|Mumina|el-Asmar|6|1|22||Apartamento|284.5|2|1|309
+PT-421||Male||High|2021|Rebecca|Verde|1|1|37|Portugal||184.86|2|1|338
+PT-820|PORTO|Male|1950|High|2020|Michael|Mohamed|3|0|41|ENGLAND|Apartamento|339.62|2|2|272
+PT-755|Porto|Female|1980|High|2019|Kristine|Delacruz-Moreno|4|1|50|ENGLAND|Vivenda|294.46|2|4|321
+PT-323|Lx||1950|High|2019|Johan|Godoy|4|0|44|Prt|Apartamento|280.48|2|3|379
+PT-1018|Faro||1960|Low|2022|Nathaniel|Kim|2|0|53|Portugl|Vivenda|194.56|2|3|352
+PT-299|Coimbra||1960|High|2022|Hyun-Ah|Lee|2|1|33|England|Quinta|134.99|2|2|316
+PT-887|PORTO|Female|1975|High|2015|Kathrine Lou|Petago|5|1|63|Pt|Quinta|187.03|2|2|428
+PT-800|Portimão|Female|2016|Perfect|2016|Xitlalic|Maldonado Arrey|4|1|55|ENGLAND|Quinta|341.16|2|2|387
+PT-280|Proto||1960|High|2022|Alexandra|Valencia|4|1|42|UK|Vivenda|101.49|2|3|351
+PT-1257|LISBOA|Male|1998|High|2023|Ishaaq|el-Shakir|6|0|48|Pt|Vivenda|321.69|2|2|355
+PT-1327|Lisboa||2008|Medium|2022|John|Pham|2|0|59|USA|Apartamento|121.05|2|3|360
+PT-620|||2005|Low|2023|Lillian|Williams|5|1|30|UK||259.43|2|3|380
+PT-833|Lisboa|Male||Low|2018|Tawheeda|el-Baksh|6|1|26|USA|Apartamento|112.9|2|3|404
+PT-1165|Proto||1975|High|2018|Sanna|Sater|2|1|40|ENGLAND|Apartamento|119.71|2|3|296
+PT-545||||Very High|2022|Saige|Wing|1|0|55|EUA|Apartamento|246.03|2|4|442
+PT-1074|Lisboa|Male|2014|Very High|2015|Mushtaaqa|el-Saeed|6|1|49|Prt|Apartamento|133.76|2|4|416
+PT-744|LISBOA||2004|Low|2016|Nicole|Bell|3|1|61|Portugl|Vivenda|313.96|2|3|377
+PT-41|PORTO||1997|Medium|2018|Adrian|Matheson|1|0|22|EUA|Quinta|282.19|2|3|323
+PT-819|||2006|High|2016|Tamanna|al-Gad|6|1|56|ENGLAND|Apartamento|305.91|2|4|377
+PT-63|Faro|Female|||2021|Sara|Confer|1|1|35|Portugal|Vivenda|289.06|2|4|311
+PT-273||Male|1960|High|2019|Deisey|Le|2|1|62|Portugal|Quinta|264.68|2|4|304
+PT-683|Porto|Female|2006|High|2015|Kathryn|Mathys|2|1|44|Prt|Apartamento|119.73|2|2|354
+PT-688|Lisboa|Female|1975|High|2015|Andrew|Kol|2|0|52|EUA|Quinta|347.75|2|3|367
+PT-1010|LISBOA||2016|High|2020|Russell|Porambo|1|0|37|ENGLAND|Apartamento|113.38|2|3|237
+PT-1255|PORTO|Female|2005|High|2019|Zaidaan|al-Jamail|6|0|77|ENGLAND|Quinta|211.48|2|2|404
+PT-1155|Lx|Male|2005|High|2018|Rick|Nguyen|2|0|30|Portugal|Vivenda|185.22|2|4|311
+PT-929|Lisboa|Female|2016|Medium|2018|Marcus|Wiley|3|0|46|Portugal|Vivenda|334.16|2|2|292
+PT-428|Portimão||1975|High|2018|Eloyita|Mitchell|1|1|51|UK||228.17|2|4|341
+PT-438|LISBOA||2004|High|2018|Justin|Chen|2|0|45|Portugal|Apartamento|95.14|2|2|353
+PT-696|Lagos|Male|1975|High|2018|Delaney|Rivera|4|1|58|United States of America|Quinta|259.62|2|30|318
+PT-890|Proto|Male|2004|Medium|2016|Judith|Olivares|4|1|16|USA|Vivenda|185.98|2|4|411
+PT-1174|LISBOA||2016||2020|Dayne|Woodrow|5|0|44|England|Quinta|243.55|2|2|311
+PT-1047|LISBOA|Male|1980|Medium|2020|Jazmin|Jaramillo|4|1|49|Prt||105.68|2|2|379
+PT-781||Female|2004|High|2015|Archibald|Long|1|0|55|ENGLAND|Vivenda|220.23|2|4|340
+PT-66||Female|2006||2023|Isaiah|Hammond|3|0|47|Portugl|Vivenda|212.06|2|3|434
+PT-850|||2000|Medium|2017|Gabrielle|Williams|5|1|57|PT|Quinta|211.18|2|4|392
+PT-1335|Lisboa||2012|Low|2017|Tiffany|Kearns|1|1|43|||109.86|2|4|390
+PT-1024|Lisboa|Female||High|2017|Hawraa|el-Arif|6|1|51|United States of America|Quinta|285.24|2|1|329
+PT-571|||1999|Low|2021|Emilio|Cordova|1|0|20|Pt|Vivenda|240.29|2|2|349
+PT-254|LISBOA|Male|2003|Perfect|2020|Trevor|Smith|5|0|33|England||154.38|2|4|325
+PT-365|LISBOA|Male|2016|High|2023|Xala|Khan|2|1|71|Portugal|Apartamento|220.39|2|1|299
+PT-828|Lisboa|Female|1950||2023|Jayme|Bechtold|5|1|57|Portugl|Apartamento|185.72|2|4|331
+PT-668|Coimbra||2003|Medium|2017|Brittany|N'Dianor|3|1|45|Portugal||320.97|2|2|362
+PT-341|Faro||2001|High|2022|Taylor|Bartell|1|1|59|Portugal|Apartamento|187.77|2|2|380
+PT-830|PORTO||1980|Low|2020|Michael|Sihavong|2|0|35|Prt||347.16|2|2|331
+PT-327|Lx||1960|High|2018|Micayla|Caballero Garcia|4|1|37|Pt|Apartamento|269.27|2|3|364
+PT-529|Lx|Male||Medium|2023|Sarah|Fermin|2|1|63|UK|Apartamento|185.63|2|2|313
+PT-1373|Lx||2016||2022|Courtney|Depperman|5|1|40|United States of America|Vivenda|153.49|2|2|370
+PT-743|Lisboa|Male|2005|Low|2019|Jason|Moher|5|0|40||Vivenda|140.98|2|2|321
+PT-67|Lisboa|Male|2014|High|2023|Chanse|Freyta|1|0|35|||160.97|2|3|318
+PT-393|LISBOA||2014|Perfect|2019|Hailee|Holgate|5|1|56||Quinta|187.33|2|4|349
+PT-1352|Lisboa|Female|1980||2019|Benjamin|Wychulis|5|0|33|PT|Quinta|284.18|2|3|393
+PT-815|LISBOA|Male|1900||2015|Faadi|el-Hassan|6|0|21||Apartamento|193.3|2|3|358
+PT-205|Lisboa||1900|Perfect|2015|Brandon|Gdovin|5|0|60|Portugal|Apartamento|308.27|2|2|380
+PT-377|Proto||1950||2020|Brandy|Kling|5|1|39|Prt|Vivenda|261.89|2|2|337
+PT-902|Lisboa|Male||High|2018|Frank|Zavala-Garcia|4|0|39|Prt|Vivenda|115.07|2|3|340
+PT-203|Coimbra|Female|1900|Medium|2023|Christopher|Mckay|3|0|34|||160.5|2|4|371
+PT-26|Lisboa|Female|1960||2018|Alissa|Macias|4|1|27|Portugl|Vivenda|178.94|2|4|326
+PT-689||Male|2017|High|2022|Daris|Puckett|1|0|67|United States of America|Apartamento|134.55|2|3|416
+PT-762|Lisboa||2001|High|2022|Elika|Dubose|3|1|64|Prt|Vivenda|145.74|2|30|292
+PT-315|Lx||2004|Perfect|2023|Christian|Houghteling|5|0|49||Quinta|138.37|2|4|242
+PT-49|Proto||1960|High|2022|Mutasim|al-Azimi|6|0|72|PT||251.55|2|2|375
+PT-525|Lisboa|Male|1960||2017|Tyler|Manes|5|0|22|England|Vivenda|305.53|2|4|377
+PT-804||Female|2014|High|2023|Lauren|Anderson|3|1|46|PT|Quinta|124.06|2|3|347
+PT-283||Female|2016|Low|2017|Siedah|Brown|1|1|57|United States of America|Apartamento|247.73|2|30|322
+PT-634|Porto|Female||High|2021|Kristhel|Bautista Gutierrez|4|1|31|UK|Vivenda|118.9|2|4|301
+PT-832|Proto|Female|1995||2018|Morgan|Ferguson|5|1|33|EUA||203.05|2|2|383
+PT-1284|Lisboa||1999|Low|2017|Brandon|Mcatee|5|0|27|Pt||139.7|2|4|305
+PT-1381|Coimbra|Female||High|2017|Alys|Ceniceros|4|1|57|Prt|Vivenda|173.32|2|3|359
+PT-355||Female||Perfect|2023|Cristal|Plunkett|4|1|66|USA|Vivenda|222.87|2|3|332
+PT-1108|Lisboa|Female|2003|High|2016|Elayna|Eagle|5|1|39|PT|Quinta|209.77|2|3|299
+PT-257|Lisboa|Female|1975||2017|David|Higgs|5|0|61|UK|Vivenda|93.78|2|2|356
+PT-1383|Coimbra|Male|1998|High|2022|Keefe|Martin|3|0|66|Portugl|Quinta|133.76|2|3|342
+PT-300|Faro|Male||High|2020|Zakariyya|al-Jaber|6|0|28|ENGLAND|Vivenda|345.6|2|2|357
+PT-1100|PORTO||1950|Medium|2020|Brianna|Murray|1|1|38|United States of America|Apartamento|94.02|2|4|403
+PT-1124|Faro|Female|1900|Very High|2023|Jacob|Sober|1|0|31|Portugal|Apartamento|284.89|2|2|358
+PT-585|PORTO||2005|High|2023|Thomas|Upschulte|2|0|41|EUA|Quinta|178.97|2|4|374
+PT-173||Female|1999|Low|2021|Adhraaa|al-Salehi|6|1|46|United States of America|Vivenda|266.12|2|2|375
+PT-1265|Faro|Male|2014|High|2015|Tamara|Hines|3|1|56|Portugl|Quinta|326.28|2|4|340
+PT-1148||Male|1900|Low|2017|Hannah|Anderson|2|1|42|Pt|Apartamento|166.87|2|3|329
+PT-348|PORTO||2012|High|2016|Ariyya|al-Reza|6|1|50|Portugal||237.68|2|4|283
+PT-939|LISBOA|Male|1950|Very High|2015|Abigail|Balderrama|4|1|38|Portugal|Vivenda|265.27|2|1|350
+PT-786|Coimbra|Female|1996|Medium|2015|Marzooq|al-Shaheed|6|0|41|PT|Apartamento|183.62|2|30|358
+PT-883|Portimão||2007|High|2023|Nova|Watkins|1|1|27|Pt||200.77|2|4|366
+PT-134|||2014|Perfect|2019|Jennifer|Osterlund|5|1|62|England|Vivenda|190.77|2|3|364
+PT-58|Lisboa||2017||2015|Cody|Garcia|1|0|23|United States of America|Quinta|342.62|2|2|396
+PT-1334|PORTO|Female|2014|Medium|2020|Hazeela|el-Yassin|6|1|59|Portugal||138.53|2|4|346
+PT-1310|Faro||2016|High|2023|Raabiya|al-Tamer|6|1|70||Apartamento|335.12|2|3|349
+PT-264|Lisboa|Female|1999|High|2017|Michael|Thompson|5|0|47|EUA|Vivenda|266.93|2|3|400
+PT-941|Porto|Female|2000||2019|Serafina|Bernlohr|5|1|37|EUA|Quinta|194.56|2|30|343
+PT-250|PORTO||2007|High|2021|Jeremiah|Bradshaw|3|0|31|Pt|Vivenda|219.36|2|1|362
+PT-1374|Lisboa|||High|2017|Musaaid|al-Hashem|6|0|36|United States of America|Apartamento|326.24|2|3|353
+PT-200|Lagos|Male|2013|High|2023|Javonte|Quintana|1|0|95|PT|Quinta|185.73|2|2|239
+PT-769||Female|1999|Very High|2021|Sitaara|al-Salama|6|1|34||Vivenda|178|2|2|335
+PT-1195|Portimão|Female|1960|Very High|2020|Haazima|el-Samara|6|1|55|ENGLAND|Apartamento|179.67|2|3|349
+PT-565|PORTO|Female|1900||2018|Jose|Torres|4|0|41|Portugal|Apartamento|178.26|2|2|340
+PT-389|PORTO||2004|High|2023|Trae|Gandara Payan|4|1|46|United States of America|Apartamento|323.63|2|1|306
+PT-1086|Lx||2002|Very High|2022|Shraya|Yanase|2|1|59|Portugal|Apartamento|252.51|2|4|369
+PT-190|LISBOA|Male|2000|Very High|2016|Maria|Olivas-Valdez|4|1|46|Portugal|Apartamento|221.09|2|3|414
+PT-411|PORTO||1975|High|2022|Taariq|al-Hafeez|6|0|31||Quinta|208.24|2|2|345
+PT-1142|Porto|Female|1995|High|2016|Sarah|Thompson|2|1|45||Vivenda|348.08|2|3|342
+PT-976|Coimbra|||Medium|2020|Dakota|Matsumoto|4|1|23|United States of America|Vivenda|231.57|2|2|317
+PT-112|Lagos|Female|1999|High|2022|Sakeen|el-Ebrahimi|6|0|34|EUA|Vivenda|207.48|2|3|398
+PT-258|Proto|Female|2001|Medium|2015|Zion|Toubia Jr|3|1|61|Portugal|Quinta|260.89|2|2|398
+PT-656|Coimbra|Female|1975||2020|Cameron|Montez|1|0|48|USA||348.41|2|4|339
+PT-4|Lagos|Male|2012|Medium|2016|Miranda|Rocco|4|1|60|Portugl|Apartamento|271.58|2|1|315
+PT-291|PORTO|Female|2013|Perfect|2023|Shami|Noriega|2|0|23|||235.33|2|3|337
+PT-987|Porto|Male|1960|High|2015|Amayrani|Pacheco|4|1|54|PT|Quinta|216.33|2|4|359
+PT-735|Lx|Male|1975|High|2022|Justin|Hernandez|4|0|44||Apartamento|300.23|2|2|300
+PT-790|Lisboa|Male|2005|Perfect|2017|Laura|Perry|5|1|44|Pt|Quinta|181.99|2|2|359
+PT-276|Lisboa|Female|2013|High|2019|Saydie|Randolph|1|1|65|EUA|Vivenda|195.18|2|4|321
+PT-1250|Portimão||2006||2020|Rita|Mcclarie|3|1|17|USA||207.56|2|3|350
+PT-596|Lisboa||1975|High|2022|Nina|Scott|3|1|60|PT|Apartamento|277.52|2|1|275
+PT-256||Female|2014||2018|Jesse|Cook|1|1|52|||148.99|2|2|426
+PT-616|Portimão|Female|1950||2020|Venancio|Lau|2|0|42|Portugl|Apartamento|265.12|2|2|324
+PT-915|||2015|Low|2021|Nastashia|Whitlock|1|1|59|United States of America|Quinta|137.83|2|2|341
+PT-600|Lisboa||2008|High|2022|Matthew|Aldridge|3|0|4|United States of America|Quinta|129.73|2|2|333
+PT-759||Female|2012|High|2023|Tulley|Chen|2|1|49||Apartamento|294.01|2|3|373
+PT-1179|Lisboa|Female|1997||2015|Ashley|Berman|5|1|76|Portugal|Apartamento|116.42|2|2|341
+PT-85|Lisboa|Female|2014|High|2015|Briana|Mickelson|1|1|50|Portugal|Quinta|250.85|2|1|294
+PT-16|PORTO||2017|Medium|2018|Rajeev|Boehlke|2|0|33|EUA|Apartamento|157.32|2|2|361
+PT-1189|Proto|Female|2016|High|2022|Brandon|Wu|2|0|19|United States of America|Apartamento|133.29|2|4|389
+PT-194|Lisboa|Male|1995|High|2023|Dante|Gebregzabheir|3|0|24|USA||206.91|2|2|317
+PT-17|Porto||1975|Medium|2023|Sujee|Norton|2|1|12|Portugal||197.64|2|4|456
+PT-822||Male|2000|Very High|2020|Aqeel|al-Salek|6|0|49|England|Vivenda|224.35|2|2|345
+PT-974|Lagos||2006|Perfect|2018|Javon|Davis|3|0|23|England|Quinta|179.63|2|2|347
+PT-1129|PORTO|Male|1995|Very High|2018|Sabaah|al-Amen|6|0|29|Portugal|Vivenda|339.54|2|1|418
+PT-1391|Lx|Female|2003||2022|Yeniffer|Montoya|4|1|46||Vivenda|314.56|3|4|486
+PT-699|Lisboa||2000|High|2015|Shanta|Santee|1|1|37|United States of America|Apartamento|149.89|3|4|435
+PT-797||Female|2003|High|2022|Kiana|Flinn|2|1|40||Apartamento|347.15|3|3|477
+PT-223|Lisboa|Female||High|2020|Mansoor|el-Hasen|6|0|58|Portugl|Vivenda|103.98|3|3|400
+PT-219|Porto|Female|2006|High|2015|Noah|Rohr|5|0|40|EUA|Apartamento|315.01|3|3|400
+PT-965|Lagos|Female|2007||2017|Trevor|Mock|2|0|41|EUA|Apartamento|260.68|3|3|524
+PT-984|Lx||2015||2016|Midori|Borntrager|2|1|41|EUA||286.27|3|2|515
+PT-1139||Female|1950||2015|Jessica|Hurtado|4|1|59|Portugl|Vivenda|331.34|3|1|499
+PT-993|Lisboa||1996|Very High|2016|Sharla|Thompson|5|1|40|England|Apartamento|155.54|3|4|485
+PT-131|Lagos|Female|2006|Low|2020|Erika|Archuleta|4|1|48|PT|Apartamento|180.38|3|4|463
+PT-1341|Faro|Female|2004|High|2015|Haley|Durden-Porter|5|1|61|England|Quinta|203.81|3|2|384
+PT-424|PORTO||2002|High|2020|Raihaan|el-Shaheed|6|0|63||Quinta|128.14|3|2|502
+PT-1045|Coimbra|Female|1950||2020|Moriah|Gill|3|1|67||Quinta|313.08|3|1|479
+PT-919|Lisboa|Female|1998|High|2018|Sierra|Bennett|5|1|45|USA|Vivenda|205.92|3|3|355
+PT-935|Lx||2003|Very High|2020|Azzaam|al-Hosein|6|0|44|Portugal|Vivenda|255.71|3|3|390
+PT-296|Lisboa|Female|2003|Medium|2020|Cailee|Benjamin|3|1|46|Portugl|Vivenda|253.19|3|2|434
+PT-151|Coimbra|Female||High|2021|Heivi|Avitia|4|1|40|Portugal||135.33|3|4|438
+PT-1277|Lisboa|||High|2017|Leandra|Stencel|4|1|22|United States of America|Apartamento|260.45|3|2|612
+PT-1319|Lisboa||1998|High|2022|T'Keyah|Mosely|3|1|71|Pt|Apartamento|197.68|3|3|474
+PT-121|Lisboa||2014|High|2016|Cameron|Joseph|3|0|33|Pt|Vivenda|160.32|3|3|464
+PT-289|Faro|Female|1980|Perfect|2015|Justin|Kane|5|0|49|Portugl|Quinta|226.32|3|4|518
+PT-1007|Lagos|Male|1960||2015|Jaad|al-Pirani|6|0|34|UK|Vivenda|123.14|3|4|443
+PT-1151|Lisboa|Male|1997|High|2016|Kristina|Sivisay|2|1|38|UK|Apartamento|290.38|3|2|483
+PT-417|LISBOA|Female|1997|Low|2017|Mercedes|Magana|4|1|62|Portugal|Apartamento|251.61|3|2|395
+PT-1353|Porto|Male|2014|Very High|2017|Tony|Pfingsten|2|0|45|England|Vivenda|324.06|3|1|453
+PT-452|||1975|Perfect|2020|Terry|Cooper|1|0|44|EUA|Vivenda|181.75|3|3|502
+PT-931|Lisboa|||High|2022|Carlos|Valles-Gonzales|4|0|42|UK||159.81|3|2|473
+PT-353|Lx|Female|2000|High|2020|David|Orona|1|0|30|England|Vivenda|96.33|3|1|445
+PT-1034|Lisboa||2007|Low|2016|Olivia|Wong|2|1|42|Portugal|Vivenda|276.82|3|4|445
+PT-717|Lisboa||2008|Low|2019|Riley|Oliveros|4|1|37|USA||96.69|3|2|452
+PT-560|Portimão|Female||Low|2020|Grant|Stotsky|5|0|38|Portugl||297.19|3|2|552
+PT-522|Lisboa|Male|1975|High|2023|Nayeli|Chavez|4|1|59|England|Apartamento|118.15|3|3|504
+PT-879|Porto||1950|High|2023|Norma|Rivera|4|1|48||Apartamento|275.1|3|1|469
+PT-817|PORTO||1999|Medium|2019|Nalani|Hendrix|3|1|50|EUA|Apartamento|99.54|3|2|336
+PT-447|Lisboa|Male||High|2023|Victoria|Erickson|5|1|31|United States of America|Apartamento|265.22|3|3|379
+PT-1224||Female||Medium|2021|Tom|Coats|4|0|75|England|Apartamento|102.64|3|4|453
+PT-432|Porto||2000|High|2018|Dakota|Shakespeare|1|0|43|Prt||224|3|2|461
+PT-731||Female|2007|High|2015|Benjamin|Lewis|1|0|42|||123.75|3|3|436
+PT-930||||Very High|2022|Amy|Sun|2|1|50|EUA|Apartamento|216.16|3|4|391
+PT-780|Lisboa||1997|High|2015|Jesse|Train|5|0|44|USA|Vivenda|151.98|3|4|483
+PT-705||Male||High|2018|Austin|Hamlin|1|0|46|Portugl|Apartamento|217.16|3|4|439
+PT-803|Proto|Male|||2019|Jeremy|Loughridge|1|0|52|Prt|Vivenda|122.98|3|30|411
+PT-1227|Faro||2000|High|2015|Matthew|Joel|2|0|51|Prt|Apartamento|141.41|3|30|441
+PT-584|Lisboa||2007|High|2019|Emerson|Watkines|3|0|35|United States of America|Vivenda|261.83|3|2|459
+PT-905|Lisboa|Female|1950|Very High|2021|Azmi|al-Asad|6|0|66|Portugl||210.78|3|3|466
+PT-1054|Porto||1995|Medium|2017|Kayla|Smith|3|1|52|England||149.38|3|3|408
+PT-1113|Lisboa|Male|1920|Low|2017|Kincaid|Chavez|1|0|57|Pt||153.16|3|4|367
+PT-1313||Female|2015|Perfect|2023|Kenneth|Lo|2|0|48|Portugl|Apartamento|117.11|3|4|469
+PT-619|PORTO|Female||High|2015|Noori|al-Meer|6|0|54|ENGLAND|Quinta|233.81|3|3|440
+PT-698|PORTO|||High|2015|Trei|Matthews|3|0|41|Portugal|Vivenda|325.42|3|4|483
+PT-864||Female||High|2021|Edgar|Archuleta|4|0|33|USA||165.45|3|2|510
+PT-519|Lx|Female|1950||2018|Tiffany|Oda|2|1|52|Prt|Apartamento|283.46|3|4|402
+PT-1322|Faro|Female|2007||2016|Raaida|al-Hashemi|6|1|17|Portugal|Apartamento|165.35|3|4|467
+PT-992|LISBOA||1960|High|2017|Randy|Wiebelhaus|5|0|55|Prt|Quinta|173.45|3|1|537
+PT-577||Male|||2015|Tremayne|Brockington|3|0|63|England|Quinta|179.33|3|3|435
+PT-1125|Lisboa|Female|1950|High|2018|Fawzaana|el-Abdul|6|1|41|USA|Apartamento|257.15|3|2|511
+PT-1011|Porto|Male|1950|Very High|2023|Nhi|D'Rosario|2|1|46|USA|Apartamento|106.52|3|4|425
+PT-119|PORTO|Male|1900|Medium|2017|Lashaina|Olsen|3|1|36|UK|Vivenda|331.75|3|2|510
+PT-1|||2004|High|2015|Taaj|al-Taha|6|0|32|USA||167.54|3|1|461
+PT-1136|PORTO|Female|2013|High|2022|David|Williamsnash|3|0|56|Portugal|Vivenda|108.41|3|2|477
+PT-610|LISBOA|Female|||2019|Louis|Marfil|2|0|47|Prt|Apartamento|213.12|3|4|477
+PT-542|||2000||2020|Taylor|Castille|3|1|39|England|Apartamento|279.79|3|3|441
+PT-1314|Lisboa|Female|1950|High|2017|Sarah|Carner|5|1|51||Apartamento|166.09|3|3|487
+PT-1299|Lisboa|Male||High|2016|Savannah|Wolf|5|1|52|EUA||112.02|3|4|373
+PT-162|PORTO|Female|1999|Perfect|2018|Yoonus|el-Kazmi|6|0|60||Apartamento|191.15|3|2|429
+PT-163|LISBOA||1950|High|2016|Fakeeha|al-Hussein|6|1|37||Quinta|207.96|3|3|411
+PT-581|Porto|Female|1996|Perfect|2023|Jennifer|Phu|2|1|29|UK|Vivenda|232.52|3|4|389
+PT-88|Lisboa|Male||High|2023|Danny|Taase|2|0|35|EUA|Vivenda|327.38|3|2|439
+PT-1102|Lisboa|Female|1999||2023|Tiaunna|Bile|3|1|55|Pt|Quinta|174.52|3|3|411
+PT-684|Lisboa|Female|1975|High|2020|Justin|Coreau|1|0|51||Apartamento|323.36|3|2|442
+PT-1240|Lisboa|Male|2000|Perfect|2021|Kevin|Lestenkof|1|0|45|PT|Quinta|122.31|3|2|496
+PT-802|LISBOA|Female|1995|High|2022|Mushtaaqa|al-Shakir|6|1|38|PT||239.09|3|2|540
+PT-981|Lx|Male|1975|Medium|2019|Christopher|Trujillo|3|0|51|Prt|Apartamento|199.83|3|4|443
+PT-1144|PORTO|Female|1920|High|2023|Amanda|Yuan|2|1|74|EUA|Apartamento|287.68|3|1|526
+PT-624|PORTO||2008||2017|Karol|Duerst|5|0|42|ENGLAND|Quinta|197.09|3|4|472
+PT-1242||||High|2019|Navar|Martin|1|0|35|UK|Apartamento|331.03|3|3|499
+PT-741|Proto|Female|2015|Very High|2015|Josiah|Carter|3|0|69|Pt|Vivenda|133.61|3|2|495
+PT-630|Lagos||2000|High|2015|Felipe|Navarro|4|0|28|England|Apartamento|262.73|3|2|444
+PT-763|Lisboa|Male|1980|Medium|2017|Stephanie|Last|5|1|81||Vivenda|177.91|3|1|539
+PT-1294||Male|1950||2017|Rachel|Hoang|2|1|54|||128.1|3|3|336
+PT-627|Porto|Male|1950|Low|2022|Shaheed|al-Shahidi|6|0|23|Pt|Vivenda|268.55|3|2|471
+PT-1201|Proto||2015|High|2019|Destiny|Ramirez|4|1|42|Pt|Vivenda|118.18|3|2|432
+PT-379||Female|1950|High|2022|Rewina|O'Bryan|3|1|38|United States of America|Vivenda|223.72|3|2|544
+PT-1287|||1996|High|2022|Adrianna|Mason|3|1|61|England|Vivenda|173.63|3|2|432
+PT-782|Proto|Female||High|2023|Scott|Pfannenstiel|2|0|47|ENGLAND||227.39|3|3|505
+PT-83|PORTO|Male|2000|High|2017|Daniela|Santistevan|4|1|36|Prt|Apartamento|151.23|3|3|532
+PT-933|Lisboa||2004|High|2022|Cynthia|Sandoval|4|1|37|USA|Apartamento|134.01|3|1|454
+PT-586||Female|2008|Perfect|2021|Kashaun|Tatum|3|0|40|Pt|Apartamento|162.41|3|3|445
+PT-749|||2012|Medium|2023|Isaiah|Thomas|3|0|18|Portugal|Apartamento|296.57|3|4|405
+PT-962|Lx|Male|1995|High|2022|Hishaam|al-Farran|6|0|34|ENGLAND||94.59|3|2|407
+PT-191|Porto|Female|2015|Medium|2019|Jenna|Lor|2|1|42|Prt|Quinta|203.33|3|4|469
+PT-506|Lagos|Male|1960|Medium|2019|Edward|Minter|3|0|42|England|Apartamento|338.41|3|3|449
+PT-685|Lisboa|Female|2008|Low|2017|Wajdiyya|al-Mirza|6|1|38|USA|Vivenda|219.3|3|4|534
+PT-1076|Proto||2005|High|2017|Devyn|Guerra|4|1|52|||290.39|3|2|347
+PT-499||Female|1960|Medium|2022|Jenna|Ellsworth|5|1|51|England|Apartamento|274.97|3|2|453
+PT-758|Lisboa|Female|||2015|Kacey|Kerns|5|1|59||Vivenda|335.66|3|4|504
+PT-1063|PORTO||2004||2018|Lisa|Spencer|5|1|46|Portugal|Apartamento|274.09|3|2|429
+PT-1225|Lisboa|Female|2014|Very High|2018|Maritza|Deras|4|1|47|Portugal|Vivenda|230.79|3|4|476
+PT-238|Lagos||2017|Perfect|2023|Elsa|Hinojos|4|1|44|Pt||243.69|3|4|521
+PT-1121|Lisboa||2007|High|2022|Kentanya|Braxton|3|1|36||Apartamento|202.56|3|2|333
+PT-199|Porto|Female|2014|High|2023|Sarah|Guimont|1|1|28|England|Vivenda|135.77|3|30|446
+PT-682|Lisboa|Female|1998||2018|Muthanna|al-Tahir|6|0|60|Portugl|Vivenda|121|3|3|436
+PT-426|||1998|Medium|2019|Ethan|Guss|3|0|42|UK|Quinta|205.12|3|4|440
+PT-720|Lisboa|Female|1998|Low|2017|Ashwini|Caccamise|2|1|43||Apartamento|314.47|3|2|448
+PT-837|LISBOA|Female||High|2020|Gabriel|Vue|2|0|67|Portugal||100.9|3|4|497
+PT-386|Lisboa||2006|High|2022|Kimberly|Eres|4|1|36|ENGLAND|Apartamento|337.25|3|1|470
+PT-126|PORTO||1995|High|2020|Azeema|al-Raad|6|1|26|ENGLAND|Quinta|97.3|3|2|406
+PT-1340|Proto||2012|Perfect|2017|Vinh|Vathanavarin|2|0|28|PT|Vivenda|216.04|3|3|474
+PT-867||Male|2003|Very High|2016|Umar|Mark|2|0|58|PT|Apartamento|135.24|3|3|502
+PT-724|Coimbra|Male|2014||2021|Dominic|Morales|4|0|61||Quinta|110.01|3|3|374
+PT-761|Portimão|Male|2016|Low|2015|Joseph|Metoyer|3|0|10|PT|Apartamento|228.45|3|2|454
+PT-904|Lisboa||1995||2022|Afaaf|al-Shahan|6|1|32|USA|Quinta|118.42|3|4|481
+PT-1283|Lisboa||2015|High|2021|Izza|al-Meer|6|1|11||Quinta|188.24|3|3|530
+PT-640|LISBOA|||Perfect|2023|Grant|Johnson|5|0|51|Portugl|Vivenda|321.64|3|2|403
+PT-922||Male|2014|Perfect|2019|Samantha|O'Reilly|5|1|35|UK||183.98|3|3|480
+PT-955|||2003|Medium|2015|Maggie Rose|Carson|1|1|48|Portugal||253.85|3|2|422
+PT-801|Lisboa|Female|2006|Very High|2017|Colby|Vaughn|3|0|36|||212.88|3|1|534
+PT-153||Male|1900|High|2020|Brandon|Parkos|5|0|22|England|Vivenda|153.35|3|3|451
+PT-1289|||1995||2019|Spencer|Giltner|3|0|35|Portugal||239.13|3|2|478
+PT-1188|Lisboa|Female|2017|High|2015|Kumiko|Tripathi|2|1|46||Apartamento|334.99|3|2|484
+PT-251||||High|2016|Alexis|Werden|4|0|49|England|Apartamento|220|3|2|443
+PT-1286||Female|1996|Low|2020|Charles|Grove|3|0|39|Portugl|Quinta|334.09|3|4|460
+PT-1298|||2001|Very High|2016|Robert|Eggert|5|0|67|Portugal|Quinta|126.36|3|4|452
+PT-564|Lagos||1997|Perfect|2021|Stuart|Gonzales|4|0|45|PT|Apartamento|294.32|3|4|562
+PT-234|Lisboa||2000||2019|Fawzi|al-Rashed|6|0|30||Apartamento|325.91|3|4|544
+PT-695||||Perfect|2019|Mardiyya|el-Sylla|6|1|40|PT|Quinta|200.69|3|2|414
+PT-1037|Lisboa|Male|1995|High|2018|Dominic|Reyes|4|0|67|USA|Quinta|180.32|3|4|424
+PT-753|Porto|Female|1920||2020|Kayla|Hurt|3|1|54|Prt|Vivenda|286.98|3|2|405
+PT-1306|Coimbra||2008||2018|Kayla|Alderete|1|1|68|USA|Vivenda|296.24|3|3|382
+PT-497||Female|2015||2017|Kendrick|Gray|3|0|60||Vivenda|335.51|3|1|515
+PT-388|Portimão||1999|Low|2016|Shaddaad|el-Jan|6|0|32|Pt|Vivenda|280.68|3|3|435
+PT-82|Lisboa|Female|2001||2022|Marco|Olmeda|4|0|33|Prt||202.88|3|3|444
+PT-1233|Lisboa|Female|1998|High|2015|Mahdeeya|el-Haidar|6|1|31|USA|Quinta|121.18|3|4|570
+PT-593|Lx||1980|High|2021|Tammy|Castillo|2|1|39|Prt|Vivenda|324.32|3|3|348
+PT-708|||1997|Medium|2017|Adeeb|al-Mirza|6|0|75|EUA|Vivenda|306.66|3|3|507
+PT-385|Porto|Male|1960|Perfect|2021|Hiu Yan|Skalla|2|1|54|||237.95|3|3|492
+PT-877|Proto||1995|High|2018|Vivien|Snow|3|1|23|UK|Vivenda|173.91|3|30|469
+PT-1380|Coimbra|Female|2003|Perfect|2022|Nikhilesh|Jeon|2|0|26|United States of America|Apartamento|202.28|3|1|489
+PT-2|Lx||2000|High|2018|Sharden|Jackson|3|0|54|EUA|Vivenda|334.12|3|1|398
+PT-198||Male|2012|High|2015|Trang|Sun|2|1|41|England|Vivenda|242.55|3|2|534
+PT-1061||Female|2005|High|2023|Shuaib|al-Shaban|6|0|51|England||179.01|3|2|414
+PT-319|Porto|Female|2013|Perfect|2021|Nomin|Dao|2|1|41|Prt||314.83|3|4|481
+PT-1267|PORTO|Male|2013|Medium|2018|Lubaaba|al-Jamail|6|1|58|Portugl|Apartamento|110.26|3|2|460
+PT-949|Lisboa|Female|1998|High|2019|Olivia|Brown|1|1|26|United States of America|Apartamento|289.37|3|2|465
+PT-745|Lisboa||1995||2021|Mark|Liquete|2|0|16|Portugal||156.71|3|2|392
+PT-643||Male|1920|High|2019|Mujahid|al-Malik|6|0|46|PT|Apartamento|313.46|3|4|395
+PT-314|Lisboa||2000||2017|Joshua|Dockary|3|0|73||Apartamento|327.39|3|1|472
+PT-1028|Lisboa|Male|||2017|Israa|el-Masri|6|1|32|Portugl|Quinta|197.62|3|2|428
+PT-523|PORTO|Male|2001|High|2015|Kyja|Jones|3|1|38|PT|Vivenda|283.88|3|1|418
+PT-233|Coimbra|Male|2014|High|2016|Michael|Avila|4|0|66|UK|Vivenda|320.9|3|3|513
+PT-507||Female|2001|Medium|2016|Amru|el-Yusuf|6|0|67|UK|Apartamento|244.92|3|1|467
+PT-235|Portimão|Female|1997|Low|2018|Dakota|Burch|1|0|28|USA|Vivenda|93.41|3|3|433
+PT-402|Portimão|Female|1996||2018|Susan|Rinner|5|1|48|United States of America|Apartamento|302.72|3|30|464
+PT-808|Porto|Female|1997||2021|Jaquea|Hodge|3|1|44|USA||243.71|3|2|436
+PT-767|LISBOA||1998|Very High|2022|Salma|el-Ahsan|6|1|33||Vivenda|259.31|3|4|442
+PT-1021|Portimão||2006|Low|2021|Mercedes|Houghton|5|1|21|PT|Quinta|292.92|3|3|481
+PT-423||Male||Perfect|2021|Brandon|Macias|4|0|41|United States of America|Vivenda|293.46|3|2|449
+PT-635|Lisboa|Female|2014|Perfect|2019|Neko|Mikeljack|5|0|30|England|Vivenda|322.84|3|3|459
+PT-1237||Male|2016|High|2020|Naseefa|al-Vaziri|6|1|21|PT|Apartamento|296.55|3|1|461
+PT-164|Lx|Female|1980|High|2021|Jaylin|Jiple|3|0|49|USA|Vivenda|268.73|3|4|490
+PT-637|Lisboa||1995|High|2018|Tulaiha|al-Shah|6|1|38|England|Apartamento|133.83|3|2|438
+PT-576|Porto||1998||2015|Alana|Conrad-Buckley|1|1|53|PT|Vivenda|186.05|3|2|443
+PT-383||Male|1996|High|2021|Triston|Pacheco|4|0|46|Pt||200.6|3|3|519
+PT-1366||Female|2013|High|2017|Serge|Lambert|5|0|26|EUA|Quinta|239.58|3|3|496
+PT-192|Lx|Female|1996|High|2021|Tiffany|Lee|2|1|55|USA|Vivenda|237.98|3|4|471
+PT-124|Lx||1999|Medium|2019|Henry|Wedgeworth|3|0|66|Portugal|Vivenda|120.18|3|30|523
+PT-1204|Lisboa|Female|1997|Medium|2015|Destenie|Mccarville|5|1|59|Portugl|Quinta|214.92|3|3|456
+PT-882|Lagos||2007|High|2023|Jose|Barella|4|0|49|USA||107.67|3|3|410
+PT-1009||Female|1975|High|2022|Alisha|Costello|5|1|29|Pt|Apartamento|200.12|3|4|392
+PT-889|Porto|Female||Perfect|2018|Emily|Wind|5|1|36|PT|Apartamento|141.24|3|3|477
+PT-405|Lisboa||1960|High|2016|Jordan|White-Johnson|3|0|73|England|Apartamento|298.69|3|1|383
+PT-263|Lisboa||2008|Very High|2018|Fermin Joshua|Love|2|0|63|United States of America||198.87|3|1|464
+PT-788|Faro|Female|2015|Medium|2017|Sonny|Mace|1|0|41|EUA|Vivenda|96.67|3|1|441
+PT-1004|Lisboa||1900|High|2016|Quinton|Peterson|3|0|41|England|Apartamento|172.05|3|2|399
+PT-285|Porto|Male|||2018|April|Marquez|4|1|32|EUA|Apartamento|310.35|3|2|443
+PT-838|Lagos||2001||2022|Maria|Mao|2|1|26|Portugal|Apartamento|153.86|3|2|551
+PT-117|Coimbra||2017|High|2022|Brady|Valdez|1|0|61|UK|Vivenda|346.56|3|3|425
+PT-678|||1960|High|2017|Nicholas|Taylor|5|0|65|EUA|Vivenda|94.85|3|3|430
+PT-217|||2015|High|2023|Jesus|Lawrence|4|0|77|ENGLAND||254.19|3|4|410
+PT-972||Male||High|2016|Maria|Garcia|4|1|42|Portugal|Apartamento|124|3|2|498
+PT-725|Portimão|Female|2014|Low|2017|Kendra|Fisher|5|1|7|PT|Quinta|259.69|3|3|493
+PT-1001|Lisboa|Female|1980|Low|2016|Connor|Armstrong|5|0|26|Prt||90.32|3|1|391
+PT-125|Porto||1995|High|2021|Mikhail|Watts|5|0|59|Portugal|Apartamento|233.92|3|2|417
+PT-1000|Porto||1995|Very High|2015|Emmanuel|Mack|3|0|53|EUA|Quinta|138.09|3|2|573
+PT-968|Coimbra|Male|1997|Low|2020|Summer|Root|1|1|92|PT||288.9|3|4|497
+PT-215|Lisboa|Male|1950|Low|2022|Coyote-Cache|Garner|1|0|62|United States of America||276.49|3|2|379
+PT-675|||1900|High|2017|Haseena|el-Yasin|6|1|17|USA||142.62|3|2|505
+PT-1388||Female|1920|Low|2021|Amaan|el-Shahin|6|0|38|Portugal||167.21|3|1|519
+PT-521|Lisboa|Male|1960|High|2021|Kenya|Grayes|3|1|56|Portugal|Quinta|133.46|3|2|456
+PT-44|LISBOA|Female|2015|Medium|2021|Cheyenne|Dalton|5|1|68|UK|Apartamento|240.94|3|1|498
+PT-1013|LISBOA|Female|2016||2016|Savannah|Esquibel|4|1|27|Portugal|Quinta|343.53|3|2|485
+PT-1308|||1995|Very High|2015|Erika|Lambert|4|1|46|Prt|Vivenda|219.39|3|3|469
+PT-1399|||1998|High|2023|Rayyaan|el-Mahdavi|6|0|3|Portugl|Apartamento|161.13|3|4|477
+PT-587||Female|1997|Perfect|2021|Dongwoo|Le|2|0|72|EUA|Apartamento|275.5|3|2|503
+PT-747|Faro||2014||2023|Dylan|Hoffmeyer|5|0|37|Portugal|Apartamento|323.1|3|4|408
+PT-1091|||2015|Perfect|2019|Mahbooba|al-Rahman|6|1|53|PT|Quinta|321.22|3|4|409
+PT-628|Porto|Female|2016|High|2020|Kevin|Bowser|3|0|35|PT|Vivenda|303.04|3|3|444
+PT-1396|Lisboa|Female|2017|Very High|2020|Jace|Richards|5|0|44||Apartamento|213.25|3|1|545
+PT-995|||2004||2017|Umar|el-Latif|6|0|47|Pt|Apartamento|216.98|3|2|364
+PT-1093|LISBOA||1995|High|2015|Qiana|Chapman|4|1|21|EUA||184.83|3|4|380
+PT-148|Portimão||1980|High|2020|Amber|Nanpei|2|1|26||Quinta|215.95|3|4|440
+PT-665|Lagos|Male|2017|High|2018|Edwell|Ray|3|0|44|PT|Vivenda|342.98|3|3|501
+PT-288|Portimão|Female|2003|Medium|2017|Preston|Willmann|1|0|50||Apartamento|193.37|3|3|430
+PT-1103|Lisboa|Female|2000|Very High|2023|Tonja|Hall|3|1|46||Vivenda|154.93|3|2|426
+PT-317|Porto|Male|1995|High|2018|Tareefa|el-Hassan|6|1|31|England|Apartamento|222.24|3|2|455
+PT-500|Lx|Female|1999|High|2022|Shelen|Granados Garcia|1|1|57|UK||320.19|3|1|402
+PT-156|Lagos|Female|2016|Medium|2015|Diego|Benzor|4|0|52|United States of America|Vivenda|329.36|3|2|457
+PT-265|PORTO||2016|High|2019|Baasim|al-Badour|6|0|65|Pt|Quinta|175.68|3|4|411
+PT-1005||Female|2003|High|2018|Tyrone|Jenkins|3|0|55|PT||292.02|3|3|459
+PT-750|Porto|Female|1995|High|2022|Jesse|Valero-Zarate|4|0|42||Apartamento|121.88|3|4|397
+PT-1271|LISBOA||2000|High|2020|Knieshia|France|3|1|43|PT|Apartamento|325.96|3|4|445
+PT-532|Lisboa|Female|1980|High|2022|Leah|Amaro|4|1|38|UK|Apartamento|146.14|3|2|435
+PT-384|Lisboa||2016|Perfect|2017|Mu'mina|el-Salameh|6|1|25|England||129.3|3|3|477
+PT-166|Lisboa||2012||2015|Gian|Anderson|5|0|39|United States of America|Quinta|118.33|3|4|500
+PT-552|Proto|Female|2001|High|2020|Raliya|Sherrell|3|1|43|USA|Quinta|174.37|3|1|443
+PT-657||Female||Low|2021|Esther|Tellez|4|1|6|EUA|Vivenda|201.63|3|2|512
+PT-848|Lisboa|Female|1980|Low|2016|Jamie|Corning|2|1|34|EUA|Apartamento|153.23|3|2|454
+PT-533|Portimão|Male|2005|Perfect|2022|Julian|Garcia-Quezada|4|0|22|USA|Vivenda|251.98|3|1|419
+PT-853||Male|2004|Very High|2021|Brandon|Tran|1|0|34|Pt|Apartamento|338.38|3|2|448
+PT-1328|Lagos|Male|2014|High|2023|Isaac|Fry|5|0|57|England|Vivenda|333.8|3|4|373
+PT-136|PORTO|Female||Low|2021|Naadiya|el-Sheikh|6|1|54||Vivenda|120.42|3|4|439
+PT-407|Portimão|Female||Medium|2019|Sadeeqa|el-Bilal|6|1|61|ENGLAND|Apartamento|341.55|3|3|511
+PT-829|Faro|Female|2006|High|2021|Haifaaa|al-Ahmed|6|1|49|Portugal|Quinta|255.08|3|3|434
+PT-841||Female|1920|Very High|2021|Amber|Taylor|3|1|37|ENGLAND|Apartamento|274.8|3|3|352
+PT-658||Male|1995|High|2018|Jordan|Ellerbrock|5|0|35|Pt|Vivenda|115.32|3|2|494
+PT-937|Lisboa|Female|2014||2015|Shatyanna|Donaldson|3|1|54|Portugl||288.07|3|2|480
+PT-211|||1920|High|2020|Aseel|el-Jafari|6|0|55|UK|Apartamento|288.47|3|3|550
+PT-686|Lagos|Female|1996|High|2017|Ivan|Villa|1|0|67||Quinta|127.39|3|2|440
+PT-1002|Lisboa|Female|1960|High|2020|O Shae|Gerbitz|3|0|44|ENGLAND|Apartamento|186.12|3|2|471
+PT-397|LISBOA|Female|2008|Low|2017|Saamiqa|al-Rais|6|1|37|Pt|Apartamento|112.51|3|4|485
+PT-69|LISBOA|Male|2000||2020|Timothy|Davis|3|0|40|Portugal|Quinta|344.95|3|4|416
+PT-213|Lisboa|Female||Very High|2021|Julie|Gonzalez|4|1|73|Portugal|Apartamento|126.28|3|1|426
+PT-1157|PORTO||1980|Very High|2018|Rabdaa|el-Allam|6|1|26|United States of America||202.81|3|3|544
+PT-546|Porto|Female|1975|Very High|2015|Abdulrahman|Williams|3|0|32|PT|Apartamento|164.76|3|2|450
+PT-230|Lisboa||2016|Low|2017|Mu,Aawiya|al-Beydoun|6|0|67|EUA|Vivenda|259.27|3|3|458
+PT-159|Coimbra|Male|2008|High|2021|Shannon|Farris|1|1|39|Portugal|Apartamento|273.18|3|4|493
+PT-664|Portimão||2017|High|2023|Rebekah|Beyer|5|1|23||Quinta|261.67|3|1|529
+PT-345|Portimão||2012|Perfect|2023|Todd|Sammakia|5|0|38|EUA|Apartamento|205.13|3|3|437
+PT-420|Lx||2016|Low|2018|Kyoung Min|Prabhu|2|0|66|UK|Vivenda|325.36|3|2|466
+PT-1096|Coimbra|Male|1996|High|2017|Thomas|Phelps|5|0|41|ENGLAND||173.69|3|1|414
+PT-991|||1998||2016|Ischara|Compton|3|1|43|ENGLAND|Vivenda|176.79|3|1|440
+PT-320|Coimbra|Male|1998||2020|Audryana|Garcia Lira|4|1|74|ENGLAND|Vivenda|198.68|3|4|417
+PT-1168||Female|2014|Very High|2021|Alejandro|Moore|4|0|32|UK||290.89|3|2|434
+PT-474|Lx|Male|2007|Medium|2020|Tyler|Carr|1|1|34|Portugal|Apartamento|332.51|3|3|453
+PT-74|Porto|Male|2017|High|2015|Raadi|el-Raad|6|0|12|ENGLAND|Apartamento|192.77|3|2|456
+PT-115|PORTO|Male|1950||2020|Baahir|el-Morad|6|0|36|PT|Apartamento|111.23|3|4|528
+PT-90|Porto|Male|2004|High|2020|Leighton|Mo|2|0|26|Portugal|Apartamento|126.9|3|2|405
+PT-14|Lisboa||2006|Perfect|2020|Kameron|Adams|1|0|58|Pt|Apartamento|226.96|3|1|468
+PT-592|Proto|Female||Very High|2023|Kelsey|Mahnken|1|1|70|Prt||321.11|3|2|495
+PT-524|Porto|||High|2018|Jesse|Guerrero|1|0|44|UK|Quinta|320.33|3|4|375
+PT-141|Lx||2013|High|2016|Naafoora|al-Ahmed|6|1|57|EUA|Vivenda|332.04|3|4|428
+PT-51|Proto||2012||2023|Anna|Ghiasy|2|1|51|England||96.98|3|3|480
+PT-623|Proto|Male|2008|High|2021|Spring|Morris|1|1|50|Portugal|Apartamento|268.25|3|2|516
+PT-1325|Lisboa|Male|2007|High|2021|Matthew|Morrison|5|0|52||Apartamento|96.27|3|4|429
+PT-122|Lisboa|Female|2016|Very High|2022|Jennifer|Thomas|3|1|39|Portugal||161.15|3|4|414
+PT-557|Lisboa|Female|1920||2023|Daniel|Mcelwreath|2|0|39||Apartamento|319.91|3|3|412
+PT-980||Female|1900|Perfect|2015|Dominic|Huerta|4|0|63|Prt|Quinta|262.5|3|4|493
+PT-367|Lisboa|Female|2005||2016|Adrian|Hoelsken|4|0|19|Portugal|Quinta|334.28|3|2|363
+PT-613|Lisboa||1999|Perfect|2023|Riley|Hooper|5|0|30|USA|Vivenda|208.57|3|30|456
+PT-1008|Faro|Female|2004|Low|2018|Trent|Aldridge|5|0|51|PT|Vivenda|202.02|3|2|488
+PT-1235||Female|2016|High|2022|Danielle|Mills|1|1|21|EUA|Quinta|276.16|3|4|518
+PT-928|LISBOA|Female|2016|Perfect|2023|Evan|Farrow|5|0|8||Apartamento|174.62|3|2|505
+PT-1337|Lisboa||1980|Very High|2023|Jamie|Bashore|5|0|64|Portugal|Apartamento|238.7|3|4|434
+PT-649|Porto|Female|||2022|Rachel|Horst|1|1|60|United States of America|Apartamento|295.58|3|4|438
+PT-956|Proto|||High|2015|Jamissa|Washington|3|1|33|Portugal|Vivenda|310.8|3|2|421
+PT-615|Lisboa|Female|2013||2016|Miranda|Dreher|5|1|53|PT|Vivenda|145.49|3|4|364
+PT-792|Lx|Male||Medium|2017|Hanoona|el-Farid|6|1|44|ENGLAND|Quinta|228.07|3|2|485
+PT-739|Coimbra|Male|1995|High|2015|Danielle|Jones|1|1|29|Portugal|Vivenda|164.04|3|4|480
+PT-1171|Lisboa|Male|1900|High|2022|Kayanna|Sides|2|1|41|||160.61|3|2|507
+PT-366|Coimbra|Male|1975|High|2019|Kamaria|Parris|3|1|32|UK||346.59|3|2|365
+PT-1258|Lisboa||1975||2018|Yancey|Simmons|3|0|63|Pt|Quinta|232.92|3|2|484
+PT-1146|Lx|Male|1996|Medium|2017|Justin|Dosen|5|0|57|Portugl|Vivenda|224.58|3|3|394
+PT-144|Lagos|Female||High|2021|Ash|Huang|2|0|49|Portugal||265.51|3|3|448
+PT-410||Male|2002|Very High|2016|Connie|Blanco|4|1|64|Prt|Quinta|179.15|3|3|356
+PT-979|Lisboa||2000|Low|2021|Jaque|Marshall|3|1|37|PT|Vivenda|274.37|3|4|419
+PT-1035|||2016|Perfect|2018|Patrick|Guzman|4|0|65|PT|Apartamento|135.94|3|3|452
+PT-938|Lisboa|Female||Medium|2020|Rosie|Kreul|1|1|68|EUA|Vivenda|323.55|3|2|411
+PT-1281|Porto|Male|2015|High|2018|Jesse|Broeren|1|0|54|UK|Apartamento|147.89|3|30|497
+PT-1320|Faro|Male|2014|High|2023|Darrin|Drum|1|0|18|UK|Apartamento|230.32|3|1|480
+PT-1382|||2000|High|2017|Kassandra|Saenz Gomez|4|1|58|PT|Quinta|118.28|3|2|476
+PT-27|Coimbra|Female|2005|Very High|2015|Kelsey|Jones|3|1|58||Quinta|179.87|3|4|469
+PT-1386|Porto|Male|2001|High|2021|Dalia|Bernal-Ramirez|4|1|65|Portugal|Vivenda|290.66|3|3|435
+PT-964||Female|1995|Perfect|2015|Raamiz|al-Agha|6|0|35|Pt|Quinta|312.14|3|1|436
+PT-673|Lisboa||1997||2023|Talha|al-Jabbar|6|0|41|PT||223.53|3|3|349
+PT-1187|Coimbra||2012|Very High|2020|Bridget|Gonzalez Vargas|4|1|49|EUA||324.43|3|2|382
+PT-865|Lisboa|Female|2004|High|2021|Aaron|Wilson|3|0|32|||246.16|3|2|371
+PT-1052|Coimbra|Male|2015||2017|Chiahci|Guo|2|1|44||Vivenda|231.24|3|3|413
+PT-485|LISBOA||2013||2023|Nathan|Vue|2|0|36|USA||146.62|3|3|398
+PT-212|Lx||2004|Low|2019|Marquil|Washington|3|0|41|Portugal||232.06|3|4|464
+PT-1036|||2002|High|2023|Yinghan|Natrajan|2|0|23|Portugal|Apartamento|228.59|3|2|420
+PT-152|Lisboa||1900|High|2019|Luis|Johns|4|0|60|ENGLAND|Vivenda|156.81|3|3|465
+PT-57|Lx|Male|2005|Very High|2021|Grayson|Hill|5|0|37|PT|Apartamento|246.65|3|2|403
+PT-751|Lisboa||1960||2018|Roy|Thompson|3|0|20|United States of America|Vivenda|193.81|3|2|498
+PT-1064|Proto||1997|Very High|2023|Gerardo|Martinez|4|0|31|England||154.54|3|1|461
+PT-441|Coimbra|Female|2004|High|2017|Jose|Olivas|4|0|31|Portugl|Vivenda|169.8|3|1|441
+PT-655|Proto|Male|1950||2021|Saqr|al-Halim|6|0|68|USA|Vivenda|258.63|3|4|427
+PT-479|Lagos||2006||2023|Nguyet|Menon|2|1|55|England|Vivenda|294.43|3|2|430
+PT-966||||High|2015|Makela|Taplin|3|1|24|Pt|Vivenda|241.28|3|2|450
+PT-710|Lisboa|Female|1960|High|2023|Hasnaa|el-Badour|6|1|56|Portugal|Apartamento|220.35|3|3|428
+PT-899|Porto|Male||Low|2017|Seth|Fine|5|0|24|United States of America|Quinta|204.69|3|1|473
+PT-346||Female|1950|Perfect|2017|Khaira|el-Kazemi|6|1|39||Vivenda|241.13|3|3|536
+PT-262|PORTO|Male|2016|High|2017|Sadeeqa|al-Chahine|6|1|30|UK|Apartamento|267.71|3|3|530
+PT-654|Porto||2000|High|2017|Bryan|Brown|3|0|28|EUA|Apartamento|343.29|3|2|455
+PT-1229|Porto|Female|1920|Medium|2022|Fabiola|Ramirez|4|1|70|United States of America|Apartamento|329.35|3|2|421
+PT-311|Coimbra|Male|1998||2020|Shelby|Burke|5|1|62|||257.57|3|3|512
+PT-292|Lagos|Female|1960|Medium|2017|Asia|Medina|3|1|57|Portugal||98.37|3|4|507
+PT-570||Female|1900|Perfect|2023|Travis|Nguyen|2|0|42|Portugl|Vivenda|136.27|3|4|414
+PT-1318||Female|1999|Perfect|2021|Breanna|Romero-Munoz|4|1|38||Quinta|229.45|3|3|518
+PT-827|Lisboa|Female||High|2021|Brendan|Hoch|5|0|41||Vivenda|153.1|3|3|385
+PT-458|Porto|Male|1998||2017|Hector|Martinez|4|0|28||Quinta|186.14|3|1|402
+PT-229|Lisboa|Male|||2015|Shelby|Rodriguez|1|1|35|USA|Apartamento|198.19|3|1|487
+PT-559|||2003||2020|Jack|Schneider|5|0|65|England||323.02|3|1|524
+PT-425|Porto|Female|1950|High|2017|Jordan|Skyhorse|1|0|43|Pt|Apartamento|203.42|3|2|480
+PT-940|Porto|Female|2003|High|2015|Jyansea|Jones|3|1|68|England|Apartamento|206.88|3|4|482
+PT-594|||2013|High|2020|Waseema|al-Minhas|6|1|54|USA|Quinta|172.33|3|2|408
+PT-498||Male|1996|Very High|2018|Zaira|Heredia|4|1|37|UK|Apartamento|289.34|3|2|497
+PT-621|LISBOA||2005|Low|2023|Aspin|Otero|4|1|59|Pt|Quinta|92.34|3|4|405
+PT-1384|Lagos||||2023|Mumtaaza|el-Suleiman|6|1|16|Prt|Vivenda|316.48|3|4|490
+PT-652|Porto||2002|Low|2020|Naadiya|al-Zakaria|6|1|53|United States of America||251.92|3|2|436
+PT-5|||2001|High|2023|Soraya|Rudy|4|1|36|Portugal|Apartamento|214.15|3|2|438
+PT-1123|Porto||1980|High|2016|Kanae|Stirmers|1|1|47|UK|Apartamento|151.82|3|3|478
+PT-79|Porto|Female|1900|High|2018|Maichong|Nguyen|2|1|58|ENGLAND|Apartamento|254.32|3|4|544
+PT-1368|Portimão|Female|2014|Medium|2020|Rocky|Muniz|4|0|66|EUA|Apartamento|111.98|3|3|390
+PT-582|Porto|Female|2014|Very High|2015|Brigite|Rodriguez|4|1|58|Prt||192.59|3|2|359
+PT-1361|Portimão|Female|2006|Perfect|2019|Shafeeqa|al-Pasha|6|1|65|United States of America|Vivenda|273.77|3|2|433
+PT-978|||2005|Very High|2021|Michael|Parker|1|0|30|UK|Apartamento|273.92|3|3|439
+PT-470|Lagos|Female|2015|High|2021|Shana|Repollo|2|1|30|Prt|Apartamento|152.42|3|4|389
+PT-604|Proto||1900|Low|2022|Micah|Miles-Groce|3|1|66|England||122.37|3|30|405
+PT-1344||Female|2000|Perfect|2021|Jessica|Jape|4|1|48|Pt||188.47|4|3|621
+PT-1134|Lagos|Male|2005||2021|Jonathan|Brown|5|0|59|England|Apartamento|108.84|4|2|633
+PT-1354|PORTO||2016||2018|Fidda|el-Yasin|6|1|51||Apartamento|203.17|4|2|599
+PT-104|Lisboa|Female|1975|High|2016|Linh|Nguyen|2|1|67|EUA|Vivenda|229.02|4|2|666
+PT-862||Male|1950|Medium|2015|Richard|Hicks|3|0|48|EUA|Apartamento|103.77|4|2|488
+PT-1062|Lisboa|Male|2006||2020|Haaritha|el-Imam|6|1|43|Prt|Vivenda|244.57|4|3|577
+PT-416|Lisboa||1900|Low|2022|Hannah|Ryen|1|1|20|EUA|Apartamento|99.87|4|4|558
+PT-1239|Porto||2005|High|2019|Joshua|White|1|0|40|UK|Apartamento|213.98|4|4|588
+PT-357|LISBOA|Male|2015|Very High|2020|Taiseer|el-Faris|6|0|49|Portugal|Vivenda|205.14|4|3|594
+PT-903|LISBOA||2016|High|2015|Willanna|Martinez|1|1|43|Portugl|Quinta|198.3|4|4|664
+PT-845|||2000||2017|Jamie|Iron Cloud|1|1|49|PT|Apartamento|93.6|4|3|537
+PT-70|Faro|Female|2008|High|2019|Mahfoodha|el-Hakeem|6|1|54|United States of America|Apartamento|111.77|4|2|567
+PT-149|Porto|Male|2012|High|2018|Erica|Lovald|3|1|42|Pt|Vivenda|349.16|4|2|588
+PT-836|Lisboa||2004|High|2021|David|Shin|2|0|60|UK|Apartamento|139.83|4|1|553
+PT-303|Lisboa|Male|1920|High|2015|Aubrey|Urban|5|1|64|United States of America|Apartamento|248.87|4|30|530
+PT-231|Faro||2005|High|2017|Abel|Perez Martinez|4|0|40||Apartamento|277.97|4|2|606
+PT-824|Lisboa|Male|1997|Very High|2017|Kaatima|al-Hashmi|6|1|30|UK|Vivenda|123.34|4|3|679
+PT-785|Proto||2013|High|2015|Nicole|Cordell|5|1|36|Portugl|Vivenda|247.8|4|3|607
+PT-189||Female|1920||2019|Tawasa|Farrell|3|1|30|Portugal|Apartamento|349.28|4|1|586
+PT-504|LISBOA||2007|High|2016|Zachery|Blaze|1|0|51|UK|Apartamento|242.09|4|3|572
+PT-352|Porto|Female|1995|High|2021|Saalih|al-Radi|6|0|75|Portugal|Quinta|263.37|4|3|598
+PT-733|PORTO|Male|1998|High|2019|Yana|Wills|5|1|75|EUA|Apartamento|164.64|4|4|597
+PT-549|PORTO|Female||Perfect|2021|Brent|Greene|1|0|25|ENGLAND|Apartamento|167.49|4|4|636
+PT-1210|Lx|Male|||2015|Phuong|Fong|2|1|54|USA|Quinta|128.32|4|2|673
+PT-304|Proto|Female|1950|High|2015|Fikri|el-Rais|6|0|38|Portugal|Apartamento|225.37|4|2|639
+PT-337|Lx||2016|Very High|2015|Zeena|al-Musa|6|1|41|PT|Quinta|260.34|4|2|621
+PT-120|Lisboa|Male|2016|High|2016|Nu'maan|el-Sulaiman|6|0|32|Portugal|Apartamento|199|4|4|511
+PT-329|Porto|||High|2022|Uqbah|al-Khalid|6|0|62|||267.77|4|1|559
+PT-677|Porto|Female|2017|Perfect|2023|Carlton|Thomas|1|0|48|UK|Vivenda|281.39|4|3|548
+PT-913||Male|2014|High|2015|Scott|Stockard|5|0|50|England|Vivenda|273.64|4|2|581
+PT-793||Female||High|2021|Qisma|al-Hammad|6|1|43|Portugal|Apartamento|279.22|4|2|663
+PT-155|Lx|Female|2005|High|2021|Matthew|Mcelwreath|2|0|58|Prt|Vivenda|302.44|4|2|559
+PT-305||Female||High|2015|Mia|Rojanaphong|2|1|54|Prt|Vivenda|337.41|4|3|599
+PT-1200|Lisboa|Female|2015|High|2021|Vinson|Le|2|0|53|ENGLAND|Vivenda|228.59|4|4|645
+PT-400|||2014|High|2021|Anna|Liu|2|1|24|Portugal||334.61|4|1|511
+PT-129|Faro|Female|2012|Low|2020|Almaasa|el-Akhter|6|1|42|UK|Vivenda|281.47|4|3|601
+PT-503|Lisboa||1995|Low|2015|Renee|Dixon Jr|3|1|55|Pt|Vivenda|264.97|4|1|586
+PT-1118|Lisboa|Female|2007|Low|2017|Kimberly|Methuselah|2|1|50||Apartamento|179.5|4|1|677
+PT-259||Male|2012||2018|Franklin|Iron Cloud|1|0|32|ENGLAND|Vivenda|214.35|4|4|526
+PT-1078|||2015|High|2019|Veronica|Salazar|4|1|67||Apartamento|195.97|4|2|720
+PT-1033|PORTO|Male|2003|Medium|2016|Aidan|Bump|5|0|59|EUA|Quinta|114.91|4|4|595
+PT-1022|Lisboa|Female|2003|High|2020|Lee Ann|Bui|2|1|52|Prt||292.66|4|2|684
+PT-787|PORTO|Female||High|2023|Christian|Jamison|1|0|58|ENGLAND|Vivenda|228.3|4|2|606
+PT-648|||2006|High|2017|Taqiyya|al-Hossain|6|1|60|United States of America||171.61|4|3|647
+PT-395||Female|2006||2022|Varun|Batorgil|2|0|59||Vivenda|254.96|4|2|563
+PT-816|Lisboa||2007||2022|Michelle|Manshadi|2|1|33|USA|Vivenda|332.56|4|2|526
+PT-106|Porto||1997|Very High|2019|Jeremy|Zaman|1|0|62|United States of America|Quinta|343.71|4|4|620
+PT-1092|Lisboa|Male|2005|Perfect|2020|Andres|Macneill|2|0|55|Prt|Vivenda|164.55|4|4|579
+PT-1375|||1997|Perfect|2016|Khaleel|el-Kamara|6|0|59|USA|Apartamento|128.9|4|3|604
+PT-736|Proto|||High|2021|Scarlett|Makaiwi|1|1|35|England||256.44|4|4|550
+PT-547|Coimbra|Female|1996|High|2019|Desiree|Roman Aguilar|4|1|34|Prt||217.99|4|30|579
+PT-1371|Coimbra|Female|1998|High|2020|William|Green|3|0|39|Prt|Apartamento|210.64|4|3|657
+PT-1181|Coimbra||2013||2016|Stephanie|Park|2|1|29||Vivenda|132.7|4|4|535
+PT-766|Lagos||2014|High|2016|Mahdhoodha|al-Rahaim|6|1|19|PT||294.94|4|2|569
+PT-986|Porto|Male|2012||2018|Zeena|el-El-Sayed|6|1|43|USA||208.77|4|2|548
+PT-394|Porto|Female|1920||2020|Marcus|Sanchez|4|0|63|USA|Apartamento|127.13|4|4|551
+PT-442|Faro||2003|Very High|2023|Sadoon|el-Hamdan|6|0|61|England|Vivenda|292.74|4|2|671
+PT-430|Lx|||High|2017|Sekayi|Afework|3|1|15||Quinta|169.66|4|3|512
+PT-1053|Portimão||2008|High|2020|Musaaid|el-Hatem|6|0|62|Portugal|Quinta|333.87|4|1|557
+PT-661|Porto|Female|1920|High|2018|Abdul Haadi|al-Tamer|6|0|47|USA|Quinta|326.96|4|2|470
+PT-1109|||2017|High|2021|Mario|Glowinsky|2|0|22|USA|Vivenda|248.18|4|3|581
+PT-286||||Medium|2021|Kai|Aragon|4|0|67|Portugal|Apartamento|244.82|4|3|589
+PT-207|Lisboa|Female|2002|Medium|2023|Phillip|Cooks|3|0|38|ENGLAND|Vivenda|246.89|4|2|527
+PT-513|Lisboa|Female|1975||2018|Charles|Pounal|3|0|52||Quinta|244.27|4|2|640
+PT-1345|Portimão|Female|1980|High|2015|Liad|Cathey|3|0|32|Prt|Apartamento|129.8|4|2|664
+PT-611|PORTO|Female||Very High|2021|Rayce|Celestine|3|0|53|Prt|Apartamento|155.47|4|4|622
+PT-849|Portimão||2016|Very High|2019|Michael|Carrasco|4|0|43|Portugal|Quinta|183.3|4|2|546
+PT-86|Lisboa||1995|High|2018|Jyona|Talley|3|1|36|ENGLAND|Vivenda|325.87|4|1|554
+PT-774|Porto|Female|1975|High|2018|Emily|Debroux|5|1|42|United States of America||193.44|4|1|517
+PT-260|Lx|Female||High|2016|William|Mills|1|0|23|Portugal|Vivenda|298.88|4|4|640
+PT-100|Lx|Male|2015||2020|Christopher|Cabanting|2|0|46|Pt|Vivenda|220.58|4|1|558
+PT-805|Lagos||1999|Low|2020|Cetan|Warren|1|1|65||Quinta|103.54|4|2|610
+PT-1156|||2016|High|2022|Jalen|Lovato|1|0|51|PT|Vivenda|283.68|4|4|744
+PT-1101|Lisboa|Male||Perfect|2015|Sierra|Zimmermann|5|1|57|UK|Quinta|142.11|4|2|592
+PT-247|LISBOA|Male|2004||2016|Vandross|Quidachay|2|0|48|Prt|Vivenda|111.13|4|3|586
+PT-676|Lisboa|Female|1980|Low|2021|Lakota|Perry|1|1|57|Portugl|Vivenda|261.13|4|4|518
+PT-1329|Portimão|Male|1980|High|2015|De'Jane|Towne|1|1|59|Portugl|Apartamento|92.02|4|4|595
+PT-1003|Portimão|||High|2023|Madeline|Martinez|3|1|43|EUA|Vivenda|327.61|4|4|604
+PT-1336|Proto|Female|2006|Medium|2019|Ashley|Crews|1|1|59|ENGLAND|Apartamento|175.21|4|2|663
+PT-1338|Portimão|Female|2008||2021|Paul|Mims|3|0|61|EUA|Vivenda|109.37|4|1|603
+PT-467|Lisboa||2008|High|2023|Irma|Serrano|4|1|44|USA|Quinta|343.22|4|3|573
+PT-609|Faro|Female|1900||2016|Maihao|Song|2|1|24|United States of America|Vivenda|241.3|4|4|511
+PT-1193|Proto|Female|||2016|Willie|Burkley|3|0|55|Portugal|Apartamento|176.63|4|4|526
+PT-409|||1950|Very High|2018|Dominic|Mix|1|0|35|Portugal||253.27|4|4|542
+PT-1072|Lisboa|Female|2001|High|2016|Alexander|Garcia|1|0|54|EUA|Vivenda|167.71|4|4|704
+PT-1138|Coimbra|Female|1997|High|2022|Markus|Morales|4|0|62|Pt|Vivenda|154.9|4|2|623
+PT-208|Porto||1997|High|2022|Jeffrey|Mourn|1|0|28|Prt|Vivenda|338.22|4|4|559
+PT-161|Portimão||2003|High|2021|Hasan|al-Soliman|6|0|29|UK|Apartamento|235.58|4|4|612
+PT-472|||1975|Perfect|2016|Andrew|Pleasants|5|0|48|EUA|Vivenda|337.79|4|4|531
+PT-738|||1980|High|2021|Micheal|Trujillo|4|0|42|ENGLAND|Apartamento|301.08|4|2|610
+PT-1177|Lisboa|Female||High|2018|Kelsey|Gonzalez|4|1|35|UK|Quinta|105.72|4|2|588
+PT-372|Lisboa||2007|High|2022|Stephani|Lipps|1|1|39|Portugal|Apartamento|286.19|4|3|669
+PT-644|Lagos|Female|2001|Medium|2020|Sourinthone|Plumsukon|2|0|15||Apartamento|122.82|4|4|530
+PT-1367|Portimão||1900||2016|Trae|Kamanawa|2|0|53||Apartamento|259.99|4|4|550
+PT-1191|Lisboa|Male|2008|Low|2023|Keith|Miller|5|0|32|USA|Apartamento|310.54|4|1|541
+PT-701||Female|2007||2015|Haaniya|al-Abid|6|1|63|Portugl|Quinta|238.78|4|4|645
+PT-768||Male|1960|High|2016|Matthew|Kennedy|3|0|70|USA||287.95|4|4|631
+PT-579|Faro|Male|1960|Low|2016|Jose|Gamboa|4|0|49|USA|Apartamento|150.73|4|2|617
+PT-636|Coimbra|Female|1980|High|2022|Maisara|al-Ishak|6|1|35|ENGLAND|Vivenda|329.77|4|3|644
+PT-301|Porto|Male|1900|Medium|2019|David|Kacprowicz|1|0|52|England||249.72|4|3|670
+PT-294||Female|2008|High|2015|Angelina|Ruppert|1|1|46|EUA||308.83|4|1|650
+PT-1207|Lx||1900|Very High|2023|Davuntae|Morrison-Howze|3|0|47|EUA|Apartamento|125.23|4|3|598
+PT-241|Lisboa|Female|2012|Medium|2022|Fareeda|al-Ishak|6|1|46||Quinta|293.22|4|1|636
+PT-460|Porto||1975|Medium|2022|Camille|Chapa|1|1|33||Quinta|204.95|4|3|597
+PT-487|LISBOA|Female|2002||2019|Clifton|Mason|1|0|38|PT|Quinta|311.39|4|1|640
+PT-1218|Lisboa|Male|2013|High|2015|Lindsey|Barker|5|1|28|Portugl|Vivenda|149.56|4|2|644
+PT-1315|Lisboa||2005||2021|Husain|el-Kaba|6|0|56||Vivenda|181.68|4|1|580
+PT-187|Porto||2012|Low|2018|Carlos|Ontiveros-Garcia|4|0|70|UK|Vivenda|105.61|4|1|611
+PT-1038|Coimbra|Male|1950||2019|William|Truefeather|1|0|45|Pt|Vivenda|213.21|4|4|648
+PT-450||Female|2004|High|2015|Aaron|Morris|3|0|46|UK||177.42|4|2|618
+PT-274|Portimão|||Very High|2016|Jessica|Lefholz|1|1|-1|United States of America||336.89|4|1|582
+PT-1090|Lisboa|Male|2004|High|2023|Brittni|Pinelle|1|1|42|Pt||231.63|4|3|550
+PT-574|Lisboa||1900|High|2022|Alejandra|Lopez|4|1|47|EUA|Vivenda|195.33|4|3|505
+PT-1356|Porto||1998|High|2018|Natalie|Thai|2|1|35|Pt|Apartamento|349.42|4|4|564
+PT-914|Lisboa||1950|Perfect|2020|Nicholas|Bullock|5|0|59|Portugal|Apartamento|161.72|4|4|586
+PT-811|Lisboa|Female|2005||2023|Jubair|el-Ahsan|6|0|46||Apartamento|98.83|4|4|543
+PT-548|Faro|Female|2016|Very High|2019|Jonique|Thorne|3|1|59||Quinta|310.41|4|2|611
+PT-186||Female|2006|High|2015|Miska|el-Zia|6|1|23|ENGLAND|Quinta|284.17|4|4|590
+PT-1071|Lx||2000|Low|2023|Haniyya|al-Muhammad|6|1|27|United States of America|Apartamento|203|4|2|640
+PT-103||Female|1996|High|2015|Chan'Cellore|Plaatjes|3|1|61|Portugl||215.04|4|1|680
+PT-936|Lisboa|Female|1996|High|2015|Dylan|Stevens|2|0|47|England|Quinta|328.63|4|4|601
+PT-982|Lisboa||||2019|Cristian|Valadez Fraire|4|1|40|England|Vivenda|277.01|4|4|628
+PT-1205|LISBOA||1997|High|2018|Michael|Wilson|4|0|42||Apartamento|206.25|4|2|589
+PT-1215||Female|1997|High|2020|Melissa|Corrales-Pena|4|1|72||Vivenda|233.61|4|4|626
+PT-361|Lisboa|Female|2008|Perfect|2021|Corey|Tolbert|3|0|63|Portugal|Apartamento|213.85|4|4|643
+PT-526|Lisboa||1997|High|2023|Amanda|Barnes|5|1|40|||289.31|4|2|513
+PT-605|Coimbra|Male|1960||2016|Marquel|Mitchell|3|0|93||Vivenda|115.32|4|2|571
+PT-1301|Lisboa|Female|1996|High|2023|Archibald|Jennings|3|0|59||Quinta|321.97|4|4|586
+PT-37|Portimão|Male||High|2018|Naadiya|el-Rahman|6|1|54|USA|Quinta|288.1|4|2|602
+PT-139|Porto||1975|High|2015|Benjamin|Devnani|2|0|21|Pt|Vivenda|106.24|4|1|733
+PT-770|Lisboa||2016|High|2016|Christina|Fields|3|1|55|Pt|Apartamento|237.17|4|3|624
+PT-1183|Lisboa||1900|High|2015|Jordyn|Bilenduke|5|1|56|United States of America|Vivenda|144.37|4|3|679
+PT-490|||1920|Medium|2022|Joshua|Mcgee|5|0|69|Portugal|Quinta|275.79|4|2|558
+PT-91||Female|2004|High|2022|Scott|Boyles|5|0|45|Portugal||159.74|4|3|571
+PT-608|Porto|Female|2003|High|2022|Teria|Moss|3|1|39|EUA|Quinta|348.04|4|30|711
+PT-1288|LISBOA|Female|2013|High|2018|Clarence|Yaromenka|5|0|50|Portugal|Vivenda|121.93|4|30|550
+PT-404|LISBOA||2002|Low|2016|Nameera|el-Saleh|6|1|53|ENGLAND|Quinta|251.42|4|4|565
+PT-912|Lisboa||2008|High|2023|Celes|Scott|3|1|53|ENGLAND|Vivenda|160.63|4|3|562
+PT-459|Proto||2007|Low|2021|Stephen|Scherrer|5|0|46|England|Apartamento|164.59|4|3|529
+PT-1097|Lx||1950|High|2017|Reyna|Delgado|4|1|59|Pt|Quinta|92.67|4|4|582
+PT-818||||High|2021|William|Mourn|1|0|66|Prt|Apartamento|98.76|4|3|604
+PT-45|Faro|Female|2003|High|2015|Tara|Luong|2|1|45|UK||248.61|4|4|563
+PT-399|Coimbra||2015|High|2021|Anjana|Che|2|1|52|Portugal||103.91|4|4|627
+PT-1143|||1997||2019|Sergio|Castorena|4|0|32|United States of America|Apartamento|344.06|4|3|602
+PT-96|Lisboa||2005|Medium|2020|Edward|Cerritos-Rodriguez|4|0|45|Pt|Apartamento|99.66|4|2|665
+PT-1241|Coimbra|Female|1998|High|2018|Philong|Ninomiya|2|0|30|Portugal||334.08|4|2|621
+PT-272|||1995|High|2023|Sameera|al-Farid|6|1|28||Quinta|240.06|4|2|598
+PT-1149|Faro|Female|1996|Perfect|2021|Zirui|Safranek|2|0|21|PT||254|4|4|580
+PT-493|Lisboa||1920|High|2015|Alyssa|Fiddelke|1|1|51|PT|Apartamento|249.16|4|3|581
+PT-852|||1900|High|2020|Deaijah|Curtis|3|1|46|England|Apartamento|195.93|4|3|458
+PT-188|Lisboa||2013|Very High|2015|Saleema|el-Nasrallah|6|1|26|PT|Vivenda|301.41|4|2|583
+PT-1385|Porto|Female||High|2020|Rahma|el-Salih|6|1|65|USA|Vivenda|309.61|4|2|557
+PT-436|||2005||2016|Ariel|Decoud|3|1|71|Pt|Vivenda|154.28|4|4|603
+PT-109||Male|1980|High|2015|Taylor|Vigil|4|1|34|United States of America|Apartamento|294.32|4|3|639
+PT-445||Female|2013|High|2021|Michael|Jones|5|0|69|UK|Vivenda|321.1|4|3|598
+PT-1247||Female|1960||2020|Dezmond|Robinson|3|0|75|ENGLAND|Apartamento|231.4|4|3|454
+PT-1263|Porto||1920|High|2015|Mu'taz|el-Noori|6|0|39|PT|Apartamento|271.68|4|4|605
+PT-831|Coimbra|Female|2014|Very High|2017|Hector|Rodriguez|4|0|40|Prt|Quinta|272.9|4|4|651
+PT-1238|PORTO|Female|2012|Medium|2021|Luis|Silva|4|0|43|USA|Apartamento|135.99|4|3|502
+PT-1131|Portimão||2015||2018|Julia|Zimmerman|5|1|47|USA|Vivenda|200.34|4|3|564
+PT-298|Proto|Female|2000|Perfect|2020|Brianna|Otero|4|1|61|Portugl|Quinta|237.59|4|1|609
+PT-334|Coimbra|Female||Low|2021|Jordan|Dubose|3|0|58|Portugl|Apartamento|281.71|4|3|580
+PT-629|Porto|Male|2002||2022|Natasha|Jensen|3|1|34||Apartamento|154.14|4|2|696
+PT-140|Lisboa|Male|2008|Very High|2020|Lexandra|Xiong|2|1|58|Prt||318.17|4|1|656
+PT-858|Porto|Female|2014|High|2023|Mina|Hoang|2|1|59|Portugal|Vivenda|276.86|4|3|553
+PT-1141|Lagos||2003|High|2019|Colton|Hardy|5|0|34|United States of America|Apartamento|235|4|1|670
+PT-703|||2013|Perfect|2017|Mumtaaza|al-Rabbani|6|1|50|Pt|Quinta|318.15|4|3|621
+PT-568|Faro||1975|High|2021|Alexandra|Arnold|4|1|72|Prt|Quinta|183.69|4|1|628
+PT-775||Male|2004|Low|2018|Kaitlyn|Kruse|5|1|75|Portugal|Quinta|197.02|4|2|618
+PT-1127|||1975|High|2023|Tyler|Everett|3|1|64|Portugl|Apartamento|298.65|4|2|606
+PT-1019|||1997|Perfect|2023|Hunter|Ordunez|1|1|50|Portugl|Quinta|225.82|4|2|578
+PT-821||Female|2007|Very High|2019|Tameem|el-Salman|6|0|27||Vivenda|196.34|4|2|618
+PT-509|Lisboa|Female|2005||2021|Stevie|Maez|1|1|25|EUA|Apartamento|296.03|4|3|606
+PT-92|Porto||||2017|Khaira|el-Ansari|6|1|19||Quinta|329.45|4|2|585
+PT-895||Female|2015|High|2022|Janice|Yen|2|1|48|ENGLAND|Apartamento|280.73|4|2|538
+PT-530|Lx|Male|2001||2016|Ashley|Christensen|5|1|32||Apartamento|220.72|4|4|662
+PT-335|Lisboa|Female||High|2019|Laquinn|Shelton|2|0|59|USA|Quinta|248.52|4|4|528
+PT-412|Lisboa|Female|1920|Low|2021|Zaaida|el-Shad|6|1|56|England|Quinta|282.58|4|30|582
+PT-281|Faro|Female|2007|High|2018|Zaamil|al-Jaffer|6|0|25|||209.49|4|2|564
+PT-1273|||2004|High|2018|Anthony|Hernandez|3|0|58|England|Vivenda|190.76|4|2|614
+PT-580|Lx|Female|1920||2019|Kameron|Reyad|3|0|43|USA|Quinta|334.55|4|2|544
+PT-20|Lisboa||1999|Perfect|2016|Bandar|el-Shabazz|6|0|73|Portugl|Vivenda|235.4|4|2|612
+PT-306|PORTO|Male|2008|High|2022|Stephanie|Brown|3|1|41|PT|Apartamento|118.1|4|2|490
+PT-1185|Lagos|Female|2016|High|2020|Sara|Alex|1|1|27|Pt||264.83|4|3|574
+PT-947||Female|2014||2015|Noah|Magallanes Hernandez|4|0|26|Portugal||149.12|4|2|557
+PT-730|Coimbra|||Very High|2015|Nicholas|Ross|5|0|40|Prt|Quinta|230.71|4|3|631
+PT-53|||1997|Low|2017|Maisara|al-Shahan|6|0|39|Prt|Quinta|126.07|4|2|615
+PT-461|PORTO|Female|1997|High|2018|Taylor|Hanley|3|1|57||Quinta|249.75|4|2|661
+PT-846|||2008|High|2020|Katharine|Grieser|5|1|54|PT|Vivenda|341.7|4|3|640
+PT-843|Proto||1998|High|2018|Justin|Atencio|1|0|66|England|Vivenda|338.96|4|1|584
+PT-1291|Lisboa|Female|||2023|Shadhaa|al-Hamdan|6|1|54|Portugal|Apartamento|227.31|4|3|559
+PT-1264|LISBOA|||High|2018|Hieu|Morales|2|0|56|EUA||190.6|4|1|579
+PT-892|Porto|Female|1960|High|2021|Pascal|Dizon|2|0|53|Portugal|Apartamento|247.59|4|2|543
+PT-948|PORTO|Male|1996|Low|2020|Tony|Marsh|1|0|7|Prt|Quinta|291.25|4|1|566
+PT-473|Lisboa|Female|1999|High|2023|Charlayna|Ehlers|1|1|28||Vivenda|215.76|4|3|665
+PT-290|Faro|Male|2008|Perfect|2022|Achaya|Parnell|3|1|33|England|Quinta|112.44|4|1|669
+PT-716||Female|2000|High|2020|Huraira|al-Majeed|6|0|61|ENGLAND|Apartamento|272.1|4|2|569
+PT-1122|Coimbra|Female|2017|High|2020|Leo|Rodriguez|4|0|46|UK||98.89|4|4|612
+PT-891|Lisboa|Male|2002|Perfect|2023|Jasmin|Ontiveros-Valles|4|1|19|Pt|Quinta|171.49|4|4|616
+PT-1150|Lisboa|Female|1996||2015|Joshua|Chapa|1|0|37|PT|Quinta|217.43|4|1|624
+PT-606|Lagos|Male|2007|High|2015|Shamaja|Uzor|3|1|38|UK|Apartamento|318.86|4|4|497
+PT-1099|Lagos||2012|Very High|2019|Jephonique|Wilson|3|1|62|Portugal||319.7|4|3|684
+PT-756||Male||High|2015|Harshwinder|Siminoe|2|1|62||Vivenda|286.31|4|4|664
+PT-1044|Porto|Male|1980|Very High|2019|Sarah|Jones|1|1|43|UK|Quinta|256.51|4|3|492
+PT-232|Porto|Female|1998|High|2023|Theo|John|1|0|58||Vivenda|342.34|4|3|531
+PT-740|Faro|Male|2001|High|2019|Whispar|Wilkins|3|1|41|USA|Vivenda|271.17|4|1|608
+PT-105|Coimbra||2016|Very High|2017|India|Foster|1|1|42|Portugl|Apartamento|290.03|4|2|458
+PT-950|Porto||||2018|Cori|Coons|5|1|61|PT|Vivenda|225.17|4|1|573
+PT-518|Lagos||2016|High|2019|Drew|Cousins|5|0|61|EUA|Apartamento|270.43|4|2|738
+PT-342|Proto|Female|1999|High|2022|Jayda|Jensen|3|1|48|Prt|Quinta|197.28|4|2|577
+PT-1180|Porto|Male|1995|High|2018|Mishaari|al-Faraj|6|0|19|EUA|Vivenda|336.12|4|2|710
+PT-465|Lx|Male|2004||2023|Tiffine|Cunningham|1|1|51|United States of America|Vivenda|290.76|4|4|675
+PT-737|Lisboa|Female|2017|High|2017|Azmi|el-Hosein|6|0|53|Portugl|Vivenda|222.13|4|4|595
+PT-555|Proto|Female|2012|High|2015|Mumtaaza|al-Semaan|6|1|45|Pt|Apartamento|234.33|4|1|635
+PT-859|PORTO||2016|High|2017|Kaatima|al-Sinai|6|1|35|Portugal||97.33|4|2|629
+PT-56|Lisboa|Male|2005|High|2017|Sienna|Black|2|1|47|England|Quinta|118.69|4|3|587
+PT-969|LISBOA|Female|2000|High|2021|Jordan|Chavez|1|0|60|Prt|Quinta|299.3|4|3|617
+PT-128|Lisboa|Male|2003|Very High|2019|Anthony|D'Almeida|3|0|59|Pt|Vivenda|217.1|4|2|661
+PT-994|Coimbra|Female|1920|Very High|2020|Nicholas|Ramirez|4|0|45|England|Apartamento|266.63|4|1|548
+PT-1349|LISBOA|Female|1980|High|2018|Edgar|Batres|4|0|64|ENGLAND|Apartamento|192.58|4|1|616
+PT-502|LISBOA||||2018|Nicolai|Ouphasakda|2|0|62|United States of America|Vivenda|188.86|4|1|631
+PT-1232|Lisboa|Female|2001||2015|Micheal|Macauley|4|0|54|UK|Apartamento|205.38|4|3|652
+PT-1089|Lisboa||2001|High|2015|Brodee|James|5|0|67|Portugal|Apartamento|254.01|4|4|739
+PT-193|Lisboa|Male|2015|High|2019|Ana|Singh|2|1|51|Pt|Apartamento|186.18|4|3|633
+PT-414|LISBOA|Male|1996||2016|Brandon|Willmann|5|0|52|USA|Vivenda|298.8|4|4|645
+PT-413|LISBOA|Male|1997|Low|2018|Yeng|Francin|2|0|41|Portugl|Apartamento|93.05|4|3|533
+PT-1363|Lagos|Female||High|2017|Saood|el-Abdou|6|0|45|UK||119.57|4|2|627
+PT-752|Porto||2017|Medium|2021|Dan|Abdalla|3|0|49|Portugal|Vivenda|223.46|4|3|592
+PT-783|Lisboa|Male|2012||2018|Nathaniel|Schneider|5|0|29|England|Apartamento|292.06|4|1|560
+PT-1145|Faro|Male|1999|High|2021|Brittney|Fernandez|4|1|38|England|Quinta|120.33|4|3|603
+PT-277|Proto|Male|2007|High|2019|Xavier|Rogers|3|0|18|United States of America|Apartamento|168.78|4|2|594
+PT-206||Male|2002|Low|2023|Jasmine|Bajwa|2|1|63|Portugl||319.62|4|3|598
+PT-1248|Lagos||2014||2023|Sahar|al-Khalid|6|1|82|PT|Apartamento|294.31|4|3|632
+PT-463||Male||High|2017|Anthony|Bailey|3|0|40|Portugl|Apartamento|295.44|4|3|566
+PT-563|Lagos|Female|1900|High|2022|Gabriella|Kazakov|5|1|50|Pt|Apartamento|153.82|4|3|553
+PT-784|Porto|Female|2003|High|2021|Rashawnya|John III|1|1|48|ENGLAND|Vivenda|161.26|4|3|596
+PT-1025|Lagos||2000||2016|Dah'Som|Melonas|1|0|62|Portugl|Apartamento|108.7|4|4|547
+PT-333||Male||High|2017|Shanese|Turnbough|3|1|56||Apartamento|206.04|4|3|564
+PT-142||Female|1999|High|2019|Shawn|Hildebrand|1|0|50|UK|Vivenda|343.92|4|2|608
+PT-101|Porto|Female|1996||2021|Ghuzaila|al-Shahid|6|1|29|England||177.66|4|3|631
+PT-897|Faro|Female|1995||2016|Angele|Anderson|5|1|24|||110.18|4|4|582
+PT-202|Coimbra|Female|2006|High|2021|Leilani|Atkinson|1|1|34|England|Apartamento|135.72|4|3|629
+PT-29|Faro|Female|1999|Low|2020|Chanse|Marsh|1|0|11|PT|Apartamento|211.13|4|4|572
+PT-866||Female|2014|High|2016|Julia|Kim|2|1|42|USA||308.46|4|3|676
+PT-590|PORTO||2014|Perfect|2021|Stephen|Coutu|1|0|17|Portugal|Apartamento|97.73|4|3|526
+PT-1307|Coimbra|Female|1980|High|2022|Breanne|Jenkins|3|1|46|England||109.05|4|1|644
+PT-847|Lisboa||1997|High|2018|Kelsey|Norris|5|1|29|USA|Quinta|305.81|4|1|588
+PT-679|Proto|Male|2013||2015|Daylamae|Romero|1|1|44||Quinta|293.9|4|3|617
+PT-165|Lisboa||2012|High|2018|Kathryn|Russell|3|1|21|EUA||332.54|4|1|525
+PT-267|Proto||2016|High|2023|Ulises|Rodriguez Gonzalez|4|0|46|Portugal|Apartamento|344.17|4|3|508
+PT-396|Lisboa|Female|2006|High|2015|Jordan|Medicine Bear|1|0|32|PT|Vivenda|186.22|4|30|579
+PT-344||Male|1996|Perfect|2016|Nevin|Ho|2|0|75|Prt|Apartamento|345.8|4|3|561
+PT-132|Lx|Female|2005|High|2020|Jeremy|Nunez Jr|4|0|6|Portugal|Vivenda|342.05|4|1|645
+PT-95|Lisboa||2013|High|2019|Ricardo|Nees|4|0|54|United States of America|Apartamento|344.49|4|2|569
+PT-1377|Coimbra|Female|2005|Perfect|2017|Reanna|Wade|3|1|52||Vivenda|286.15|4|2|637
+PT-1190|Lx|Male|2007|Medium|2020|Shahaama|al-Daoud|6|1|52|Portugal||173.58|4|1|576
+PT-116|Lx|Male|1950|High|2022|Arhab|al-Ayoob|6|0|58|Portugl|Quinta|280.93|4|2|599
+PT-147|LISBOA||1996|Very High|2015|Geraldine|Powell|5|1|39||Vivenda|245.32|4|1|620
+PT-572|Proto|Female||High|2023|David|Johnson|3|0|56|PT|Vivenda|325.2|4|3|622
+PT-1243|Faro||1996|Low|2019|Juston|Southern|3|0|50|United States of America||277.21|4|2|486
+PT-158|Lisboa|Male|2000||2023|Carson|Petersen|1|0|71|PT|Vivenda|218.99|4|3|591
+PT-1266|Porto||2015|Very High|2021|Kiana|Porter|3|1|43|Portugal|Vivenda|311.73|4|1|597
+PT-21|Lisboa|Female|1997|Very High|2019|Danica|Kills In Sight|1|1|40|Prt|Quinta|281.86|4|2|625
+PT-633|LISBOA|Male|1997|High|2021|Samuel|Kamerzell|5|0|43|United States of America|Apartamento|301.73|4|3|626
+PT-669|Lisboa|Female|2003||2019|Dayzia|Calvo|4|1|12|||327|4|2|611
+PT-31|Portimão|Male|2002|Perfect|2021|Abeer|el-Matin|6|1|31|PT|Apartamento|343.2|4|3|568
+PT-287|Porto|||Perfect|2015|Austin|Calderon|4|0|50|Portugal|Quinta|133.84|4|2|592
+PT-704|Lagos|Female|1997||2018|Sean|Lantz|5|0|38|PT|Vivenda|97.3|4|4|684
+PT-6|Lagos|Male|1960|High|2021|Danielle|Asberry|3|1|48|Portugal|Quinta|197.89|4|2|595
+PT-60|Proto|Female|1960||2019|Casey|Reimondo|5|1|52|EUA|Apartamento|213.4|4|30|671
+PT-998|LISBOA||2000||2018|Jonathan|Pohl|2|0|34|USA|Vivenda|337.73|4|4|602
+PT-1400||Female|1980|Medium|2019|Cody|Parks|3|0|85|USA|Vivenda|162.16|4|2|655
+PT-1292|Lisboa|Female||High|2017|Kree|Cruz|1|1|17|England|Quinta|180.37|4|2|595
+PT-894|Porto|Male|2003|High|2020|Djaye|Montgomery|3|0|70|UK||225.64|4|4|633
+PT-138|LISBOA|Male|2015|High|2023|Tanner|Horton|5|0|48|Portugl|Quinta|333.29|4|3|625
+PT-77|||2015|High|2020|Morgan|Weiss|5|1|36|United States of America|Apartamento|338.9|4|1|624
+PT-1330||Male|2015||2022|Margaret|Griffin Zavala|4|1|21||Apartamento|188.77|4|3|665
+PT-970|Lisboa|Female|2007|High|2015|Taahir|al-Shehata|6|0|54|Prt|Vivenda|151.05|4|2|676
+PT-245|Porto|Female|1999|High|2019|Alexandra|Cart|5|1|52|Portugal||220.46|4|3|615
+PT-757|Porto|Female|2015||2023|Fernando|Mascarenas|4|0|14|||101.21|4|2|567
+PT-1226|Coimbra|Male|1975|High|2015|Simone|Annan|3|1|49|ENGLAND|Apartamento|171.84|4|4|568
+PT-839|Coimbra|Female|2008||2019|Fikriyya|al-Elbaz|6|1|49|Portugl|Apartamento|309.26|4|3|645
+PT-707|Portimão||2008|High|2017|Ariana|Marquez|1|1|20||Apartamento|277.03|4|2|609
+PT-641|Faro||2015|High|2022|Danacia|White|3|1|59|Portugal|Quinta|211.48|4|2|664
+PT-873|||1975|Perfect|2017|Hien|Monson|2|0|77|UK|Vivenda|110.2|4|3|599
+PT-214|Proto|Female|2005|High|2018|Joshua|Johnson|3|0|51|Portugl|Vivenda|176.9|4|4|656
+PT-1080|Faro|Female|1900|High|2022|Shaimaaa|el-Yousef|6|1|55|Pt|Vivenda|291.93|4|4|565
+PT-990|Porto|Male|2016|Perfect|2017|Darius|Carter|3|0|40|Pt|Quinta|302.08|4|1|654
+PT-1119|Proto|Male||High|2021|Zainab|el-Farrah|6|1|34|Portugl|Vivenda|188.81|4|4|565
+PT-113|||2003|Very High|2021|Najlaa|el-Akbari|6|1|60|England|Quinta|176.75|4|2|694
+PT-130|Lagos|Female|1900|High|2017|Kevin|Lai|2|0|45|Portugal|Quinta|251.57|4|1|474
+PT-364|Faro||1900|Medium|2015|Diamond|Jackson|3|1|45|England|Apartamento|187.84|4|1|647
+PT-809|Porto|Female|2007||2016|Ezra|Pavisook|1|0|58|PT|Apartamento|237.24|4|4|621
+PT-481|Portimão||2017|Very High|2022|Joshua|Brown-Davis|5|0|24|Prt|Quinta|246.17|4|2|557
+PT-1350|Proto|Female|1998|High|2022|Joseph|Dickerson|3|0|60|Portugal|Quinta|241.18|4|4|585
+PT-354|Faro||1950|Low|2016|Vincent|Vang|2|0|28||Vivenda|217.01|4|2|684
+PT-732|Lisboa||1950|Medium|2021|Pablo|Urbina|4|0|32|USA||294.81|4|4|672
+PT-1202|Faro|Male|2002|High|2021|Michael|Shoemate|5|0|64|UK|Quinta|199.57|4|3|573
+PT-1012||||High|2021|Abdul Baari|al-Elamin|6|0|24|UK|Apartamento|210.9|4|4|583
+PT-550|Faro|Male|1980|High|2021|Dilkush|Yoshimiya|2|1|72|United States of America|Quinta|184.82|4|3|588
+PT-185|PORTO||2014|High|2017|Wallis|Oakley|2|1|57|EUA|Apartamento|146.11|4|3|466
+PT-1234|LISBOA|Female|1995|High|2017|Anbara|al-Khalili|6|1|92||Vivenda|279.9|4|4|509
+PT-266||Male||Perfect|2023|Jonah|Osby|3|0|40|Prt|Quinta|333.99|4|2|534
+PT-1303|Lx||2000|Very High|2015|Taylor|Moctezuma|4|0|51|Portugal|Apartamento|166.36|4|3|607
+PT-1213|PORTO|Female|1950|High|2015|Cheyenne|Cloud|1|1|49|USA|Apartamento|128.91|4|3|603
+PT-48|Faro|Male|2003|High|2021|Tosha|Moonlight|1|1|65|ENGLAND|Vivenda|185.39|4|4|626
+PT-1208||Female|1998|High|2015|Daniel|Garza|4|0|54|||236.92|4|1|599
+PT-670|Coimbra|Female|2002|High|2017|Donna|Jones|5|1|39||Apartamento|287.09|4|2|631
+PT-1223||Male|2012|High|2018|Cristina|Munoz|4|1|18|England|Apartamento|318.83|4|2|584
+PT-1275|Lagos||1950|Low|2018|Skye|Naylor|1|0|42|Pt|Apartamento|316.65|4|3|558
+PT-501|||2015|High|2017|Kyle|Carpenter|5|0|24|Portugl|Vivenda|266.67|4|4|625
+PT-1324|Coimbra||2005||2015|Duncan|Kim|2|0|37||Vivenda|241.59|4|3|647
+PT-464|PORTO|Female|2006|High|2023|Breanna|Chavez|4|1|29|Portugal|Apartamento|263.55|5|3|756
+PT-12|Lisboa||2002|High|2020|Makelsii|Davis|3|1|58|England|Vivenda|188.09|5|1|710
+PT-1073|Coimbra||1998||2023|Alanna|Johnson|1|1|45|Portugal|Vivenda|162.91|5|4|699
+PT-415|Lx|Male|1997|Perfect|2020|Shafeeq|al-Selim|6|0|45|Prt||155.12|5|1|660
+PT-1184|Portimão|Male|1950||2015|Lacey|Ortiz Johnson|5|1|57|Prt|Quinta|152.41|5|4|824
+PT-868|Lagos||1920|Perfect|2016|Calvin|Guerrero|4|0|64|EUA|Apartamento|192.87|5|3|716
+PT-1317|Lx|Female|2017|High|2016|Nabeeh|el-Matin|6|0|48||Vivenda|220.14|5|1|709
+PT-1079||Female|1975|High|2018|Michael|Wheeler|3|0|51||Quinta|179.1|5|2|849
+PT-391|Lisboa|Male|1999|High|2020|Margaret|Townsley|5|1|31|EUA||210.02|5|4|679
+PT-1270|Lisboa|Male|1975||2020|Nawfal|al-Jaffer|6|0|14|Portugal||330.53|5|3|755
+PT-1260|Lx|Female|1950|Perfect|2020|Kathryn|Chester|1|1|77|Portugl|Apartamento|97.22|5|2|796
+PT-1305|Portimão||2017|Low|2015|Anas|el-Shehata|6|0|48||Apartamento|206.08|5|3|757
+PT-358|||1980|High|2015|Joshua|White|1|0|44|Pt|Vivenda|179.08|5|3|723
+PT-68|Lisboa|Male|1995|Medium|2022|Suhail|el-Aydin|6|0|61|England|Apartamento|238.34|5|2|791
+PT-443||Female|2012||2016|Kimyen|Huck|2|1|57|EUA|Apartamento|100.61|5|4|708
+PT-178|Lisboa|Female|2014|Perfect|2017|Haala|el-Imam|6|1|39|Prt||164.84|5|2|807
+PT-1032|Lisboa|Female||High|2023|Saamiqa|el-Zahra|6|1|51|Pt|Apartamento|290.14|5|1|781
+PT-647|Faro|Male|2002|Low|2020|Shajee'a|al-Aslam|6|1|38|England|Apartamento|248.65|5|3|649
+PT-715|Lisboa|Male|2012|Very High|2016|Damian|Bird|1|0|51|ENGLAND|Apartamento|217.82|5|2|766
+PT-182|Lisboa|Female||High|2015|Patrick|King|5|0|50|Portugal|Quinta|117.46|5|2|906
+PT-1236|Coimbra|Male|1920|High|2019|Celine|Mendoza-Santellano|4|1|45|Pt|Apartamento|176.89|5|4|708
+PT-19|||2017|High|2017|Brittany|Cabral|1|1|55||Apartamento|274.14|5|2|746
+PT-240|Lisboa|Male|1980|Low|2017|Brandon|Adhikari|2|0|49|Pt||282.9|5|3|685
+PT-1048|Lisboa||2003|Medium|2021|Marleni|Garcia|4|1|44|Portugl|Vivenda|150.46|5|30|781
+PT-1164|Lisboa|Female|1975|Low|2016|Zakkary|Herrera|1|0|38|Portugal|Quinta|312.24|5|4|644
+PT-1343|Proto|Male|2003|High|2022|Brittany|Dellacroce|1|1|37|PT|Vivenda|194.87|5|4|747
+PT-1161||Male|1920||2017|Taylor|Youngblood|1|1|42|Portugl|Apartamento|194.7|5|1|898
+PT-99|Porto|Female|1996|High|2019|Hameeda|el-Rahman|6|1|52|ENGLAND|Apartamento|345.27|5|3|835
+PT-921|Lisboa|Male|2005||2016|Bryan|Nguyen|2|0|46|Prt|Vivenda|190.4|5|3|753
+PT-1222|Coimbra|Male|2006|Very High|2015|Dominick|Salazar|4|0|39|England|Apartamento|278.77|5|2|733
+PT-81|Lisboa|Female|2000|Perfect|2021|Stephen|Amarsaikhan|2|0|60|UK|Vivenda|267.1|5|2|764
+PT-909|Lisboa|Female|2016||2018|Deion|Yocum|1|0|34|ENGLAND|Quinta|128.15|5|4|651
+PT-1082|Portimão|Male|2017|Perfect|2019|Christopher|Woody|1|0|59|UK||118.43|5|1|736
+PT-484||Female|2017|Low|2017|Fat'hi|al-Sultana|6|0|50||Apartamento|186.26|5|3|620
+PT-64|Lisboa|Female|1999|High|2017|George|Meredith|3|0|42|England|Apartamento|270.54|5|4|805
+PT-1031|||1995||2018|Justin|Shoemake|5|0|70|United States of America|Vivenda|151.27|5|2|826
+PT-860|||1996|High|2015|Samuel|Montoya|1|0|48||Apartamento|256|5|3|754
+PT-154|Porto|Male|1980|Very High|2023|Autumn|Zaragoza-Madrid|1|1|46|PT|Quinta|211.93|5|2|714
+PT-556|LISBOA||1960|High|2022|Khatlyn|Nguyen|2|1|41|||184.36|5|1|660
+PT-293|Lisboa|Female||High|2017|Justin|Burham|5|0|48|ENGLAND|Apartamento|103.86|5|3|619
+PT-1346|LISBOA||2001|Perfect|2018|Nicolas|Rodriguez-Hernandez|4|0|67|Pt|Quinta|178.97|5|3|807
+PT-599|Lisboa||2014|High|2022|Junbian|Okazaki|2|0|34|England|Quinta|184.11|5|4|643
+PT-999|Lisboa|Male|2008|High|2019|Briana|Smith|3|1|47|ENGLAND|Quinta|133.15|5|2|654
+PT-727|Coimbra|Male|2015|High|2019|John|Warren|1|0|65|EUA|Vivenda|318.09|5|4|708
+PT-209|Lisboa|Female|2002|High|2018|Valentina|Atencio|4|1|23|Prt||293.31|5|2|751
+PT-729|LISBOA||2000|Low|2023|Musfira|al-Sadiq|6|1|39|Portugal|Vivenda|158.46|5|2|830
+PT-671|Proto|Female||Medium|2022|Michael|Bolton|5|0|35|Portugal|Apartamento|343.36|5|3|718
+PT-1206|Lagos|Male|1999|Medium|2019|Carlos|Archuleta|4|0|55||Apartamento|256.76|5|3|752
+PT-1169|Lisboa||2013|High|2019|Kuei|Graham|3|1|42||Vivenda|191.11|5|4|668
+PT-1154|Lisboa||1996|High|2015|Journey|Curry|3|1|33|USA|Apartamento|249.7|5|1|867
+PT-1276|Porto|Male|1997|High|2023|Damon|Devine|3|0|33|England|Vivenda|222.94|5|4|687
+PT-216||Female|2001|High|2015|Cameron|Robinson|1|0|59|Portugal|Vivenda|254.69|5|4|767
+PT-480|Porto||2017|Medium|2023|Faisal|el-Attar|6|0|52|United States of America|Quinta|273.3|5|2|667
+PT-403|Lisboa|Female|1998|Low|2017|Kendall|Peters|5|1|42||Quinta|181.55|5|2|719
+PT-322|Faro|||High|2017|Brittany|Purrington|5|1|48|Pt|Apartamento|210.75|5|3|836
+PT-87|LISBOA||||2022|Alberto|Sconiers|3|0|65|Pt|Vivenda|349.75|5|3|852
+PT-401||Male|1996|High|2023|Olivia|Farren|5|1|55|Prt||345.23|5|3|688
+PT-638||||Low|2015|Thaamira|el-Ghazal|6|1|64|EUA|Vivenda|151.12|5|1|690
+PT-486|Porto||2007|Very High|2015|Sara|Alderman|2|1|55|PT|Apartamento|270.26|5|4|732
+PT-535|Lisboa|Female|2005|Medium|2015|Dylan|Volkland|5|0|54|Pt|Vivenda|151.75|5|3|732
+PT-537|Porto||2013|High|2022|Ellena|Li|2|1|48|Portugal|Vivenda|152.68|5|3|619
+PT-440|Lisboa|Female|2012||2020|Gillen|Gully|2|0|41|EUA|Vivenda|258.34|5|2|809
+PT-807||Male|2014|Very High|2018|Ghazaala|al-Jalil|6|1|36|USA|Vivenda|198.52|5|3|845
+PT-169|||1995|Perfect|2019|Brenda|Macedo|4|1|63|UK|Vivenda|236.21|5|3|655
+PT-927|Lisboa||1980|High|2023|Cante|Archuleta|1|1|52|Portugl||303.09|5|2|797
+PT-718|LISBOA|Female|1920|High|2020|Julien|Chen|2|0|58|Portugal|Apartamento|95.81|5|4|747
+PT-429|Lagos||1950|High|2015|Mark|Houchin|5|0|48|Portugal|Apartamento|269.28|5|2|859
+PT-663||Female|1975||2023|Tsavii|Lorenz|1|1|31|USA|Apartamento|211.08|5|1|831
+PT-963|Faro||1995|High|2015|Adriana|Chavez|4|1|51|ENGLAND|Apartamento|246.96|5|1|791
+PT-771||Male|2004|Perfect|2016|Cheyenne|Billy|1|1|63||Quinta|199.16|5|2|851
+PT-694|Faro||2012|High|2021|Jimmy|Okubo|2|0|42|Portugal|Apartamento|197.63|5|3|704
+PT-133||Female|2016|Low|2016|Damaris|Aguirre|4|1|35|Pt|Quinta|101.92|5|3|755
+PT-434|Lagos|Female|1997|High|2016|Teague|Mamdu|3|1|49|EUA|Apartamento|257.25|5|3|787
+PT-618||Female|1996|Medium|2023|Chelsea|Venkateswaran|2|1|58|Pt|Vivenda|308.3|5|3|815
+PT-945|Lisboa|Male|1995||2022|Andrew|Sohn|5|0|84|USA|Apartamento|167.36|5|3|881
+PT-370||Female|2000|High|2022|Sirajuddeen|el-Ghaffari|6|0|42|Portugl|Quinta|166.99|5|2|756
+PT-666|Lisboa||2015||2020|Elise|Tolmich|5|1|11||Vivenda|278.8|5|4|745
+PT-900|PORTO||1996|High|2021|Youjin|Zhang|2|0|25|USA|Vivenda|200.31|5|3|735
+PT-1387||Female|2016||2020|Peter|Sung|2|0|58|Pt||208.14|5|4|757
+PT-80|Porto|Female|1996|High|2015|Paul|Casey|4|0|67|Prt|Apartamento|253.03|5|4|732
+PT-38|Faro|Female|2013|High|2021|Phillip|Reyes|4|0|53|UK||275.22|5|2|755
+PT-339|Porto||1995|Low|2018|Kamariah|Nichols|3|1|33||Quinta|226.82|5|2|777
+PT-1114|Lisboa||2004|High|2020|Jonique|Bell|3|1|32|United States of America|Apartamento|221|5|3|771
+PT-453|PORTO|Female|1997|Low|2015|Sarah|Blevans|1|1|42|||293.08|5|4|792
+PT-1296|Faro|Male|2012||2023|Faaris|al-Barakat|6|0|37|England|Apartamento|251.1|5|30|740
+PT-172|Lisboa|Male|2015||2023|Nicholas|Taylor|3|0|50|Portugl|Apartamento|264.78|5|2|874
+PT-886|Coimbra|Male||Perfect|2015|Anastasiya|Newell|5|1|69|Portugl|Quinta|245.85|5|2|910
+PT-1376|Lx|Male|2000||2015|Katelyn|Gibbs|5|1|57|Portugal||293.48|5|3|884
+PT-691|Porto||2012|Low|2021|Vanessa|Ybarra|4|1|42|EUA|Apartamento|97.74|5|4|746
+PT-72|||1980||2020|Maureen|Almaraz|4|1|14|ENGLAND||268.66|5|2|790
+PT-1050|Lx|Female||High|2019|Sze|Chaivong|2|1|24||Apartamento|280.25|5|1|832
+PT-146|Lisboa||1960|Very High|2021|Christopher|Price|1|0|35|Portugal||246.48|5|1|739
+PT-1197|LISBOA||1996|High|2018|Sajaa|el-Abdalla|6|1|31||Apartamento|188.63|5|2|807
+PT-328|Faro||2016|Medium|2015|Diana|Cook|1|1|45|Pt|Apartamento|112.33|5|3|686
+PT-825|Porto|Male|1960|High|2015|Ryan|Bohling|5|1|47|United States of America|Quinta|106.67|5|1|834
+PT-249||Male|2000|Medium|2018|Zaamil|el-Rasul|6|0|63|EUA|Apartamento|178.22|5|3|866
+PT-491|Coimbra|Male|1960|Medium|2016|Ranny|Yanushonis|2|0|65|PT||145.97|5|2|775
+PT-709|Portimão|Female|1975|Perfect|2018|Sarah|Smith|4|1|44|Pt|Quinta|125.48|5|3|811
+PT-540|Lisboa|Male|2014||2020|Scottie|Carroll|1|0|54|UK|Quinta|268.22|5|3|772
+PT-1182||Female||Medium|2021|Anthony|Martinez|4|0|49|Pt|Apartamento|209.46|5|4|731
+PT-468|Lx|Female|1980|Perfect|2019|Tawfeeq|al-Moradi|6|0|56|PT|Vivenda|210.55|5|2|750
+PT-343||Female|2017|High|2023|Marissa|Sanchez|4|1|33|PT|Apartamento|138.25|5|2|860
+PT-680|Lx|Male|2012|High|2015|Kerry|Riehl|5|1|44|Portugal|Apartamento|174.88|5|4|826
+PT-953|Lisboa|Female|1996|High|2021|Trevor|Myers|1|0|37||Quinta|198.67|5|4|688
+PT-1348|Lisboa||1997|High|2018|Symphony|Collier|3|1|61|Prt|Apartamento|130.66|5|4|676
+PT-1309|Lisboa|Female|1975|High|2017|Zayyaan|el-Ghattas|6|0|39|Portugal|Quinta|124.71|5|2|901
+PT-588|Lisboa|Male|2015|High|2020|Ramla|al-Noori|6|1|75|Portugal|Vivenda|310.21|5|4|757
+PT-660|Lisboa|Male|1980|High|2021|Pedro|Jimenez Ramirez|4|0|13|England||323.2|5|3|729
+PT-89|Lisboa|Female|2002|Medium|2022|Brittney|Blackford|3|1|48|Prt|Apartamento|191.04|5|30|806
+PT-544|Lx||2002|Perfect|2022|Nika|Tinsley|3|1|39|ENGLAND|Apartamento|146.53|5|4|827
+PT-1095|Lisboa|Male|1900|High|2020|Majdi|al-Ghanem|6|0|23|United States of America|Quinta|174.59|5|1|774
+PT-97|Lisboa|Male|2005|High|2016|Jocelyn|Lee|2|1|32|ENGLAND|Vivenda|293.35|5|1|669
+PT-851|Lisboa|Female|1975|Very High|2022|Rikki|York|5|1|58|USA|Apartamento|309.15|5|2|791
+PT-1393||Male|2003|Perfect|2023|Musheera|al-Malek|6|1|25||Apartamento|339.02|5|2|749
+PT-1259|PORTO|||High|2019|Edrique|Montoya|4|0|36|UK|Vivenda|195.2|5|2|671
+PT-651||Female|2005|High|2017|Cole|Raymond|5|0|13|Prt|Vivenda|186.39|5|4|802
+PT-22|Lx|Female||Very High|2015|Deszane|Fox|3|1|56|PT|Vivenda|151.96|5|3|746
+PT-764|||2017|High|2023|Demetrius|Purcell-Edwards|3|0|56|United States of America|Vivenda|283.34|5|3|762
+PT-561|Lx|||High|2020|Saafiyya|el-Halim|6|1|42|Portugal|Apartamento|336.29|5|3|696
+PT-511|Lagos|Female|1995||2023|Zachary|Henry|5|0|48|Portugl|Quinta|239.23|5|2|689
+PT-351|Porto|Male|1980|High|2017|Ivan|Martinez-Lopez|4|0|67||Quinta|257.86|5|3|820
+PT-482|Lisboa||1996|High|2015|Kyle|Strunk|2|0|43|UK||93.67|5|4|761
+PT-118|Porto||2001|High|2018|Tammaam|el-Mirza|6|0|50|EUA|Vivenda|303.75|5|4|660
+PT-1378|Coimbra|Male||Medium|2020|Megan|Lieb|1|1|33||Quinta|195.9|5|1|778
+PT-1126|Proto|||Low|2022|Angelika|Vang|2|1|70|Portugal|Apartamento|315.81|5|4|816
+PT-368|Portimão|Female||High|2015|Diego|Ramirez|4|0|70||Quinta|208.95|5|4|747
+PT-973|PORTO|Female|1997|High|2015|Eddric|Saines|3|0|53|Prt|Vivenda|258.17|5|4|707
+PT-543||Female|1998||2018|Parker|Balogh|1|0|92|Pt|Apartamento|92.53|5|2|644
+PT-168|Lisboa|Female|1900|Low|2019|Barry|Varkhedi|2|0|46|Portugal|Apartamento|96.2|5|4|747
+PT-135||Male||High|2018|Chantel|Jamison|1|1|54|Portugl||183.7|5|1|783
+PT-662|Lisboa|Female|2014||2018|Sabiyya|al-Sawaya|6|1|61||Vivenda|148.79|5|3|747
+PT-653|Lx||1980||2015|Bryce|Hedeshian|5|0|54|England||120.44|5|2|707
+PT-888|Lisboa|Female|1999||2023|Danielle|Elson|5|1|67||Vivenda|157.34|5|4|781
+PT-520|Lisboa||2006|Very High|2015|Austin|Manning|5|0|44|PT|Apartamento|305.32|5|4|848
+PT-84|Lisboa|Female|1997|Low|2020|Nadeem|al-Burki|6|0|60|Portugal|Apartamento|202.87|5|3|728
+PT-1055|Lisboa|Male|2000|High|2015|Shane|Vallejos|5|0|23|England||294.93|5|4|712
+PT-3|Lisboa|Female|1995||2018|Baasim|al-Harron|6|0|33|ENGLAND|Vivenda|321.03|5|2|806
+PT-952|Lisboa|Female|1996|High|2019|David|Manivanh|2|0|52|ENGLAND|Vivenda|326.32|5|30|706
+PT-18|Porto|Female|2008|High|2020|Michael|Lucas|3|0|29|Portugal||197.59|5|1|692
+PT-1192|Lisboa||2015|Very High|2015|Trenton|Guenther|5|0|31|Prt|Apartamento|316.06|5|4|700
+PT-476|Lisboa|Female|2006||2023|Nafeesa|el-Darwish|6|1|42|Prt||157.22|5|2|824
+PT-1214|Lisboa|||Medium|2018|Brooke|Timoteo|2|1|58|Portugal||188.65|5|4|741
+PT-15|Portimão|Female||Very High|2017|Luqmaan|el-Abdelrahman|6|0|44|Portugal|Vivenda|292.6|5|2|842
+PT-1104|Porto||2006||2016|Thamra|al-Shaikh|6|1|46|Pt|Quinta|291.14|5|4|741
+PT-1216|Lisboa|Female|2012||2017|Daniel|Willis|5|0|44|United States of America|Vivenda|225.29|6|4|835
+PT-23|Porto|Female|2013|Perfect|2017|Morgan|Post|1|0|36|UK|Apartamento|167.56|6|1|1062
+PT-1339|Lisboa|Female|1950|High|2019|Riley|Creason|5|0|48|Portugal|Quinta|274.74|6|2|949
+PT-700|Lagos|Male|1997|Perfect|2023|Jaime|Padilla|4|0|44|UK||138.85|6|1|959
+PT-408|Lagos|Female||High|2018|Robert|Moreno|4|0|35|United States of America|Quinta|108.26|6|3|830
+PT-861|Lisboa||1996|High|2023|Raymundo|Kaltenberger|5|0|45|United States of America||266.29|6|4|949
+PT-1245|PORTO|Female|2007|High|2016|Sydney|Pham|2|1|48|Portugal|Vivenda|155.95|6|30|788
+PT-309|Proto||2000|High|2017|Saahira|el-Shakoor|6|1|39|UK|Vivenda|131.32|6|3|936
+PT-98|||||2017|Emily|Kelly|5|1|43|EUA|Vivenda|248.14|6|3|995
+PT-799||Male|2001|High|2021|Kiet|Yang|2|0|51|Portugal|Vivenda|125.61|6|1|953
+PT-137|Portimão|Male|1900|Very High|2016|Lisa|Du|2|1|28|PT||199.33|6|2|742
+PT-923|Lisboa||1998|Medium|2015|Shaafi|al-Arafat|6|0|54|Portugal|Vivenda|97.28|6|2|937
+PT-78|Lisboa|Male|1900|High|2019|Marcus|Anderson|1|0|81|USA|Vivenda|196.81|6|4|981
+PT-997|Lisboa|Male|2017|High|2019|Brandon|Kubla|5|0|52|England|Apartamento|338.47|6|3|1053
+PT-712|Lagos|Female|2013|High|2019|Melanie|Summerlin|3|1|34|Prt||213.28|6|2|956
+PT-1175|||2005|Low|2020|Hasnaa|al-Kamali|6|1|32|Portugal|Vivenda|255.09|6|3|845
+PT-884|Portimão|Female|2014|High|2022|Aanisa|el-Salameh|6|1|42||Apartamento|260.01|6|2|968
+PT-374|Coimbra|Female|2006|High|2022|Scott|Zimmerman|5|0|39|ENGLAND|Quinta|220.11|6|2|850
+PT-595|Coimbra|Female|2012|High|2020|Colton|Buhring|5|0|15|Prt||217.04|6|2|1021
+PT-406|||2001|Perfect|2020|Zachary|Olivas|4|0|52|Prt||201.74|6|4|1023
+PT-917|Faro|Female|2005|High|2022|Jack|Earley|5|0|14|ENGLAND|Apartamento|273.25|6|1|971
+PT-1274|Lagos||2002||2018|Jordan|Alexander|3|0|33|PT|Apartamento|341.44|6|4|895
+PT-1056|Coimbra|Male|2005||2023|Phanesha|Jacquez|1|1|73|UK|Quinta|184.5|6|2|991
+PT-924|||1900|High|2016|Maivy|Taase|2|1|45|Pt|Quinta|184.72|6|4|949
+PT-869|Lisboa|||High|2017|Brittany|Whyte|1|1|24|Portugal|Vivenda|297.17|6|30|1077
+PT-578|Lisboa|Female|1980||2016|Anh|Hopkins|2|1|40|England|Vivenda|191.73|6|3|1061
+PT-175|Porto|Female|2006||2017|Hanlala|al-Shehadeh|6|0|60|Portugal|Quinta|142.77|6|4|846
+PT-1147|Coimbra|Female|2015||2019|Hasnaa|al-Shafi|6|1|32|Portugl|Vivenda|237.27|6|4|950
+PT-791||Male|1960|High|2018|Jevoni|Carbajal|4|0|51|ENGLAND|Quinta|241.7|6|2|931
+PT-617|Lisboa|Male|1975||2018|Aiyana|Suchomel|1|1|41|PT|Vivenda|347.54|6|4|997
+PT-454|Lx|||High|2016|Jaime|Cortez|4|0|52||Vivenda|231.96|6|3|1044
+PT-427|Lagos|Male|1960||2016|Mai|Cho|2|1|39|Prt|Quinta|265.8|6|2|1002
+PT-692|LISBOA|Male|2017|Low|2015|Amru|el-Fahmy|6|0|57|Portugal|Vivenda|161.32|6|4|974
+PT-569|Coimbra|Female|2000|High|2022|Fat'hiyaa|al-Mahmood|6|1|25||Quinta|308.72|6|1|891
+PT-1372|Faro||2001|Medium|2015|Alexander|Komatsu|2|0|67||Vivenda|275.83|6|3|843
+PT-336||Female|1998|Medium|2017|Miranda|Vigil|4|1|57|PT|Apartamento|324.01|6|3|1008
+PT-553|Proto|Female|2001|High|2015|Garrett|Pippin|5|0|40|UK||122.92|6|2|895
+PT-1159|||1997||2017|Courtney|Phillips|3|1|77||Apartamento|191.79|6|3|1037
+PT-1196|Proto||2007|Very High|2017|Shane|Bailey|5|0|42|PT|Apartamento|199|6|2|891
+PT-32|Coimbra|Female|2015|High|2023|Hakam|al-Hashmi|6|0|22|PT|Quinta|336.81|6|4|912
+PT-510|Porto|Male|1998|Medium|2017|Briannan|Voorhees|5|1|53|Portugl|Vivenda|294.97|6|30|856
+PT-911|Lisboa|Male||Medium|2018|Danielle|Doughty|1|1|61|UK|Apartamento|125.23|6|4|890
+PT-1115|Lisboa|||High|2018|Shaheera|al-Ebrahimi|6|1|53|Pt|Vivenda|198.76|6|3|886
+PT-760|Lisboa||1996|Perfect|2018|Kamron|Wilson|5|0|51|United States of America|Vivenda|119.92|6|2|980
+PT-1085|||1960||2019|Charles|Ross|3|0|45|Prt|Apartamento|259.34|6|4|874
+PT-1311|Lisboa|Female|2016||2020|Smokey|Yellowhorse|1|0|64|UK|Apartamento|342.58|6|4|857
+PT-261|Lisboa|Male|||2015|Angelo|Dominguez Cisneros|4|0|40|UK||307.09|6|4|1002
+PT-8|Lisboa||1920|High|2016|Jam,Aan|el-Obeid|6|0|48||Apartamento|109.72|6|4|958
+PT-840|Lx|Female||Medium|2020|Kimberly|Jurmu|5|1|51|England|Apartamento|92.18|6|4|985
+PT-806|||2000|Medium|2015|Danny|Galindo|4|0|57|USA|Vivenda|179.09|6|2|909
+PT-174|Proto|Female|2016||2021|Najeem|al-Rad|6|0|51|Prt|Apartamento|236.12|6|4|980
+PT-681|Lagos|Male|2016||2019|Raymond|Buchanan|5|0|44|Portugl||111.01|6|3|945
+PT-242|Lisboa||1920|High|2015|Alexandra|Kim|2|1|34|Pt||334.47|6|2|769
+PT-1295|Porto|Male|2014|High|2015|Christopher|Sengco|2|0|30|Pt||149.75|6|3|965
+PT-1304|Porto|Male|2017||2019|Erik|Archuleta|4|0|71||Apartamento|254.61|6|1|909
+PT-1244|Lagos|Female||High|2019|Haazim|al-Rahaim|6|0|32|Portugal|Vivenda|138.17|6|2|924
+PT-1220|Lisboa|Male|1920|Very High|2020|Jailene|Gomez|4|1|64|EUA||149.1|6|3|961
+PT-253|Porto||1999|High|2016|Jovon|Medina|4|0|29|ENGLAND|Apartamento|263.74|6|3|964
+PT-494|Lisboa|Male|2002|High|2020|Christopher|Leopold|5|0|58|Pt|Apartamento|114.35|6|4|978
+PT-1217|Lisboa||2016|High|2017|Dylan|Ingram|5|0|34|UK|Vivenda|175.84|6|1|992
+PT-1390|Porto||2013|Low|2023|Courtney|Dalton|5|1|39|Pt|Apartamento|306.48|6|2|876
+PT-488|Coimbra|Female||High|2023|David|Lyons|3|0|44|England|Apartamento|308.95|6|3|909
+PT-270|Porto||1980|High|2019|Kimya|Banh|2|1|20|Portugl||201.74|6|3|1028
+PT-826||Female||High|2021|Tori|Wilson|3|1|51|PT||297.65|6|3|882
+PT-349||Male|1960|High|2020|Ashley|Lofgren|2|1|42|United States of America|Apartamento|222.92|6|3|898
+PT-562|PORTO|Female|1975|Very High|2020|Brenda|Whitmore-Sirotta|4|1|63|Prt|Quinta|279.26|6|3|977
+PT-284|Coimbra|Female|2004|Low|2015|La Taisae|Spencer|3|1|53|ENGLAND|Apartamento|111.9|6|2|997
+PT-893|Lisboa|Male||High|2023|Desmond|Haynes|3|0|33|Portugal|Quinta|135.14|6|3|915
+PT-204|LISBOA|Female||High|2019|Noah|Mccarthy|5|0|60|USA||156.46|6|3|1038
+PT-150|Proto|Male|1980|High|2017|Tatyana|Johnson|3|1|25|Prt||182.45|6|1|884
+PT-778|Lagos|Male|1950|High|2017|Grant|Angard|5|0|62|ENGLAND|Vivenda|302.52|6|3|952
+PT-1395|Lisboa||2003|Low|2021|Taylor|Cure|5|1|47|ENGLAND|Vivenda|173.63|6|2|939
+PT-225|Proto||2007|High|2023|John|Cabrera-Bahena|4|0|35||Vivenda|204.96|6|2|845
+PT-1219|Lagos|Female|1998|Medium|2020|Sarah|Zabelski|5|1|32|UK|Apartamento|265.28|6|2|839
+PT-1302|Lisboa|Male||High|2016|Taiseer|al-Sattar|6|0|40|ENGLAND|Apartamento|264.6|6|2|1072
+PT-331|Lisboa|Female|2008|High|2020|Stephany|Ortiz|4|1|67||Quinta|184.15|6|2|867
+PT-734|Porto|Female|1950|High|2017|Hishaam|al-Zaidi|6|0|64|Pt||289.97|6|1|980
+PT-167|Porto|Female|2006|High|2016|Antoinette|Boynton|5|1|45|United States of America|Apartamento|292.31|6|30|847
+PT-607||Male|1950|Very High|2020|Angelo|Jacks|5|0|47|Portugal|Vivenda|344.71|6|2|903
+PT-448|LISBOA||2012||2017|Nubia|Ehrlich|4|1|48|UK|Apartamento|146.62|6|2|959
+PT-114|Proto|Male|2014|Very High|2023|Darrion|Reich|3|0|43|UK|Apartamento|116.34|6|3|1101
+PT-1120|PORTO||1975|High|2017|Rumaana|al-Akhter|6|1|42|ENGLAND||188.25|6|4|920
+PT-876|||1980|Perfect|2016|Rafael|Calderon|4|0|36|PT|Apartamento|125.5|6|3|1116
+PT-183|Porto|Male|1996|High|2020|Dan|Creal|3|0|40|EUA|Vivenda|96.85|6|2|935
+PT-1160|Coimbra|Female|1980||2018|Fawwaaz|el-Suleiman|6|0|66|Pt|Apartamento|345|6|3|888
+PT-244|||1920|Perfect|2019|Korren|Ketchum|1|1|73|PT|Apartamento|94.67|6|3|972
+PT-713|Coimbra|||Medium|2021|Rozhiane|Smith|3|1|33|USA|Quinta|161.59|6|2|989
+PT-1360|Faro|Male|1960|High|2016|Saje|Mesdaq|2|1|41|Prt|Apartamento|242.64|6|2|975
+PT-1170|||1920|Medium|2020|Joshua|Jordan|5|0|62|EUA|Apartamento|336.47|6|3|988
+PT-466|Lisboa|Female|1996|High|2020|Se Ra|Vega|2|1|57|Portugal|Quinta|126.74|6|3|898
+PT-127|Lisboa|Female|1996|Low|2020|Jose|Rascon III|4|0|37|Portugal|Vivenda|187.33|6|3|975
+PT-954|Proto|Male|1996|High|2023|Marinah|Lacsina|2|1|50|Portugal|Vivenda|319.42|6|2|998
+PT-9||Female|2003|High|2015|Nafeesa|al-Halaby|6|1|40|USA||164.67|6|2|1025
+PT-541|Porto|Female|1920|High|2017|Jairo|Fitzherbert|4|0|31|UK|Vivenda|337.2|6|1|932
+PT-275|Porto||2016|Very High|2016|Antonio|Garcia|4|0|61|Portugal|Vivenda|145.11|6|4|986
+PT-1027|Lisboa||1997|Perfect|2015|Misbaah|el-Momin|6|1|22|Portugl|Apartamento|299.22|6|3|1054
+PT-160|Lisboa||2004|Perfect|2019|Suhaa|al-Tahir|6|1|32|Prt|Quinta|172.94|6|3|956
+PT-1342|Lagos||1960|High|2020|Jakob|Lindgren|1|0|19|Portugal|Vivenda|102.79|6|3|1034
+PT-975|Lisboa|Female|2014|High|2021|Arbay|Kissanga|3|1|50|Portugal|Apartamento|221.01|6|2|843
+PT-985|Porto|Male|1999|High|2015|Bruce|Pullen|2|0|57|Portugl|Vivenda|219.34|6|1|984
+PT-1178||Female|2001|Perfect|2017|Saara|al-Abu|6|1|45|UK||190.28|6|1|870
+PT-1081|Faro||1975|High|2020|Darienne|Petrie|3|0|54|Portugal||108.94|6|4|977
+PT-1176|LISBOA|Female|2003|High|2019|Naseefa|el-Salam|6|1|57|PT|Vivenda|272.42|6|1|820
+PT-583|||2015||2017|Thanaa|al-Rasheed|6|1|46|Prt|Apartamento|294.52|6|2|992
+PT-362|Porto|Male|2014|Medium|2020|Mawhiba|al-Habibi|6|1|83||Apartamento|129.93|6|4|833
+PT-1209|Porto||1999|Medium|2021|Fahd|el-Nazir|6|0|77|United States of America|Apartamento|138.24|6|4|949
+PT-1359||Male|1998|Perfect|2020|Kristen|Stratton|5|1|20|Portugl|Quinta|127.72|6|4|1012
+PT-1198|Lisboa|Female|2005|Low|2021|Tristan|Bingham|5|0|36|EUA|Vivenda|136.8|6|3|947
+PT-316|Porto|Male||Low|2021|Aaron|Vasquez|1|0|43|Portugal||276.92|6|4|1027
+PT-907|Lisboa||2013|High|2022|Morgan|Hishinuma|2|1|47||Apartamento|317.04|6|4|860
+PT-697|Porto||||2015|Larissa|Fields|3|1|52|USA|Apartamento|173.99|6|2|762
+PT-908||Female||High|2017|Carlee|Hughes|3|1|53|England|Apartamento|315.24|6|3|909
+PT-1041|Lisboa||1996|Low|2016|Eric|Rocha|4|0|40|Portugal||197.5|6|3|913
+PT-62|Lisboa||2012|High|2017|Tori|Vokey|5|1|53|PT||155.13|6|2|929
+PT-1323|Coimbra|Female|1960|Perfect|2022|Nathan|Payne|3|0|38|ENGLAND|Apartamento|233.39|6|1|925
+PT-690||Male|1950|Medium|2016|Delaney|Cordova|4|1|47|||296.94|6|3|949
+PT-1261||Male|||2023|Marquis|Whiteskunk|1|0|56||Quinta|183.93|6|4|920
+PT-1293|Lagos|Male|2004|High|2019|Christopher|Borum|3|0|37|EUA||311.02|6|4|1052
+PT-614|Lx||2008||2017|Kelisha|Sandoval|4|1|86|Portugl|Apartamento|347.26|6|2|1002
+PT-925|PORTO|||High|2023|Nariah|Begay|1|1|28|Prt|Apartamento|141.56|6|3|911
+PT-359|LISBOA|Male|2000|High|2018|Tabitha|Williams|3|1|40|ENGLAND|Vivenda|224.65|6|2|896
+PT-1132|Lagos|||High|2015|Joshua|Sperry|2|0|69|PT||304.51|6|2|914

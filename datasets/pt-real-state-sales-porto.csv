@@ -1,0 +1,801 @@
+"id","city","osex","cyear","quality","year","buyer.fullname","buyer.ethnicity","buyer.gender","buyer.age","buyer.nationality","house.type","size","n.rooms","n.bathrooms","price"
+"PT-19","Lisboa","","1980","Perfect",2021,"Emmanuel Matsumoto",2,0,47,"Pt","Apartamento",135.96,1,2,236
+"PT-634","Lisboa","","1975","",2015,"Ryan Bader",5,0,46,"PT","",93.53,1,1,243
+"PT-627","PORTO","Male","1950","",2021,"Victoria Larsen",5,1,39,"","",167.57,1,2,206
+"PT-598","","","2016","High",2022,"Turki el-Salik",6,0,35,"Portugal","Apartamento",147.16,1,2,275
+"PT-572","Portimão","","2003","High",2017,"Raaniya el-Hameed",6,1,22,"","Apartamento",286.25,1,4,195
+"PT-384","","","1950","High",2017,"Leila Gereltuya",2,1,23,"UK","Apartamento",209.07,1,1,276
+"PT-153","Lagos","Female","2012","Very High",2015,"Natasha Gamel",3,1,26,"USA","Vivenda",159.05,1,4,232
+"PT-540","Lx","Female","2012","",2022,"Artemisa Leal",4,1,48,"USA","Quinta",164.16,1,4,264
+"PT-2","","Male","2002","Medium",2019,"Yeng Padilla",2,0,50,"PT","Vivenda",271.18,1,2,183
+"PT-208","Lagos","Male","2002","High",2017,"Hannah Williams",5,1,39,"PT","Apartamento",185.08,1,2,231
+"PT-68","Lisboa","Male","2002","Perfect",2016,"Tanner Zoller",5,0,59,"Pt","Vivenda",176.18,1,3,221
+"PT-548","Lisboa","","1980","High",2020,"Omar Montano",4,0,47,"England","",320.43,1,2,257
+"PT-763","Porto","Female","2004","High",2020,"Rickie Sailas",4,0,60,"PT","Quinta",252.37,1,3,238
+"PT-285","Lisboa","","2008","High",2023,"Jeremiah Le",2,0,40,"Pt","",305.94,1,3,283
+"PT-458","Lisboa","Female","2007","High",2022,"Quiana Grace",3,1,31,"Portugal","Quinta",287.88,1,2,225
+"PT-695","Porto","","2004","Medium",2020,"Victoria Rodriguez",4,1,42,"ENGLAND","Quinta",347.36,1,4,271
+"PT-138","","Female","1920","High",2021,"Angelique Langridge",1,1,41,"Prt","",159.9,1,3,228
+"PT-445","","Male","2006","High",2016,"Sha'Dae Doyle",3,1,36,"EUA","Apartamento",338.76,1,2,273
+"PT-604","Lisboa","","2012","High",2015,"Aneesa el-Hammoud",6,1,45,"Portugl","Apartamento",284.07,1,2,271
+"PT-736","","Female","","Low",2022,"Samantha Miller",1,1,52,"Portugal","Apartamento",136.65,1,3,235
+"PT-142","Lisboa","Female","1920","Low",2018,"Breezy Hampton",3,1,17,"United States of America","Vivenda",147.47,1,2,228
+"PT-83","Portimão","","2008","High",2019,"Sashay Sealy",3,1,58,"Prt","Apartamento",217.05,1,4,218
+"PT-317","PORTO","Female","1996","",2018,"Aleksandr Jones",3,0,50,"Prt","Apartamento",171.46,1,3,245
+"PT-240","PORTO","","2013","Medium",2017,"Ibtisaama al-Masih",6,1,62,"UK","Apartamento",155.04,1,30,210
+"PT-711","Lisboa","","1920","Low",2023,"Michele Simons",5,1,38,"Portugal","Apartamento",267.98,1,3,207
+"PT-282","Lx","Female","2017","High",2023,"Emily Javaid",2,1,38,"","Apartamento",305.25,1,3,235
+"PT-275","Lisboa","Female","2003","",2021,"Keauna Meyers",3,1,55,"England","",237.31,1,2,309
+"PT-357","Portimão","Female","2015","Very High",2017,"Aabid al-Massoud",6,0,48,"England","Apartamento",278.03,1,4,295
+"PT-614","Lisboa","Female","2002","Very High",2019,"Brittany Altman",5,1,66,"Portugal","Quinta",90.48,1,2,269
+"PT-276","","","2000","High",2021,"Nadia Flores Xochitla",4,1,27,"","",204.32,1,2,241
+"PT-709","Lx","Female","2003","",2022,"Tehya Weinstein",1,1,30,"Prt","",129.45,1,2,241
+"PT-478","","","2002","",2021,"Elizabeth Jain",2,1,37,"USA","Vivenda",143.25,1,2,271
+"PT-635","","Female","2016","High",2017,"Brianna Frederick",5,1,31,"","",155.03,1,3,254
+"PT-195","Lisboa","Female","1980","Perfect",2018,"Shanya Copenhaver",5,1,56,"Prt","Vivenda",227.18,1,4,261
+"PT-525","PORTO","Female","1980","Low",2020,"Diana Mcghee",2,1,41,"Pt","",115.35,1,3,234
+"PT-202","Porto","Female","1998","",2022,"Taylor Seymour",5,1,48,"Prt","",176.08,1,2,265
+"PT-370","Lisboa","","1997","Perfect",2019,"Jessell Deherrera",4,1,23,"EUA","Quinta",298.59,1,1,277
+"PT-368","Portimão","Female","2015","High",2015,"Alexandria Begay",1,1,38,"ENGLAND","",104.59,1,2,237
+"PT-768","Portimão","Female","2012","",2018,"Danielle Ficco",5,1,46,"UK","Vivenda",215.48,1,4,276
+"PT-613","","Female","2012","High",2016,"Monice Smith",3,1,53,"Prt","Quinta",265.65,1,3,254
+"PT-73","Lisboa","","2012","",2015,"Anthony Liquete",2,0,31,"Portugl","Apartamento",113.36,1,2,246
+"PT-472","Lisboa","","1975","Perfect",2016,"Justin Lacy",5,0,33,"ENGLAND","Vivenda",273.18,1,1,239
+"PT-126","Lisboa","Female","2006","Very High",2021,"Mimi Diego",2,1,45,"Portugl","Vivenda",323.36,1,4,280
+"PT-549","Coimbra","Female","1950","Very High",2018,"Emily Neitenbach",2,1,61,"Portugl","",280.98,1,1,261
+"PT-172","Lisboa","Female","","High",2017,"Chloe Webb",5,1,16,"England","Apartamento",200.37,1,2,227
+"PT-292","Porto","Male","2008","High",2019,"Samuel Miles",1,0,49,"","",246.09,1,1,291
+"PT-225","Coimbra","Female","1998","High",2022,"Joseph Angel",4,0,46,"PT","Quinta",208.93,1,2,286
+"PT-555","","Female","","Perfect",2023,"Rabi al-Satter",6,0,34,"Portugal","Apartamento",349.26,1,4,232
+"PT-46","Lx","","1998","",2015,"Harley Daly",5,0,58,"","",339.9,1,2,226
+"PT-76","Faro","Male","1995","",2017,"Shaheed al-Younis",6,0,33,"Portugl","Apartamento",222.47,1,4,225
+"PT-38","","Male","2012","Very High",2020,"Alejandra Parks",1,1,47,"England","Apartamento",294.14,1,3,294
+"PT-800","Lisboa","Female","","",2023,"Dominique Thomas",3,0,35,"United States of America","Quinta",158.23,1,1,289
+"PT-222","Lagos","Female","2005","Low",2016,"Shardae Johnson",3,1,74,"Prt","",169.37,1,2,213
+"PT-332","","","2017","High",2021,"Megan Hoffman",5,1,23,"PT","Quinta",336.34,1,3,265
+"PT-6","Lisboa","Female","1975","High",2020,"Daniel Hermawan",2,0,62,"UK","Vivenda",313,1,1,209
+"PT-461","","Female","2002","High",2023,"Umair al-Basa",6,0,41,"","Apartamento",235.35,1,4,277
+"PT-543","Portimão","Male","","",2022,"Gabriel Deleon",3,0,44,"Portugal","",112.24,1,3,218
+"PT-314","Faro","Female","2005","High",2021,"Aiyalah Hopson",3,1,46,"Pt","Quinta",174.06,1,3,203
+"PT-23","Faro","Female","2014","Perfect",2020,"Sabriyya al-Bangura",6,1,38,"PT","Vivenda",298.15,1,4,323
+"PT-78","Lisboa","Female","","High",2019,"Megan Laird",5,1,42,"Pt","Vivenda",114.7,1,2,235
+"PT-372","Portimão","Female","","High",2017,"Alex Burback",1,0,37,"United States of America","Apartamento",333.98,1,3,222
+"PT-155","Portimão","","2012","High",2020,"Jacob Halaseh",1,0,68,"Portugl","Quinta",116.72,1,2,206
+"PT-686","Lisboa","","2014","",2017,"Richard Wal",3,0,58,"Portugal","Apartamento",149.89,1,3,247
+"PT-595","Lisboa","","1997","Very High",2016,"Lisa Ma",2,1,26,"UK","Quinta",194.58,1,1,318
+"PT-104","Porto","Male","","High",2018,"Cameron Lee",2,0,36,"United States of America","Quinta",186.39,1,2,254
+"PT-97","Lisboa","","2017","High",2021,"Rosalba Manriquez",4,1,34,"United States of America","Vivenda",146.3,1,30,258
+"PT-772","","Female","2006","High",2019,"Jessica Neth",5,1,63,"ENGLAND","Quinta",269.1,1,2,212
+"PT-37","Porto","","2014","High",2021,"Rosa Marquez",4,1,47,"","",187.37,1,2,231
+"PT-504","Lagos","Female","1975","High",2022,"Anish Coker",2,0,33,"Portugal","Quinta",340.74,1,2,226
+"PT-21","PORTO","","2002","High",2023,"Madison Ariunbold",2,1,30,"PT","Apartamento",249.81,1,2,242
+"PT-631","Porto","Female","1995","Very High",2018,"Kendra Ehrets II",5,1,12,"EUA","Vivenda",225.56,1,4,237
+"PT-642","","","2003","",2021,"Samuel Purdham",1,0,72,"EUA","",239.88,1,30,283
+"PT-42","Lisboa","Male","2012","High",2022,"Nathan Ignacio",2,0,41,"Prt","Quinta",272.24,1,2,233
+"PT-675","LISBOA","Female","1997","",2016,"Alexander Williams",1,0,46,"EUA","Apartamento",249.62,1,30,258
+"PT-301","Porto","Male","2016","High",2020,"Ramziyya al-Ahmed",6,1,45,"United States of America","Vivenda",253.69,1,3,237
+"PT-561","Porto","","2013","High",2015,"Tahleela al-Saad",6,1,60,"USA","Quinta",183.81,1,4,200
+"PT-77","Proto","Female","1950","High",2017,"Joanne Her",2,1,45,"Prt","Apartamento",199.4,1,2,238
+"PT-729","","","2007","High",2019,"Gabriella Gonzales",4,1,38,"Prt","Apartamento",183.84,1,2,250
+"PT-81","","","1998","Very High",2017,"Andie King",2,1,48,"Portugal","",200.05,1,2,285
+"PT-708","Coimbra","Female","1995","High",2023,"Adrienne Scott",3,1,60,"Portugal","Apartamento",229.33,1,2,285
+"PT-273","Porto","Male","1900","",2023,"Maya Scott",3,1,58,"UK","Apartamento",215.51,1,3,227
+"PT-352","Coimbra","Female","1975","Medium",2017,"Devia Moore",3,1,38,"Pt","Vivenda",113.83,1,4,297
+"PT-308","PORTO","Female","2008","High",2017,"Teasia Celestin",3,1,47,"","Apartamento",317.16,1,4,253
+"PT-411","","Female","1999","",2017,"Jerrica Lopez",1,1,44,"United States of America","Quinta",185.17,1,1,215
+"PT-158","","Female","1975","Medium",2017,"Joslyn Williams",3,1,54,"Portugal","Vivenda",267.71,1,3,242
+"PT-592","Lisboa","Male","1996","",2022,"Veronica Shot At",1,1,43,"Prt","",289.21,1,3,230
+"PT-64","LISBOA","Female","2003","High",2017,"Chelsea Mascotti",3,1,79,"UK","Apartamento",349.91,1,4,217
+"PT-233","Lisboa","Female","1998","",2021,"Ashley Hammond",1,1,35,"Prt","Vivenda",170.72,1,2,286
+"PT-717","Lisboa","Female","2001","Perfect",2021,"Diego Hernandez",4,0,35,"","Apartamento",235.03,1,4,250
+"PT-278","","","1960","Very High",2015,"Umaima el-Abdallah",6,1,55,"Pt","",261.36,1,2,259
+"PT-231","Portimão","Female","1998","High",2018,"Kareema al-Jaber",6,1,43,"UK","Vivenda",164.25,1,3,260
+"PT-517","Lisboa","Female","2014","",2023,"Michael Thomas",3,0,52,"EUA","Apartamento",224.17,1,1,264
+"PT-374","Lisboa","Male","1900","High",2015,"Shantell Byer",3,1,49,"UK","Quinta",101.84,1,2,277
+"PT-534","Lisboa","Male","2006","High",2022,"Ryosuke Sajopha",2,0,54,"UK","Apartamento",108.03,1,2,238
+"PT-124","Porto","","2002","High",2018,"Jose Toquinto",4,0,49,"ENGLAND","Vivenda",246.66,1,1,259
+"PT-664","LISBOA","Female","1960","High",2023,"Chelsea Platt",5,1,63,"UK","Vivenda",231.5,1,30,294
+"PT-761","","","2003","Medium",2017,"Ronald Shrestha",2,0,36,"EUA","",173.11,1,1,249
+"PT-228","Porto","Female","2000","High",2015,"Ammi Velarde",4,0,65,"Portugl","Apartamento",260.72,1,4,233
+"PT-762","","Male","1999","High",2023,"Jackie Iron Cloud",1,0,51,"","",261.38,1,4,251
+"PT-326","Lisboa","Male","2003","High",2021,"Nicole Cruz",1,1,46,"Pt","Apartamento",108.76,1,4,265
+"PT-4","Portimão","Female","2007","High",2022,"Joseph Mitchell",3,0,29,"UK","Vivenda",319.64,1,4,262
+"PT-405","Faro","Female","1980","High",2021,"Hamda al-Omer",6,1,25,"Pt","",327.8,1,1,270
+"PT-523","Proto","Male","2004","Perfect",2021,"Kayla Smith",1,1,13,"EUA","Vivenda",335.63,1,2,169
+"PT-403","Lisboa","Female","1980","High",2019,"Stephanie Kuck",1,1,38,"United States of America","Apartamento",212.56,1,2,273
+"PT-82","Lisboa","","","",2017,"Justin Erdenebat",2,0,42,"Prt","",261.68,1,2,281
+"PT-246","Coimbra","Male","2008","",2016,"Gabriel Pope",3,0,26,"England","Apartamento",263.61,1,1,260
+"PT-791","Proto","Male","1980","Medium",2020,"Ashley Williams",3,1,40,"United States of America","Apartamento",279.48,1,4,240
+"PT-161","Lisboa","Male","1900","High",2020,"Shabaan el-Saah",6,0,55,"","Vivenda",264.21,1,4,229
+"PT-654","Coimbra","Female","","High",2020,"Katherine Littlethunder",1,1,55,"United States of America","Vivenda",134.09,1,2,250
+"PT-176","Proto","Male","2008","High",2018,"Amanda Martinez",1,1,18,"Prt","Vivenda",183.88,1,2,281
+"PT-721","","","1996","High",2023,"Amniyya el-Molla",6,1,25,"Pt","Vivenda",160.17,1,4,285
+"PT-147","Porto","Female","","Medium",2016,"Martha Meza Chavez",4,1,52,"","",211.63,1,4,247
+"PT-316","Lisboa","Female","2015","High",2016,"Tammara Kinlicheene",1,1,61,"Prt","",343.73,1,4,286
+"PT-714","Lx","Female","","High",2016,"Kathleen Auyeung",2,1,31,"PT","Vivenda",244.52,1,2,315
+"PT-732","Lisboa","Male","1999","High",2022,"Sahza Otsuki",2,1,48,"Pt","Apartamento",319.92,1,1,255
+"PT-434","Porto","Female","2003","High",2020,"Keili Robinson",1,0,26,"Portugal","Quinta",186.25,1,3,247
+"PT-473","Porto","","2012","High",2016,"Aamir al-Noor",6,0,69,"USA","",339.16,1,1,250
+"PT-771","Porto","Female","1996","",2021,"Lacey Swenson",5,1,56,"UK","Apartamento",167.78,1,4,303
+"PT-217","Portimão","","2014","High",2016,"Faadi el-Diab",6,0,37,"USA","Quinta",345.34,1,2,305
+"PT-33","Lisboa","Male","2017","",2021,"Eric Archibeque",4,0,60,"PT","Apartamento",160.28,1,2,333
+"PT-75","Proto","","1996","Medium",2016,"Zuhaira el-Sattar",6,1,43,"","",208.65,1,30,274
+"PT-108","LISBOA","Female","1975","",2022,"Jordan Bencomo",4,1,50,"Portugal","Vivenda",109.96,1,4,293
+"PT-563","Porto","Female","2017","High",2016,"Jeana Christensen",1,1,39,"Prt","Vivenda",113.84,1,1,257
+"PT-109","PORTO","Male","","High",2021,"Bobby Smith",3,0,34,"","Apartamento",310.87,1,2,262
+"PT-311","Lisboa","Male","2015","Medium",2017,"Jessica Underwood",5,1,16,"EUA","Apartamento",232.06,1,1,265
+"PT-623","Lisboa","","1999","Medium",2021,"Chelsea Walker",3,1,31,"Portugal","Vivenda",207.75,1,3,256
+"PT-459","Lisboa","Male","2000","Very High",2017,"Matthew Balay",5,0,63,"EUA","Vivenda",163.07,1,3,229
+"PT-638","PORTO","","2004","Perfect",2015,"Mckenzie Angulo",3,1,42,"USA","Apartamento",201.53,1,4,270
+"PT-414","Lisboa","","1980","Perfect",2019,"Jesse Williams",1,0,30,"UK","Apartamento",337.4,1,3,237
+"PT-71","Lisboa","","2002","High",2019,"Chynna Mutahi",3,1,53,"USA","",173.04,1,30,217
+"PT-528","","Female","2014","Medium",2019,"Isaac Montejano",4,0,65,"ENGLAND","Vivenda",298.01,1,30,269
+"PT-359","Lx","Female","2008","High",2016,"Kelly Rubio",4,0,58,"Pt","Quinta",119.08,1,2,251
+"PT-51","","Male","","",2021,"Aquasia Hester",3,1,43,"Prt","Apartamento",203.36,2,30,375
+"PT-577","Porto","Female","2008","Perfect",2020,"Francisco Vasquez",4,0,54,"United States of America","Apartamento",98.93,2,1,333
+"PT-697","Portimão","","1975","High",2021,"Izza el-Malik",6,1,54,"England","",333.02,2,2,371
+"PT-367","Lisboa","Male","","High",2019,"Erica Vann",2,1,42,"","Quinta",159.08,2,3,363
+"PT-194","","","2004","Low",2018,"Jesse Weirough",5,0,55,"ENGLAND","Quinta",114,2,3,360
+"PT-340","Porto","","2013","Perfect",2020,"Evelyn Marrujo",4,1,58,"United States of America","Apartamento",311.81,2,2,424
+"PT-569","Lagos","","2003","High",2016,"Christopher Rivas-Willis",4,0,37,"","Vivenda",231.04,2,3,367
+"PT-710","Coimbra","Male","1995","High",2023,"Draven Koontz",1,0,42,"UK","Vivenda",157.94,2,3,349
+"PT-738","LISBOA","Male","2013","High",2015,"Albert Kim",2,0,69,"Portugl","",273.44,2,2,386
+"PT-530","","Female","","Perfect",2023,"Alyssia Tafoya",1,1,31,"UK","Vivenda",99.47,2,2,362
+"PT-593","Lisboa","Female","1900","High",2015,"Matthew Sites",5,0,24,"United States of America","Apartamento",260.76,2,2,368
+"PT-547","Proto","Female","","High",2019,"Angelo Alarid",4,0,37,"Portugl","Vivenda",231.75,2,1,353
+"PT-186","Lisboa","Female","1975","",2020,"Kylee Triolo",5,1,43,"Portugl","Vivenda",293.45,2,3,344
+"PT-700","Lisboa","","2012","Perfect",2019,"Brian Chavez",4,0,44,"USA","Vivenda",147.27,2,2,352
+"PT-356","Porto","","1950","High",2017,"Robert Smith",1,0,71,"UK","Vivenda",261.13,2,1,378
+"PT-339","","Female","2008","",2020,"Junious Usher",3,0,43,"EUA","Apartamento",92.19,2,2,357
+"PT-776","LISBOA","","1975","Medium",2023,"Meshel Strahl",3,1,38,"ENGLAND","",269.37,2,3,406
+"PT-253","Lisboa","Male","","High",2020,"Raelina Cheek",1,1,82,"PT","Apartamento",201.67,2,4,321
+"PT-373","Lisboa","Female","1997","High",2022,"Samuel Flores",4,0,64,"Portugal","Quinta",108.88,2,2,258
+"PT-281","","","1975","Very High",2021,"Umaira al-Zia",6,1,42,"UK","Quinta",127.79,2,4,386
+"PT-55","Lisboa","","2014","High",2018,"Charlie Mitchell",4,0,27,"UK","Apartamento",348.63,2,1,336
+"PT-546","","","","High",2022,"Melissa Jauregui",4,1,65,"USA","Apartamento",204.87,2,2,353
+"PT-334","Proto","Female","2003","High",2018,"Malik Simpson",3,0,64,"Portugl","Apartamento",129.9,2,2,355
+"PT-406","","","2005","High",2017,"Jenny Duran",2,1,51,"","",230.3,2,4,360
+"PT-93","LISBOA","","2003","Low",2015,"Darrien Saenz",1,0,38,"UK","Apartamento",132.98,2,3,334
+"PT-188","Lisboa","Male","2014","High",2021,"Ace Richardson",3,0,63,"","Quinta",227.78,2,2,334
+"PT-500","Lisboa","Female","2013","Very High",2020,"Shayla Holland",3,1,32,"USA","",211.47,2,4,383
+"PT-402","","","2003","",2020,"Megan Topping",5,1,30,"","Quinta",341.46,2,4,353
+"PT-162","","","","Low",2023,"Mubeena el-Salama",6,1,21,"UK","Apartamento",149.18,2,1,432
+"PT-640","Lisboa","Female","2014","Very High",2023,"Stephanie Moua",2,1,30,"PT","Vivenda",328.35,2,3,367
+"PT-148","Porto","","1920","Perfect",2022,"Nada el-Shaer",6,1,27,"","Apartamento",323.59,2,3,336
+"PT-734","Lisboa","Female","","High",2018,"Cade Creel",1,0,61,"","Quinta",150.73,2,30,364
+"PT-343","Lisboa","Female","2006","Very High",2016,"Deandre Moore",3,0,36,"UK","Vivenda",316.78,2,2,391
+"PT-353","Lisboa","Female","1920","Low",2022,"Cecelia Lightfoot",1,1,53,"ENGLAND","",275.83,2,3,326
+"PT-755","","Male","1900","Low",2017,"Ethan Cave",2,0,40,"Pt","Vivenda",316.31,2,1,342
+"PT-607","Coimbra","","","Low",2016,"Dylan Kozmata",5,1,46,"PT","Apartamento",331.8,2,1,283
+"PT-48","","Male","1997","High",2016,"Dustin Silz",5,0,50,"Portugal","Vivenda",123.29,2,3,368
+"PT-394","Lisboa","","","Perfect",2018,"Mahdeeya el-Ahmed",6,1,44,"England","Quinta",276.06,2,30,383
+"PT-277","","","2015","High",2022,"Selena Chavez",4,1,49,"UK","",291.04,2,3,381
+"PT-415","","Female","1975","High",2021,"John Duran",4,0,37,"England","",165.54,2,2,349
+"PT-201","Lisboa","Female","2007","",2019,"Julian Miller",2,0,49,"USA","Vivenda",339.07,2,2,394
+"PT-351","","Male","2013","Perfect",2020,"Darien Shields",3,0,39,"ENGLAND","Apartamento",327.59,2,2,339
+"PT-608","","Female","","",2016,"Anthony Cruz",4,0,46,"Portugal","Quinta",317.66,2,30,336
+"PT-383","","Male","2012","High",2021,"Faith Cherry",3,1,50,"","Quinta",308.63,2,2,351
+"PT-170","Lisboa","","2005","High",2017,"Angelica Diaz-Deleon",4,1,33,"England","Vivenda",254.16,2,2,343
+"PT-652","Lisboa","Male","","High",2019,"Alexander Scott",5,0,62,"Portugal","Vivenda",122.32,2,30,404
+"PT-444","Faro","Female","1960","High",2016,"Brandon Herrera",1,0,49,"USA","Apartamento",193.02,2,2,349
+"PT-92","PORTO","Female","1996","High",2022,"Christian Patterson",3,0,57,"ENGLAND","",106.48,2,2,375
+"PT-49","","Female","2000","Perfect",2017,"Mamoon el-Abood",6,0,60,"PT","Vivenda",116.26,2,30,363
+"PT-159","Lisboa","","1960","High",2023,"Michael Martinez",4,0,45,"England","",138.65,2,4,381
+"PT-313","","","1900","High",2021,"Ravinder Elliott",2,0,15,"Portugl","Apartamento",320.46,2,4,371
+"PT-318","Lisboa","Female","","Low",2015,"Kaldurion Blackwater",1,0,45,"","Vivenda",346.99,2,4,369
+"PT-10","Porto","","2004","High",2021,"Heres Vo",2,1,44,"PT","",234.67,2,2,326
+"PT-412","","Male","2013","High",2015,"Matthew Kirby",1,0,49,"UK","Apartamento",178.81,2,2,392
+"PT-725","","","2015","High",2022,"Yantao Nguyen",2,0,34,"Portugl","Apartamento",278.93,2,3,237
+"PT-722","Proto","Male","","Low",2022,"Clint Flores",1,0,74,"","Vivenda",118.2,2,2,335
+"PT-86","Faro","","2017","",2020,"Crysta Chan",2,1,26,"United States of America","Vivenda",226.57,2,4,384
+"PT-510","Proto","","1975","High",2017,"Wyatt Frazier",5,0,43,"Portugl","",314.73,2,3,361
+"PT-671","Porto","Female","1995","Very High",2016,"Blaine Billings",3,0,61,"Portugl","Apartamento",179.42,2,3,268
+"PT-163","","Male","","High",2018,"Raita al-Abdoo",6,1,42,"Pt","Vivenda",307.02,2,3,373
+"PT-775","PORTO","Male","1998","Medium",2022,"Daif el-Mohiuddin",6,0,37,"UK","Vivenda",310.81,2,2,300
+"PT-160","Portimão","Male","1920","High",2023,"Sierra Lujan-Flores",4,1,29,"England","Apartamento",246.82,2,2,428
+"PT-493","Lisboa","","2005","High",2020,"James Minjares",1,0,42,"","Apartamento",348.52,2,2,376
+"PT-364","Coimbra","Female","","High",2020,"William Phradestin",3,0,36,"Portugl","Vivenda",294.91,2,4,356
+"PT-696","Lx","Male","2015","High",2017,"Charisha Tunnell",1,1,64,"","Apartamento",272.73,2,2,360
+"PT-390","PORTO","Female","1950","Medium",2015,"Rohit Woytarowicz",5,0,50,"","Quinta",158.18,2,4,363
+"PT-105","Lx","Male","2014","High",2018,"Jordan Stephens",3,0,29,"Prt","Quinta",152.61,2,3,339
+"PT-306","Portimão","Male","1920","High",2022,"Kevin Hernandez",4,0,39,"England","Quinta",183.15,2,2,347
+"PT-320","","","2006","",2023,"Musheera al-Ayoob",6,1,60,"England","",110.05,2,2,314
+"PT-88","PORTO","Male","2000","High",2022,"Jumaana el-Dajani",6,1,35,"USA","",310.27,2,1,298
+"PT-666","Lisboa","Female","2006","High",2022,"Melissa Phung",2,1,64,"Portugal","Quinta",277.67,2,4,355
+"PT-716","Porto","Female","2001","Low",2020,"Wajdi el-Sharifi",6,0,62,"Prt","Vivenda",125.23,2,2,325
+"PT-238","","","2002","Very High",2018,"Bryan Cox",1,0,51,"PT","Apartamento",189.98,2,4,399
+"PT-477","Porto","Female","2015","Low",2015,"Sean Shaeffer",5,0,29,"","Quinta",283.84,2,4,277
+"PT-789","Lagos","Female","1950","Very High",2020,"Zulfa al-Nasser",6,1,37,"","Apartamento",173.11,2,4,297
+"PT-676","Lagos","Male","2014","Medium",2016,"Arun Nguyen",2,0,24,"United States of America","Apartamento",105.21,2,2,337
+"PT-289","PORTO","Female","2008","High",2021,"Sara Roush",5,1,33,"","Quinta",342.99,2,2,367
+"PT-439","Coimbra","Male","2005","Medium",2016,"David Archuleta",1,0,47,"EUA","",299.31,2,3,374
+"PT-785","Lisboa","","1995","Very High",2021,"Ekaterina Ylitalo",5,1,52,"ENGLAND","Apartamento",92.02,2,4,369
+"PT-774","Lisboa","Male","2014","High",2019,"Charles Loveall",5,0,53,"United States of America","Quinta",98.67,2,3,352
+"PT-630","Lagos","Male","2013","High",2022,"Kylear White",3,0,39,"","",201.49,2,1,308
+"PT-421","","","1996","High",2016,"Alma Ibarra",4,1,38,"England","Apartamento",321.95,2,3,392
+"PT-465","","Female","2005","High",2020,"Mersadez Stiens",1,1,45,"England","Vivenda",279.21,2,3,391
+"PT-324","Lisboa","Male","2014","",2020,"Jacob Sedillo",1,0,33,"England","",278.22,2,2,390
+"PT-173","Porto","Male","2005","Low",2018,"Devin Tarrant",3,0,35,"Portugl","",183.28,2,4,384
+"PT-197","Lagos","Male","","Medium",2021,"Humaidaan al-Usman",6,0,43,"","Apartamento",343.63,2,2,406
+"PT-156","Lx","","2002","Very High",2022,"Zumruda al-Samara",6,1,50,"EUA","Quinta",151.2,2,3,316
+"PT-742","LISBOA","","1900","Very High",2017,"Elyse Bernabo",2,1,41,"Prt","Quinta",318.61,2,3,335
+"PT-302","Porto","Female","","High",2023,"Jeriah-Travis Jones",2,0,57,"England","Apartamento",231.88,2,3,328
+"PT-795","Proto","Female","1920","High",2017,"Allexx Spencer",5,1,46,"EUA","Quinta",91.85,2,3,341
+"PT-490","","","1997","Low",2015,"Christian Korba",5,0,55,"Prt","Quinta",305.83,2,2,352
+"PT-50","","Female","2005","Low",2022,"Andre Walker",3,0,45,"ENGLAND","Apartamento",166.9,2,4,403
+"PT-770","Lisboa","Female","1960","",2019,"Taylor Crawford",3,1,26,"Portugl","Quinta",169.12,2,2,350
+"PT-745","Portimão","Male","1980","High",2021,"Naiessynce Rohde",1,1,38,"USA","Apartamento",109.88,2,2,345
+"PT-125","","","2007","Medium",2016,"Christine Scott",2,1,49,"Portugal","Quinta",230.98,2,2,325
+"PT-527","Lisboa","","2003","Very High",2018,"Michelle Mercer",1,1,65,"Portugal","",310.81,2,2,309
+"PT-657","","Female","1980","Low",2019,"Mariah Lindley",4,1,39,"Portugl","Vivenda",226.76,2,3,261
+"PT-693","","Female","2005","Medium",2020,"Angel Mendez",4,0,51,"UK","Quinta",98.01,2,2,342
+"PT-342","Lisboa","Male","1920","High",2020,"Dylan Stevens",3,0,27,"","Vivenda",325.62,2,4,358
+"PT-379","Faro","Female","2013","",2016,"Ashlan Boylan",4,1,41,"PT","Apartamento",238.58,2,2,287
+"PT-677","","","1900","Medium",2020,"Quiauna Scott",3,1,44,"","",118.01,2,4,388
+"PT-691","Lisboa","","1980","High",2018,"Julio Garcia",4,0,38,"EUA","Quinta",290.3,2,3,333
+"PT-790","","Male","1996","Very High",2019,"Samuel Settell",5,0,61,"USA","Apartamento",297.35,2,2,307
+"PT-556","","Female","1950","Low",2016,"Gordon Love",2,0,34,"ENGLAND","Quinta",213.16,2,2,395
+"PT-280","","","2008","High",2021,"Galilea Lopez",4,1,22,"Pt","Apartamento",196.16,2,3,269
+"PT-14","Lisboa","","1960","",2015,"Georgina Seitz",1,1,46,"Portugl","Vivenda",224.34,2,2,307
+"PT-44","Portimão","","1960","High",2015,"Dante Kahsay",3,0,78,"PT","Apartamento",256.79,2,3,305
+"PT-786","Porto","Female","2016","Low",2016,"Kau'Ihou Lam",2,0,42,"ENGLAND","Vivenda",94.81,2,4,353
+"PT-171","Lisboa","","2016","",2015,"Carina Gutierrez",4,1,35,"ENGLAND","Apartamento",273.74,2,2,337
+"PT-698","","Female","2003","Very High",2019,"Kyle O'Neill",5,0,21,"USA","Vivenda",193.73,2,2,348
+"PT-612","Coimbra","Male","2012","High",2019,"Shervanna Ruiz",1,1,47,"Portugl","Quinta",205.56,2,3,401
+"PT-754","Porto","Female","2014","Very High",2017,"Breelyn Peterson",5,1,36,"EUA","Apartamento",316.73,2,3,350
+"PT-466","Faro","","1900","High",2019,"Than Vang",2,0,78,"United States of America","Apartamento",94.99,2,2,354
+"PT-375","Lisboa","Female","2017","Perfect",2017,"Lexi Miller",3,1,44,"USA","",126.28,2,30,335
+"PT-655","LISBOA","","1999","Low",2023,"Numair al-Aman",6,0,55,"Portugal","Apartamento",291.51,2,3,344
+"PT-667","","","","High",2019,"Dominique Gilbert",3,0,19,"Portugl","Quinta",90.06,2,2,288
+"PT-705","LISBOA","Female","1950","High",2021,"Dartanyon Danner",5,0,57,"USA","Vivenda",314.61,2,2,408
+"PT-113","Lisboa","","2015","High",2020,"Aaron Smith",3,0,62,"Portugal","",337.89,2,4,255
+"PT-417","Coimbra","Male","1920","High",2019,"Dominick Smith",3,0,63,"Pt","Vivenda",321.63,2,2,368
+"PT-610","Lisboa","Female","1950","High",2019,"Jennifer Le",2,1,46,"PT","Apartamento",225.85,2,3,350
+"PT-115","Portimão","Female","2008","High",2022,"Alyssa Bird",1,1,27,"Portugal","Apartamento",258.28,2,2,360
+"PT-177","Porto","Male","2015","Low",2019,"Daniel Rausch",2,0,26,"England","Vivenda",341.65,2,1,444
+"PT-130","","Male","","",2023,"Jenberu Strong",3,0,42,"UK","Vivenda",295.8,2,4,325
+"PT-393","Porto","","1999","",2015,"Shahaada al-Saleh",6,1,58,"Pt","Apartamento",174.09,2,4,356
+"PT-129","","Male","2012","High",2021,"Alexis Nededog",1,1,39,"Portugl","Vivenda",256.21,2,3,339
+"PT-475","Coimbra","Female","1920","",2017,"Matthew Ishikawa",2,0,21,"","Apartamento",344.59,2,1,442
+"PT-649","Coimbra","","2012","High",2018,"Rushdi el-Mowad",6,0,56,"","Vivenda",136.26,2,1,335
+"PT-508","","","1996","High",2016,"Da'Nasia Lu",2,1,63,"Pt","Apartamento",254.4,2,1,349
+"PT-395","Lisboa","Female","1920","High",2017,"Nabeeh al-Salih",6,0,45,"USA","Apartamento",229.46,2,3,371
+"PT-279","Lisboa","Female","2016","Medium",2019,"Byung Yadav",2,0,28,"EUA","Quinta",293.53,2,2,328
+"PT-599","Lisboa","","2012","Perfect",2022,"Rachel Lybrook",5,1,43,"Prt","Vivenda",328.48,2,1,385
+"PT-560","Lisboa","","2003","Very High",2018,"Mayra Lopez Hernandez",4,1,52,"Portugal","Vivenda",168.52,2,1,286
+"PT-511","LISBOA","Female","1960","Low",2018,"Kristin Jenks",1,1,65,"England","Vivenda",262.69,2,2,302
+"PT-748","LISBOA","Male","2013","",2023,"Wintana Martin",3,1,63,"EUA","",236.06,2,2,298
+"PT-567","","Male","","High",2020,"Mareena Burgess",1,1,47,"Portugal","Apartamento",149.16,2,4,428
+"PT-207","Lisboa","","2005","Medium",2018,"Efrain Rivero",4,0,38,"EUA","Apartamento",197.22,2,2,281
+"PT-550","Portimão","Male","1999","Perfect",2017,"Brooklyn Burnett",3,1,53,"Pt","Apartamento",249.5,2,2,313
+"PT-154","Lisboa","Male","1920","High",2022,"Britney Finney",3,1,55,"PT","Apartamento",174.83,2,2,317
+"PT-96","Portimão","","1900","High",2017,"Danielle Brown",3,1,45,"Portugl","Apartamento",324.94,2,4,370
+"PT-669","Portimão","Female","2007","High",2016,"Sammi Anderson",1,1,35,"","Vivenda",119.66,2,4,340
+"PT-450","Portimão","Female","2016","Very High",2023,"Jonathan Afuang",2,0,19,"Pt","",137.29,2,1,361
+"PT-205","Proto","","2013","High",2018,"Rodney Clark",3,0,31,"United States of America","Quinta",144.68,2,4,357
+"PT-389","Lisboa","","2014","High",2021,"Marquise Robinson III",1,1,57,"Prt","Vivenda",150.15,2,3,322
+"PT-456","","Female","1995","High",2018,"Anthony Miller",5,0,56,"","Vivenda",100.07,2,4,346
+"PT-651","Lagos","","1950","High",2019,"Rafael Martinez",4,0,54,"UK","Apartamento",262.96,2,3,362
+"PT-568","Coimbra","Female","2006","High",2016,"David Simmons",3,0,47,"PT","Apartamento",204.1,2,4,328
+"PT-9","","Female","","Perfect",2018,"Kimberly Caviness",5,1,8,"USA","Apartamento",255.59,2,2,340
+"PT-628","Porto","","2000","Low",2022,"Hysendra Benally",1,1,58,"United States of America","Apartamento",287.61,2,4,360
+"PT-56","PORTO","","2005","",2018,"Eric Ontiveros-Mende",4,0,33,"PT","Vivenda",299.06,2,3,340
+"PT-11","Porto","Male","2015","High",2020,"Maria Deleon-Rodriguez",4,1,56,"ENGLAND","Apartamento",159.7,2,4,398
+"PT-322","","Female","2006","Low",2016,"Jacob Horn",5,0,58,"USA","Apartamento",307.02,2,1,362
+"PT-728","Lagos","Male","1960","High",2018,"Ashley Martinez",4,1,40,"Portugl","Apartamento",173.1,2,3,293
+"PT-266","","","2003","Medium",2019,"Tina Forbis",2,1,49,"ENGLAND","Apartamento",310.9,2,1,381
+"PT-5","LISBOA","","2013","",2016,"Thomas Vigil",4,0,53,"Portugal","Vivenda",280.55,2,4,340
+"PT-485","Lisboa","Male","1950","High",2022,"Jacob Naylor",1,0,63,"","Apartamento",188.12,2,3,337
+"PT-609","","","2003","Perfect",2023,"Alexander Lopez Garcia",4,0,68,"Portugl","Quinta",201.82,2,2,384
+"PT-454","Porto","Male","2007","High",2018,"Philip Kim",2,0,72,"","Vivenda",344.52,2,4,454
+"PT-447","Lisboa","","1998","Very High",2018,"Naadiya al-Sham",6,1,31,"Pt","Quinta",257.22,2,3,305
+"PT-616","Porto","","","High",2019,"Kia Dufresne",2,1,46,"Portugal","Vivenda",256.42,2,30,313
+"PT-335","PORTO","","","",2015,"Drew Dziurgot",5,0,35,"UK","Vivenda",272.71,2,1,379
+"PT-133","Lisboa","","","",2019,"Michael Garcia Lira",4,0,42,"Portugal","Vivenda",346.3,2,4,385
+"PT-424","Lx","Female","1950","High",2017,"Raymond Gonzales",4,0,67,"ENGLAND","Quinta",194.94,2,30,291
+"PT-583","Faro","Male","","High",2021,"Isaam el-Farah",6,0,25,"PT","",191.99,2,1,380
+"PT-487","Lx","","","High",2022,"Basheer al-Safar",6,0,32,"EUA","Quinta",155.26,3,30,423
+"PT-446","Lisboa","","2003","High",2016,"Naomi Le Beau",1,1,27,"Portugl","Apartamento",121.55,3,4,422
+"PT-435","Lx","Female","1995","Very High",2020,"Sean Nishimoto",2,0,40,"","Apartamento",335.53,3,2,482
+"PT-224","Coimbra","","2006","",2023,"Marley Brough",1,1,27,"Pt","Apartamento",183.04,3,3,475
+"PT-524","Porto","","2007","Medium",2018,"Aatif al-Malek",6,0,20,"UK","Apartamento",194.15,3,4,433
+"PT-221","","Female","1950","Low",2023,"Leonel Angeles",4,0,63,"Prt","Apartamento",346.06,3,4,477
+"PT-336","Lisboa","","2013","High",2020,"Joshua Petty",5,0,60,"","Apartamento",334.55,3,3,520
+"PT-304","","Female","2001","Low",2018,"Wesley Arko",5,0,37,"UK","Vivenda",163.08,3,1,481
+"PT-116","","","2005","High",2023,"Saalim al-Neman",6,0,49,"England","Quinta",200.53,3,2,415
+"PT-200","Lisboa","Female","2003","",2019,"Akila Trout",3,1,45,"ENGLAND","Quinta",147.58,3,4,414
+"PT-486","Lisboa","","1900","High",2016,"Christopher Barnes",5,0,56,"UK","Vivenda",330.69,3,4,412
+"PT-611","Porto","Female","1998","",2020,"Danielle Jacquez",1,1,38,"Portugal","Vivenda",165.44,3,2,442
+"PT-542","Porto","Female","1975","High",2016,"Danielle Kim",2,1,66,"Prt","Vivenda",197.94,3,2,461
+"PT-269","","Female","2013","Very High",2019,"Karandeep Brown",2,0,40,"USA","Vivenda",256.35,3,2,553
+"PT-151","Lisboa","","1950","",2015,"Kira Bean",3,1,68,"Portugal","Apartamento",190.6,3,1,533
+"PT-656","Proto","Female","2015","High",2016,"Mawzoona al-Salahuddin",6,1,61,"PT","",186.05,3,3,368
+"PT-536","Porto","Male","","Low",2015,"Leonardo Bailon-Silva",4,0,82,"England","Vivenda",219.47,3,1,471
+"PT-438","Lisboa","Female","2016","Medium",2018,"Deshauna Baker",3,1,51,"ENGLAND","Quinta",140.78,3,2,467
+"PT-751","Porto","Male","2014","High",2017,"Patrick Nichols",1,0,39,"UK","Apartamento",307.18,3,3,567
+"PT-765","Lagos","Male","1900","",2020,"Luke Weaver",1,0,39,"PT","Vivenda",144.67,3,1,317
+"PT-178","Portimão","Female","2006","Perfect",2022,"Kyle Thao",2,0,40,"England","",299.72,3,4,379
+"PT-87","","","1999","Perfect",2020,"Ji Hoon Lam",2,0,39,"","",107.99,3,4,449
+"PT-516","Lagos","Male","2008","High",2021,"Cristian Velarde",4,0,50,"Portugal","Apartamento",345.24,3,2,514
+"PT-703","Porto","Male","2007","High",2015,"Audie Palacios",4,0,68,"Portugl","Apartamento",95.49,3,4,463
+"PT-633","Lisboa","","2005","",2022,"Nermin Spears",5,0,69,"England","Apartamento",170.1,3,2,483
+"PT-440","LISBOA","Male","2015","Low",2018,"Trevor Gray",5,0,13,"Prt","Vivenda",280.33,3,4,393
+"PT-388","","Male","2002","Perfect",2018,"Micheal Sanchez",4,0,55,"Prt","Vivenda",132,3,1,469
+"PT-189","LISBOA","","1950","Very High",2022,"Mamdooh el-Badie",6,0,40,"PT","Vivenda",141.3,3,4,470
+"PT-787","Lagos","","2000","Very High",2019,"Tuong-Vi Truong",2,1,50,"UK","",118.28,3,2,408
+"PT-401","Coimbra","Female","2008","Low",2019,"Gene London",3,0,41,"","",252.74,3,3,426
+"PT-601","Coimbra","","2012","Low",2021,"Eliana Medina",4,1,31,"","Quinta",91.42,3,3,430
+"PT-355","Porto","","2014","Low",2023,"Miles Ross",3,0,59,"Pt","",149.26,3,4,463
+"PT-784","Lagos","Female","1900","Medium",2016,"Tayyiba el-Muhammad",6,1,43,"USA","Apartamento",176.73,3,3,417
+"PT-139","","Male","2017","High",2019,"Mallarie Arcelin",5,1,50,"Prt","Vivenda",295.99,3,2,486
+"PT-387","LISBOA","","1997","High",2018,"Kian Ramirez",4,0,14,"ENGLAND","Quinta",162.28,3,2,502
+"PT-80","Coimbra","","1997","Low",2015,"Matthew L'Hirondelle",1,0,89,"Portugal","",318.33,3,2,400
+"PT-140","","","2004","High",2016,"Janet Quinones",4,1,36,"Pt","Quinta",185.2,3,2,389
+"PT-482","Faro","","1999","High",2016,"Lakota Begaye",1,1,42,"PT","Apartamento",182.86,3,30,376
+"PT-720","Lx","Male","1996","High",2015,"Estrella Laugan",2,1,52,"EUA","Apartamento",294.11,3,2,497
+"PT-257","Lisboa","Male","2005","High",2021,"Tyler Coren",5,0,43,"England","Vivenda",182.56,3,30,438
+"PT-371","PORTO","Female","","",2018,"Zachary Barger",1,0,50,"United States of America","",219.28,3,3,453
+"PT-328","Coimbra","Female","1998","",2019,"Taqi al-Sala",6,0,51,"EUA","Apartamento",185.18,3,4,396
+"PT-385","","Female","2017","High",2020,"Monaca Dawson",1,1,43,"","Quinta",280.59,3,2,482
+"PT-254","Porto","","","High",2019,"Allison Williams",1,1,67,"Portugal","",222.26,3,4,428
+"PT-636","","Female","1920","Very High",2017,"Anthony Fraley",1,0,59,"EUA","Apartamento",263.96,3,4,465
+"PT-62","Lisboa","Female","1975","High",2022,"Yuvorn Barman",2,0,63,"PT","Apartamento",116.47,3,3,459
+"PT-481","","Female","","",2018,"Azeeza al-Abdulla",6,1,26,"Prt","Vivenda",170.21,3,2,476
+"PT-646","LISBOA","Female","2007","High",2018,"Ghaali al-Farha",6,0,49,"United States of America","Apartamento",290.96,3,3,500
+"PT-145","","","1950","High",2015,"Kathryn Wells",5,1,33,"Portugal","Vivenda",317.84,3,3,457
+"PT-584","Lisboa","Male","1980","",2022,"Haley Coyhis",1,1,40,"","Vivenda",332.71,3,1,382
+"PT-648","Lisboa","Male","2015","",2016,"Alexander Bennett",3,0,41,"USA","Quinta",259.25,3,2,403
+"PT-687","LISBOA","Female","2002","High",2020,"Nuzha el-Ramin",6,1,53,"ENGLAND","",302.87,3,4,479
+"PT-552","","","1996","High",2018,"Sultan al-Ahsan",6,0,43,"Portugal","Vivenda",215.75,3,3,546
+"PT-327","Lisboa","Male","2003","High",2016,"Bre'Zhane Roles",3,1,30,"Portugal","",158.99,3,3,397
+"PT-216","Proto","Male","2003","",2015,"Collin Nauth",2,0,35,"ENGLAND","Apartamento",115.42,3,30,503
+"PT-94","Coimbra","Male","2004","Low",2016,"Deidra Jones",3,1,39,"","Apartamento",297.78,3,1,407
+"PT-212","LISBOA","","1960","High",2021,"Kionna Vincent",3,1,44,"EUA","Apartamento",260.82,3,2,411
+"PT-267","Porto","Male","2017","High",2020,"Nathan Pham",2,0,26,"Prt","",296.45,3,4,444
+"PT-496","Coimbra","","1900","",2021,"Muntasir el-Salahuddin",6,0,56,"USA","Apartamento",227.96,3,2,376
+"PT-191","Coimbra","Female","1995","",2019,"Don Hayden",2,0,59,"ENGLAND","Apartamento",157.59,3,3,410
+"PT-741","Lisboa","Male","1997","",2023,"Danielle Cernac",5,1,51,"Portugal","Vivenda",105.4,3,3,447
+"PT-673","","Male","2015","Perfect",2015,"Trenivea Henning",3,1,47,"Prt","Vivenda",196.45,3,3,463
+"PT-29","Lx","Female","2000","",2016,"Eleana Wang",2,1,52,"UK","Vivenda",135.06,3,1,371
+"PT-731","Lisboa","","2003","High",2018,"Dana Docheff",5,1,46,"England","Apartamento",175.96,3,4,483
+"PT-215","Lisboa","Female","2008","Perfect",2016,"Veronica Moland",2,1,49,"United States of America","Apartamento",186.59,3,2,509
+"PT-89","Lx","Female","2017","Low",2022,"Marcelino Abad",4,0,63,"Portugl","",175.08,3,3,406
+"PT-416","Proto","Female","1995","High",2023,"Graciela Pender",3,1,25,"Portugal","Vivenda",124.6,3,4,409
+"PT-594","Proto","","2006","High",2017,"Sivilize Le",2,0,38,"EUA","",246.08,3,4,505
+"PT-533","","Male","2013","",2018,"Tessa Pak",2,1,57,"","",301.04,3,1,431
+"PT-564","Coimbra","Male","","Medium",2016,"Shirley Broker",2,1,48,"United States of America","Vivenda",164.09,3,4,494
+"PT-141","Lagos","Male","2015","High",2016,"Dominick Cherven",5,0,48,"","Apartamento",254.83,3,2,476
+"PT-663","Porto","","1975","Medium",2017,"Tsog Vang",2,0,26,"Portugal","Apartamento",154.73,3,4,381
+"PT-718","Portimão","Female","1950","High",2021,"Shajee'a al-Zafar",6,1,44,"Portugal","Vivenda",133.75,3,2,475
+"PT-396","Lisboa","Male","2005","High",2018,"Bjarne Christensen",5,0,50,"ENGLAND","",203.99,3,4,418
+"PT-507","Lisboa","Female","2001","Very High",2015,"Naqaa el-Baten",6,1,61,"EUA","Apartamento",196.29,3,3,466
+"PT-118","Lx","","2006","High",2017,"Shontice Young-Davis",3,1,3,"EUA","Vivenda",99.19,3,4,398
+"PT-460","","Male","1998","High",2016,"Junaid al-Arafat",6,0,21,"Prt","Quinta",160.02,3,3,435
+"PT-532","Porto","","2001","",2020,"Gene Howard",3,0,67,"PT","Quinta",113.33,3,2,489
+"PT-553","","","1975","Very High",2019,"Aaron Johnson",3,0,28,"Prt","Vivenda",214.17,3,3,424
+"PT-672","Portimão","Female","","Medium",2022,"Justin Kim",2,0,52,"PT","Apartamento",155.09,3,3,357
+"PT-680","Proto","","","Low",2016,"Asa Deegan",5,0,59,"Portugal","Apartamento",111.06,3,1,501
+"PT-165","Lagos","Male","2004","Low",2021,"Jameela al-Amer",6,1,8,"Prt","Apartamento",334.72,3,3,455
+"PT-480","Porto","Female","1975","",2020,"Ana Helton",5,1,29,"PT","Quinta",276.34,3,2,470
+"PT-650","","","1999","Medium",2018,"Joshua Gaffigan",5,0,34,"ENGLAND","Vivenda",166.24,3,2,353
+"PT-469","","","2002","",2020,"Kiet Martin",2,0,58,"Portugl","Apartamento",107.69,3,4,540
+"PT-423","Lx","Female","1995","High",2018,"Addison Rohde",1,0,16,"Prt","",228.74,3,2,478
+"PT-462","Lisboa","Female","1995","",2023,"Heather Horton",5,1,32,"","",237.44,3,1,469
+"PT-591","Lisboa","Female","","High",2019,"Daniel Hensinger II",1,0,44,"Portugl","Apartamento",156.37,3,4,480
+"PT-743","Proto","Female","1999","Very High",2018,"Richard Frost",1,0,52,"EUA","Quinta",143.74,3,2,338
+"PT-585","Faro","Male","1999","Very High",2023,"Stephanie Anaya",4,1,42,"Portugal","Vivenda",173.07,3,2,459
+"PT-431","Proto","Male","2005","Medium",2022,"Shane Rodriguez",2,0,51,"PT","Quinta",289.3,3,3,597
+"PT-436","","Male","1975","Very High",2022,"Brendin Lorenz",1,0,37,"England","Vivenda",274.9,3,3,396
+"PT-337","Porto","Male","2013","High",2023,"Nikka Zhou",2,1,19,"Prt","Quinta",193.86,3,30,448
+"PT-297","Faro","Female","","Low",2017,"Kenta Stahuljak",2,0,66,"EUA","Quinta",205.35,3,1,555
+"PT-782","","","2017","Medium",2021,"Michelle Nguyen",2,1,39,"Portugal","Apartamento",310.03,3,3,489
+"PT-558","PORTO","","","",2017,"Jessica Restrepo",5,1,53,"EUA","Apartamento",209.91,3,2,430
+"PT-150","Lisboa","Male","2012","High",2016,"Caleb Forno",4,0,37,"Portugal","Apartamento",148.41,3,3,405
+"PT-203","Lisboa","","","",2019,"Molly Kim",2,1,41,"USA","Quinta",165.01,3,3,488
+"PT-781","Porto","Male","2000","Low",2019,"Losol Lee",2,0,42,"PT","Vivenda",206.51,3,2,396
+"PT-378","","","2006","High",2023,"Donte Hearns",3,0,47,"PT","Apartamento",202.86,3,3,400
+"PT-303","Lisboa","","1998","High",2019,"Jason Percell",1,0,61,"USA","Vivenda",277.4,3,2,399
+"PT-512","","Male","2015","",2016,"Natsima Sanchez",2,1,66,"England","Apartamento",145.48,3,3,418
+"PT-575","Lisboa","Male","1900","Very High",2015,"Tori Clark",3,1,47,"","Vivenda",296.29,3,1,427
+"PT-45","","Female","","High",2022,"Sky Jiron",1,0,38,"United States of America","Apartamento",107,3,3,433
+"PT-780","Lisboa","","2002","High",2023,"Monica Carlton",1,1,33,"","",209.57,3,3,492
+"PT-250","Lisboa","Female","2008","High",2018,"Daniel Davis",3,0,35,"UK","Quinta",137.01,3,2,398
+"PT-535","Coimbra","Male","1900","",2018,"Kylee Komatsu",2,1,47,"EUA","Apartamento",201.69,3,3,442
+"PT-562","PORTO","","2013","Perfect",2023,"Tharwa al-Dib",6,1,14,"Portugl","Apartamento",184.83,3,3,513
+"PT-515","LISBOA","Male","","High",2020,"Edgar Mcgee",4,0,43,"Portugl","Apartamento",169.79,3,3,397
+"PT-399","Lagos","Female","2012","High",2015,"Clayton Williams",3,0,33,"Prt","Vivenda",185.85,3,30,471
+"PT-210","","Female","1960","Medium",2023,"Hanna Shrestha",2,1,29,"","Vivenda",305.59,3,3,467
+"PT-134","Lisboa","Male","2004","High",2022,"Brynna Koch",5,1,70,"Prt","Vivenda",344.44,3,2,464
+"PT-146","Lisboa","Male","","High",2015,"Stephanie Adhikari",2,1,31,"United States of America","",307.43,3,4,486
+"PT-85","Faro","","1995","High",2015,"Kylie Velasquez",4,1,27,"USA","Quinta",228.07,3,4,406
+"PT-230","Lisboa","Male","","",2021,"Stephanie Lima-Montes",4,1,47,"Portugal","Quinta",142.21,3,3,462
+"PT-453","Porto","","","High",2020,"Joseph Thompson",1,0,34,"Pt","Apartamento",328.96,3,3,479
+"PT-69","Lisboa","Male","2000","Low",2021,"Foifon Foor",2,1,51,"Portugal","Apartamento",159.97,3,2,453
+"PT-794","Lisboa","Male","1998","",2020,"Jeffrey Browning",5,0,44,"ENGLAND","Apartamento",339.77,3,1,429
+"PT-471","Proto","","2008","Medium",2018,"Madeleine Thinn",1,1,70,"ENGLAND","Apartamento",148.91,3,2,374
+"PT-288","Porto","Female","2000","Low",2016,"Khushali Sameshima",2,1,49,"Prt","Vivenda",328.38,3,4,440
+"PT-106","Coimbra","Female","1999","High",2018,"Dayman Mulugeta",3,0,50,"Portugal","",230.12,3,1,427
+"PT-294","","Female","1999","High",2020,"Kohl Blaylock",3,1,44,"","Quinta",329.59,3,4,536
+"PT-35","Faro","Female","","",2020,"Jordan Hampton",3,0,56,"Portugal","Quinta",97.66,3,3,449
+"PT-295","Lisboa","","2012","Very High",2020,"Patrick Kim",2,0,39,"Prt","Apartamento",140.47,3,2,481
+"PT-489","Portimão","Male","1980","",2017,"Justin Wartman",1,0,45,"United States of America","",118.29,3,2,470
+"PT-659","Lagos","Female","","Very High",2016,"Andrew Gonzales",4,0,55,"Portugal","Apartamento",225.58,3,4,474
+"PT-674","PORTO","Female","1975","Low",2017,"Humaidaan el-Kassem",6,0,42,"United States of America","Quinta",203.22,3,3,503
+"PT-54","Proto","Female","2012","Medium",2021,"Owen Solano",4,0,37,"England","Quinta",313.29,3,2,479
+"PT-232","Lisboa","Male","1995","High",2015,"Crystal Vandongen",5,1,23,"","",342.74,3,3,474
+"PT-799","Porto","Female","2004","",2023,"Courtni Williams",1,1,38,"UK","Vivenda",250.47,3,2,418
+"PT-753","","","1980","High",2016,"Alexia Lor",2,1,40,"UK","",141.34,3,4,390
+"PT-617","Lx","Female","2012","Very High",2021,"Eric Heath",2,0,35,"EUA","Apartamento",237.08,3,3,403
+"PT-312","","Female","1975","Very High",2023,"Tyesha Mckinney",3,1,80,"Prt","Apartamento",198.43,3,1,492
+"PT-65","Lisboa","","1950","Very High",2016,"Joe Mayfield",4,0,39,"Prt","Vivenda",177.71,3,2,432
+"PT-182","Faro","","2000","Low",2016,"Ashleigh Lobjhanidze",5,1,33,"USA","Apartamento",206.04,3,4,366
+"PT-26","Lisboa","","","Low",2019,"Ebony Connors",3,1,29,"PT","Apartamento",259.25,3,4,519
+"PT-272","Lx","Female","","High",2020,"Andrew Arendt",5,0,58,"United States of America","Vivenda",249.71,3,2,440
+"PT-237","Lisboa","","1999","",2018,"Tyler Watson",3,0,60,"England","Vivenda",293.93,3,3,450
+"PT-505","Lx","","2003","High",2020,"Pavit Mattson",2,0,52,"Portugl","",171.71,3,3,480
+"PT-245","PORTO","Male","2002","Very High",2022,"Thi Ho",2,1,53,"Portugal","Apartamento",273.92,3,4,408
+"PT-615","Proto","Male","2008","High",2018,"Bryan Valadez",4,0,46,"UK","Vivenda",221.5,3,3,383
+"PT-574","Coimbra","","","Low",2021,"Yadira Luna",4,1,53,"England","Quinta",304.94,3,4,466
+"PT-452","","Female","","Medium",2021,"Qais al-Abdulla",6,0,54,"United States of America","Vivenda",271.4,3,3,442
+"PT-79","Coimbra","Female","2014","",2021,"Lorenzo Mejia",4,0,64,"Portugl","Apartamento",303.67,3,2,481
+"PT-661","Lx","Male","2012","High",2016,"Max Sparkman",5,0,52,"England","Quinta",238.15,3,3,463
+"PT-242","","","","",2020,"Michael Shackton",5,0,60,"ENGLAND","",287.33,3,3,444
+"PT-662","Lagos","","2014","Low",2023,"Tareef al-Khalifa",6,0,50,"Pt","Apartamento",110.02,3,1,342
+"PT-522","Lisboa","","2001","",2023,"Aidan Macaulay",5,0,55,"USA","Apartamento",117.12,3,4,413
+"PT-91","Coimbra","Male","1999","High",2021,"Savannah Kelly",3,1,21,"Portugl","Apartamento",145.5,3,2,441
+"PT-135","Porto","Male","2013","High",2015,"Najma el-Niazi",6,1,50,"","Vivenda",335.26,3,4,405
+"PT-582","Lisboa","Male","1975","",2022,"Ishmael Sams",3,0,58,"","Vivenda",183.08,3,4,441
+"PT-404","Lisboa","Female","1997","High",2020,"Alyssa Goforth",5,1,65,"Prt","Vivenda",242.55,3,2,413
+"PT-688","","","2017","Very High",2017,"Chad Nguyen",2,0,34,"","Vivenda",266.28,3,2,524
+"PT-169","","Male","2016","High",2021,"Nevin Wyckoff",3,0,53,"England","Vivenda",296.18,3,1,355
+"PT-220","Faro","Female","2015","",2022,"Kevin Mcdonald",5,0,60,"Portugl","Vivenda",277.44,3,3,447
+"PT-274","","","1999","High",2016,"Saabira el-Jamal",6,1,50,"Portugl","Apartamento",231.33,3,2,467
+"PT-22","","Male","2005","Very High",2015,"Abdul Haadi al-Dawood",6,0,42,"Prt","Quinta",288.11,3,4,428
+"PT-167","Lisboa","Male","1996","High",2020,"Kenton Yoder",5,0,48,"ENGLAND","Quinta",116.44,3,3,524
+"PT-683","Lx","Male","2008","Low",2020,"Vanessa Saravanan",2,1,74,"Prt","Vivenda",171.69,3,4,469
+"PT-36","Proto","Female","2015","Perfect",2021,"Stephen Harvey",3,0,46,"Portugal","Apartamento",137.9,3,2,391
+"PT-719","","","2017","Low",2020,"John Zhang",2,0,78,"Portugl","Vivenda",200.28,3,30,372
+"PT-398","Lisboa","Female","2015","High",2018,"Umar el-Salloum",6,0,58,"UK","Apartamento",281.26,3,2,387
+"PT-783","Coimbra","","2012","Perfect",2017,"Daizuan Asberry",3,0,61,"ENGLAND","Apartamento",290.11,3,2,484
+"PT-103","PORTO","","2005","High",2018,"Khulood el-Rahman",6,1,51,"Portugal","Vivenda",238.26,3,4,458
+"PT-347","Porto","","1998","High",2015,"Ramziyya el-Islam",6,1,42,"USA","Apartamento",94.85,3,4,482
+"PT-290","Lisboa","Male","1960","High",2019,"Matthew Kakarlapudi",2,0,43,"Pt","",187.24,3,4,437
+"PT-586","","Female","1980","Low",2021,"Shannon O'Rourke",5,1,19,"Portugl","Apartamento",216.92,3,2,490
+"PT-72","Coimbra","Female","","High",2020,"Ricardo Bustillos",4,0,51,"Portugal","Apartamento",255.53,3,2,448
+"PT-181","LISBOA","Female","2007","",2020,"Drew Mccomber",5,1,25,"Portugal","Apartamento",198.62,3,1,490
+"PT-418","Faro","Female","2000","High",2017,"Miguel Cardoza Parra",4,0,51,"Pt","Vivenda",261.31,3,2,405
+"PT-468","Coimbra","","2001","High",2022,"Natalie Ansel",5,1,62,"UK","Vivenda",158.64,3,1,456
+"PT-338","Lisboa","","2012","High",2020,"Haleigh Hill",5,1,65,"ENGLAND","Quinta",205.21,3,4,396
+"PT-377","Coimbra","Female","1999","High",2015,"Caitlyn Giron Lovato",1,1,63,"Prt","Quinta",194.41,3,3,465
+"PT-740","","Female","2017","High",2022,"Aaron Feller",2,0,33,"Portugl","",270.23,3,1,417
+"PT-365","","Female","1995","High",2022,"Lady Diane Fox",2,1,53,"Portugal","Vivenda",182.27,3,4,435
+"PT-441","Faro","Female","1975","Perfect",2019,"Joshua Rocha",4,0,40,"Prt","Vivenda",235.72,3,3,461
+"PT-61","LISBOA","Female","1995","",2023,"Tiffani Little",3,1,73,"Portugal","Apartamento",168.65,3,3,338
+"PT-526","PORTO","","1950","Very High",2021,"Daniel Blanco-Lopez",4,0,43,"Portugl","Apartamento",231.31,3,2,424
+"PT-354","Portimão","Male","2003","High",2023,"Kayla Coleman",3,1,43,"United States of America","Vivenda",307.73,3,3,402
+"PT-670","Lisboa","Female","2012","Very High",2017,"Savdeep Hwang",2,0,19,"England","Vivenda",211.98,3,3,408
+"PT-621","Lisboa","Female","2015","",2015,"Auriel Elsnes",4,1,26,"Portugl","Vivenda",271.03,3,2,484
+"PT-296","Lisboa","Female","2006","Medium",2017,"Denise Engen",5,1,56,"Prt","Vivenda",187.87,3,2,409
+"PT-344","Faro","Female","2013","High",2022,"Sahar el-Bashir",6,1,34,"EUA","Apartamento",186.08,3,4,445
+"PT-576","Lx","","1999","Low",2022,"Casey Nadiadi",2,0,32,"","Apartamento",136.35,3,2,394
+"PT-291","Lisboa","","2008","Low",2022,"Bailey Davies",5,1,39,"United States of America","Vivenda",147.17,3,4,334
+"PT-448","Lisboa","","1920","Very High",2022,"Lyah Henderson",3,1,81,"USA","Apartamento",184.68,3,2,465
+"PT-244","Faro","Female","2005","High",2018,"Jessica Pepper",5,1,66,"Portugl","Quinta",260.04,3,2,464
+"PT-589","","Male","1998","High",2018,"Richard Cordova",1,0,54,"USA","Apartamento",332.34,3,4,469
+"PT-1","Proto","","1997","Low",2016,"Danijah Thompkins",3,1,36,"Portugl","Quinta",163.02,4,1,674
+"PT-749","Coimbra","Male","1920","Low",2017,"Tatianna Green",3,1,54,"Pt","",245.73,4,1,638
+"PT-164","","","2012","High",2022,"Jonathan Minor",1,0,28,"UK","Vivenda",193.12,4,2,546
+"PT-726","Proto","","1995","Medium",2021,"Fareed al-Malek",6,0,49,"","Apartamento",343.21,4,4,669
+"PT-369","","Male","2002","High",2022,"Mastoor el-Baddour",6,0,50,"Portugal","",160.16,4,4,496
+"PT-333","","","","High",2023,"Naafoora al-Shahidi",6,1,51,"Portugal","Vivenda",304.71,4,2,610
+"PT-603","Faro","Female","2005","Medium",2020,"Alexandra Guice",5,1,71,"ENGLAND","Apartamento",187.4,4,2,622
+"PT-144","Portimão","Female","","High",2021,"Rosario Evans Jr-Martinez",4,1,54,"United States of America","Apartamento",182.66,4,1,576
+"PT-175","Faro","","2003","High",2016,"Rylynd Mcgann",5,1,39,"England","",287.86,4,4,671
+"PT-773","Lisboa","","1980","High",2020,"Frida Gonzalez",4,1,36,"EUA","Apartamento",333.8,4,3,597
+"PT-645","PORTO","","2007","High",2023,"Sara Mangisel",2,1,34,"Portugal","Apartamento",121,4,4,620
+"PT-692","Lagos","Female","","High",2022,"Brandon Dedios",1,0,65,"United States of America","Apartamento",196.64,4,4,595
+"PT-690","Lagos","","2014","Medium",2016,"Elizabeth Long",5,1,40,"ENGLAND","Vivenda",148.38,4,1,668
+"PT-52","Portimão","Female","2013","High",2021,"Michael Schale",5,0,64,"UK","Apartamento",166.68,4,3,643
+"PT-219","","","1920","High",2023,"Alejandra Montoya",4,1,31,"Portugal","Quinta",326.42,4,3,566
+"PT-284","Proto","","1920","High",2023,"Matthew Jay",3,0,46,"Prt","",260.96,4,4,513
+"PT-537","Proto","Female","2015","",2019,"Meciah Edgerton",3,1,53,"USA","",127.76,4,3,680
+"PT-58","Lisboa","","1998","High",2023,"Jaeyeon Panya",2,1,63,"USA","Quinta",199.24,4,2,654
+"PT-111","Portimão","","2013","High",2015,"Kelli Ausmus",5,1,60,"Portugal","",117.42,4,2,636
+"PT-329","PORTO","","2007","Low",2016,"Conor Taga",2,0,24,"","",323.13,4,1,662
+"PT-739","Lisboa","Male","2015","Medium",2022,"Christopher Williams",5,0,56,"Pt","Quinta",110.55,4,4,615
+"PT-243","Lisboa","","2012","",2015,"Lucia Manzanares",4,1,48,"England","Apartamento",219.54,4,4,505
+"PT-8","","","1920","High",2019,"Sarah Levine",2,1,36,"Prt","Vivenda",274.92,4,1,538
+"PT-694","Portimão","","2015","Perfect",2018,"Shenoa Bost",1,1,58,"USA","Apartamento",251.56,4,30,636
+"PT-174","Lx","","1900","High",2022,"Sharaf el-Khalaf",6,0,42,"United States of America","Vivenda",252.32,4,1,699
+"PT-299","","Female","2003","High",2018,"Brooke Carroll",5,1,29,"England","Apartamento",137.12,4,3,642
+"PT-348","","","2005","",2015,"Tika Banchongchith",2,1,42,"","Apartamento",132.4,4,2,603
+"PT-127","Lisboa","","2008","",2023,"Daniel Montiel",4,0,36,"USA","Vivenda",271.85,4,4,650
+"PT-518","Porto","Female","","",2020,"Gabreille Roberts",1,1,45,"","Vivenda",165.31,4,3,466
+"PT-520","Lx","","2017","High",2015,"Desarae Scott",3,1,65,"ENGLAND","Quinta",347.48,4,2,611
+"PT-128","LISBOA","Male","","Medium",2023,"Derrel Harkins",3,0,37,"ENGLAND","",252.11,4,4,601
+"PT-74","Coimbra","Male","1975","Very High",2019,"Marcus Barihe",3,0,27,"EUA","Apartamento",327.22,4,1,653
+"PT-325","Lagos","","2014","",2015,"Monica Paris",5,1,52,"England","Quinta",172.97,4,30,639
+"PT-283","Porto","","2004","Very High",2019,"Andrew Ganbaatar",2,0,28,"Portugl","Vivenda",162.64,4,3,697
+"PT-689","Lisboa","","2015","High",2021,"Aaliyah Thibodeaux",3,1,37,"","Vivenda",206.28,4,2,736
+"PT-509","Porto","","1997","",2016,"Courtney Romero",1,1,47,"","",136.08,4,3,553
+"PT-30","PORTO","","","High",2017,"Reyna Gradoz",4,1,36,"ENGLAND","Apartamento",307.48,4,3,598
+"PT-236","Porto","","2013","",2020,"Joycelyn Pierce",3,1,43,"ENGLAND","Vivenda",261.05,4,2,672
+"PT-759","Portimão","Male","1975","High",2015,"Christian Werner",1,0,44,"Prt","Apartamento",349.54,4,2,554
+"PT-39","","Female","2006","High",2022,"Yingying Forbis",2,1,81,"EUA","",135.15,4,4,532
+"PT-349","Faro","","2003","High",2022,"Jameeha Amaro",4,1,41,"","Apartamento",319.57,4,3,637
+"PT-757","Lisboa","Female","2015","High",2017,"William Herrera",1,0,31,"USA","Apartamento",345.04,4,3,617
+"PT-293","","Male","","Perfect",2018,"Kourtni Mccullough",3,1,26,"UK","Apartamento",246.45,4,3,621
+"PT-41","Proto","","2006","Very High",2018,"Wisaam al-Abbas",6,0,30,"Portugal","Apartamento",197.66,4,1,626
+"PT-180","Lagos","","2007","High",2022,"Nicolette Thompson",3,1,49,"UK","Apartamento",317.84,4,1,633
+"PT-756","Lisboa","Male","2007","High",2022,"Candace Gurreri",1,1,42,"Pt","Apartamento",302.98,4,3,595
+"PT-606","","Male","1975","Low",2017,"Gavin Skylar Gore",5,0,49,"Portugal","Apartamento",131.5,4,3,583
+"PT-397","","","1920","Low",2023,"Hamna el-Amir",6,1,45,"Pt","Apartamento",249,4,2,518
+"PT-580","LISBOA","Female","2002","",2022,"Wisaam el-Amiri",6,0,52,"","",334.3,4,2,659
+"PT-521","Porto","Male","2006","High",2019,"Donovan Stripling",3,0,72,"ENGLAND","Quinta",143.66,4,4,567
+"PT-31","Lisboa","","1980","High",2015,"Gabriale Jordan",3,1,56,"Portugal","Apartamento",196.73,4,30,638
+"PT-570","Lisboa","Female","1950","",2020,"Julio Gracia-Cazares",4,0,57,"UK","Quinta",287.34,4,1,696
+"PT-376","Porto","","2016","High",2018,"Taylor Geshick",1,1,37,"","Apartamento",124.26,4,1,597
+"PT-529","PORTO","","1980","High",2017,"Daquan Wainright",3,0,47,"","",164.65,4,3,496
+"PT-484","Proto","Female","1975","",2021,"Dylan Baumunk",5,0,40,"","Quinta",165.48,4,3,524
+"PT-101","Lx","Male","1980","Low",2018,"Olivet Petrarca",1,0,50,"EUA","Vivenda",161.75,4,3,610
+"PT-247","Coimbra","Female","1900","Low",2015,"Seung Zhou",2,0,32,"PT","Quinta",294.31,4,4,673
+"PT-587","Porto","","1996","Perfect",2015,"Tiffany Dyer",5,1,71,"","Quinta",318.09,4,2,694
+"PT-685","","","1950","High",2018,"Michelle Hernandez",4,1,33,"ENGLAND","Apartamento",196.11,4,2,648
+"PT-752","Lagos","","2005","Perfect",2019,"Cicely Arviso",1,1,57,"Prt","Apartamento",189.92,4,2,631
+"PT-779","Lisboa","Male","1995","Perfect",2020,"Cindy Lama",2,1,29,"ENGLAND","Quinta",316.82,4,2,558
+"PT-258","Coimbra","Female","1920","Low",2015,"Albert Ortiz",4,0,35,"Portugal","Apartamento",241.23,4,4,688
+"PT-798","PORTO","","1999","High",2022,"Rockelle Spottedwarbonnet",1,1,53,"USA","Apartamento",283.17,4,1,665
+"PT-538","Proto","Male","2001","Perfect",2015,"Yia Nelson",2,0,43,"Portugl","",289.88,4,3,561
+"PT-750","Portimão","Male","2002","Perfect",2015,"Evan Owen",5,0,44,"ENGLAND","Apartamento",236.88,4,4,707
+"PT-199","Lisboa","Male","2014","",2022,"Rian Warszawski",1,1,57,"ENGLAND","",252.77,4,2,700
+"PT-32","","","1999","High",2015,"Shaheed el-Ben",6,0,45,"UK","Apartamento",137.56,4,2,620
+"PT-400","LISBOA","","2014","High",2017,"Adamina Cuthair",1,1,19,"United States of America","Apartamento",343.1,4,4,454
+"PT-264","PORTO","Female","2017","High",2023,"Mark Vue",2,0,61,"USA","Apartamento",346.37,4,3,448
+"PT-270","Lisboa","","2001","High",2022,"Sakima Omar",3,0,49,"Prt","Apartamento",238.46,4,2,609
+"PT-590","Lagos","Female","2015","High",2015,"Taylor Jones",3,1,36,"PT","Vivenda",199.96,4,1,649
+"PT-211","Lisboa","","2007","High",2019,"Julia Krason",5,1,44,"Portugal","Quinta",119.97,4,3,492
+"PT-747","","","","",2015,"Amanda Chavez",4,1,34,"Portugl","Apartamento",191.42,4,2,624
+"PT-198","Lisboa","","2003","High",2017,"Alfred Hart",1,0,33,"EUA","Vivenda",290.82,4,4,567
+"PT-682","LISBOA","Male","1920","Perfect",2021,"Mollie Crownover",5,1,34,"Pt","Quinta",313.15,4,3,683
+"PT-723","Lagos","Female","2005","Very High",2017,"Mattjoo Nguyen",2,0,38,"USA","",148.64,4,3,641
+"PT-619","Lisboa","Male","2014","",2023,"Adell Strope",4,1,65,"EUA","Apartamento",250.34,4,30,518
+"PT-25","PORTO","","2002","Low",2018,"Javier Lovato",4,0,36,"EUA","Vivenda",288.46,4,2,662
+"PT-430","Proto","Female","1950","High",2023,"Cordero Thompson",1,0,52,"UK","Apartamento",117.79,4,2,529
+"PT-551","Lisboa","Female","2004","",2023,"Aaron Campbell",5,0,38,"Portugl","Quinta",181.18,4,3,534
+"PT-362","Faro","Female","1980","High",2023,"Hamda al-Azam",6,1,30,"","Apartamento",210.2,4,2,697
+"PT-653","","Female","","",2023,"Dewi Singh",2,1,51,"USA","Quinta",262.66,4,1,610
+"PT-679","PORTO","Female","1996","High",2017,"Andrew Lemons",5,0,44,"","Vivenda",208.55,4,2,454
+"PT-457","Lisboa","Male","2014","High",2022,"Jessica Talucci",5,1,47,"","Vivenda",198.43,4,2,621
+"PT-84","","Female","2002","Medium",2021,"Haajid el-Noor",6,0,62,"Portugal","",105.64,4,1,546
+"PT-519","Lisboa","","2003","High",2023,"Nabeeha al-Mohammadi",6,1,53,"England","Vivenda",307.22,4,1,611
+"PT-204","Lisboa","Male","2001","Medium",2020,"Aatifa al-Salam",6,1,43,"USA","Vivenda",345.2,4,4,646
+"PT-541","","Male","2006","High",2015,"Matthew Borunda",4,0,46,"UK","",197.95,4,4,665
+"PT-70","Porto","Male","1996","High",2016,"Jui-Chun Stroup",2,0,42,"Portugal","Quinta",287.05,4,2,545
+"PT-20","Porto","Male","2002","High",2022,"Charles Duran",4,0,41,"","Vivenda",264.4,4,1,584
+"PT-706","PORTO","","2005","High",2023,"Pearl Reddy",2,1,53,"","Quinta",180.7,4,2,650
+"PT-624","","Male","1998","",2022,"Kenyon Burgess",5,0,51,"UK","Apartamento",204.11,4,4,695
+"PT-319","Lisboa","Female","1950","High",2022,"Fahd al-Beydoun",6,0,7,"Pt","Apartamento",102.01,4,4,654
+"PT-425","Lisboa","Male","1900","Low",2016,"Jordan Myles",5,1,5,"United States of America","Quinta",285.85,4,2,509
+"PT-733","","","2017","",2023,"Jasmine Holloway",3,1,58,"EUA","Vivenda",241.92,4,3,588
+"PT-123","Lisboa","","2003","High",2021,"Najeeba el-Yassin",6,1,42,"EUA","",290.74,4,2,653
+"PT-443","PORTO","","2008","Perfect",2019,"Gabriela Amaya",4,1,30,"","Quinta",153.83,4,4,601
+"PT-13","Lx","Female","","Low",2018,"Dillan Kottcamp",5,0,46,"","Apartamento",261.96,4,3,637
+"PT-643","","Female","","Medium",2020,"Jonah Vaughn",5,0,57,"","Apartamento",191.21,4,4,550
+"PT-218","","Male","2015","Perfect",2016,"Julia Maestas",4,1,46,"UK","",273.88,4,2,597
+"PT-647","Faro","Female","2015","High",2016,"Jose Sanchez",4,0,53,"","Vivenda",294.15,4,1,640
+"PT-268","Lisboa","","1900","",2023,"John Cloud",1,0,40,"England","Vivenda",290.4,4,4,582
+"PT-132","Faro","","","Perfect",2021,"Alexander Magat",2,0,35,"ENGLAND","Vivenda",296.61,4,2,633
+"PT-596","Lisboa","Male","2006","",2017,"Matthew Schmitz",2,0,60,"Portugl","Apartamento",330.65,4,4,584
+"PT-363","","Female","1975","Very High",2018,"Bertie Thomas",3,0,46,"USA","",92.74,4,4,676
+"PT-121","","Male","2003","",2022,"Alfredo Pizana",4,0,42,"ENGLAND","",348.52,4,1,540
+"PT-796","Porto","Female","2008","Very High",2023,"Daniel Landry",2,0,53,"England","",229.23,4,3,677
+"PT-437","","Female","1996","High",2021,"Talia Rodriguez",4,1,44,"UK","Apartamento",162.21,4,3,640
+"PT-241","Lx","","2002","Perfect",2016,"Angelica Chavez",4,1,51,"United States of America","",221.91,4,1,651
+"PT-597","LISBOA","Female","2015","High",2017,"Chelsea Bentley",5,1,64,"PT","Vivenda",271.88,4,2,707
+"PT-681","Porto","Female","2014","High",2017,"Umar el-Zahra",6,0,25,"United States of America","",278.95,4,3,568
+"PT-102","","","2005","High",2020,"Nichole Williams",1,1,70,"Portugl","Apartamento",189.22,4,3,673
+"PT-684","Coimbra","Male","2012","High",2019,"Mishaari el-Hosein",6,0,35,"","Apartamento",291.34,4,3,668
+"PT-310","Lisboa","Female","","High",2021,"Juwon Dweh",2,1,42,"UK","Apartamento",163.11,4,3,609
+"PT-422","Proto","","2012","High",2018,"Mukhtaar el-Kader",6,0,62,"Portugal","Vivenda",345.4,4,3,643
+"PT-168","PORTO","","2016","Perfect",2020,"Teresa Ware",2,1,57,"Pt","",179.95,4,1,668
+"PT-346","Faro","Male","1900","Perfect",2015,"Kevin Espinal",4,0,53,"ENGLAND","Vivenda",216.48,4,2,644
+"PT-209","Lisboa","","1975","High",2021,"Duan Little",3,0,21,"Prt","Quinta",235.22,4,4,676
+"PT-746","LISBOA","Male","2001","High",2021,"Taylor Fisher",5,0,39,"Prt","Apartamento",245.81,4,2,540
+"PT-455","","","2012","High",2018,"Pao Nguyen",2,0,21,"England","Quinta",329.48,4,2,640
+"PT-192","","","2002","High",2019,"Kathleen Callaway",5,1,37,"United States of America","",127.85,4,3,484
+"PT-214","","","1997","High",2017,"Gerrison Koh",2,0,60,"Portugal","Apartamento",118.95,4,3,650
+"PT-15","Lisboa","","1996","Medium",2022,"Jordon Merysca",2,0,33,"EUA","Vivenda",320.1,4,3,563
+"PT-300","Lagos","Male","","High",2019,"Alexa Harper",1,1,49,"UK","Vivenda",347.6,4,1,663
+"PT-287","Lisboa","","","",2022,"Lance Her",2,0,38,"UK","Quinta",305.31,4,2,507
+"PT-255","Faro","","1995","High",2017,"Rachel Dorfman",5,1,50,"USA","Vivenda",228.28,4,2,674
+"PT-408","Lisboa","Female","2015","",2017,"Vonice Ajayi",3,1,44,"ENGLAND","Quinta",184.82,4,3,504
+"PT-47","PORTO","Female","1920","High",2016,"Nizaar el-Siddiqui",6,0,48,"United States of America","Vivenda",129.04,4,3,512
+"PT-386","Faro","","1997","Very High",2017,"Abdul Jaleel al-Koroma",6,0,39,"Pt","Quinta",193.73,4,2,612
+"PT-581","","Female","2006","Low",2017,"David Richards",5,0,37,"Pt","Quinta",283.24,4,2,552
+"PT-566","","","2013","",2016,"Broderick Valdez",4,0,31,"Portugal","",179.51,4,4,573
+"PT-12","Porto","","1997","High",2023,"Danielle Barnett",3,1,36,"Pt","Vivenda",275.84,4,4,692
+"PT-227","LISBOA","","","Perfect",2015,"Sadeeqa el-Baluch",6,1,37,"USA","Quinta",298.36,4,3,673
+"PT-474","Coimbra","","1995","High",2023,"Juan Garcia-Espinoza",4,0,38,"UK","Apartamento",138.03,4,3,629
+"PT-727","Coimbra","Male","2012","High",2020,"Raaji al-Aman",6,0,53,"Portugal","Vivenda",282.85,4,1,590
+"PT-239","Proto","Male","1920","Medium",2016,"Ummu Kulthoom al-Khalid",6,1,32,"Portugal","Apartamento",93.13,4,1,664
+"PT-179","Lx","","2005","Perfect",2016,"Jonathan Hernandez",4,0,66,"EUA","",286.08,4,2,605
+"PT-641","LISBOA","","1995","",2015,"Jonathan Wang",2,0,52,"","Apartamento",338.28,4,2,577
+"PT-63","Portimão","Male","1997","",2016,"Misty Delao",4,1,53,"United States of America","Apartamento",302.9,4,2,539
+"PT-193","PORTO","","1975","High",2023,"Diana Vialpando",4,1,44,"PT","Apartamento",291.7,4,2,623
+"PT-426","Faro","","2000","High",2019,"Daniel Delgado",4,0,66,"Pt","Apartamento",108.17,4,4,654
+"PT-251","Lisboa","","1900","Perfect",2019,"Abeer el-Abad",6,1,55,"United States of America","Quinta",168.3,4,3,462
+"PT-67","Porto","","2007","Very High",2019,"Quinten Atkinson",1,0,38,"UK","Apartamento",195.14,4,2,567
+"PT-263","Coimbra","Female","1996","Very High",2021,"Peter Session",3,0,26,"Portugal","Apartamento",286.57,4,4,557
+"PT-600","Porto","","1975","Perfect",2017,"Alexander Shuman",5,0,43,"PT","",215.01,4,2,596
+"PT-637","Lisboa","","1920","Low",2022,"Naqiyya el-Popal",6,1,71,"ENGLAND","Apartamento",244.63,4,4,552
+"PT-620","Proto","Female","2005","",2023,"Taylor Anderson",3,1,40,"","Apartamento",128.35,4,3,570
+"PT-190","Lisboa","Female","2002","High",2015,"Addison Milner",4,0,40,"ENGLAND","Quinta",240.46,4,2,506
+"PT-120","","Female","1960","",2015,"Askia Stewart",3,0,34,"England","",301.09,4,4,729
+"PT-34","Porto","Male","1980","Very High",2022,"Elizabeth Floyd",5,1,22,"Portugl","Vivenda",293.32,4,3,455
+"PT-60","Porto","Male","2001","High",2016,"Mastoora al-Abdul",6,1,25,"","Apartamento",279.42,4,2,634
+"PT-90","Porto","Male","2015","High",2021,"Fareed al-Mussa",6,0,54,"Portugl","Quinta",245.63,4,30,606
+"PT-17","Lisboa","Female","2007","",2016,"Mitchell Miranda Chavez",4,0,53,"United States of America","Apartamento",287.52,4,3,660
+"PT-380","Lisboa","","","High",2019,"Carlos Moore",4,0,31,"USA","Apartamento",236.77,4,2,594
+"PT-503","PORTO","","2012","",2019,"Amara West",3,1,49,"UK","Vivenda",298.94,4,3,648
+"PT-122","Portimão","Male","2017","Medium",2017,"Aarif al-Mansouri",6,0,48,"Portugal","",209.32,4,3,651
+"PT-626","Lisboa","Female","1980","High",2018,"Abdul Qayyoom el-Hammad",6,0,33,"Prt","Apartamento",215.95,4,3,610
+"PT-777","Faro","","2004","",2023,"Sarah Mitchell",1,1,57,"","Apartamento",277.3,4,2,607
+"PT-758","","","","High",2016,"Nazmiyya al-Moussa",6,1,38,"UK","Vivenda",190.58,4,3,732
+"PT-788","Lisboa","Female","1975","",2020,"Tuan Qiu",2,0,26,"PT","",192.9,4,2,592
+"PT-136","Faro","","1975","High",2019,"Erika Young",2,1,48,"Portugl","Quinta",117.15,4,2,629
+"PT-229","Porto","","2002","High",2015,"Collin Dickerson",5,0,35,"ENGLAND","Quinta",307.41,4,1,657
+"PT-256","Lisboa","","2002","High",2015,"Alexander Winklmann",2,0,36,"EUA","Apartamento",238.56,4,2,628
+"PT-513","","Female","","High",2019,"Peter Murison",5,0,28,"United States of America","Quinta",170.94,4,4,598
+"PT-559","Porto","","2017","",2022,"Shania Bonner",1,1,65,"England","Apartamento",107.06,4,2,638
+"PT-588","Lx","Female","1950","Medium",2018,"Saalima al-Abdi",6,1,31,"Portugal","Apartamento",180.15,4,2,653
+"PT-223","Porto","","","High",2016,"Hafsa al-Jamal",6,1,32,"EUA","Apartamento",263.83,4,1,522
+"PT-701","Lisboa","Male","2015","High",2018,"Jacob Adhikari",2,0,61,"UK","Apartamento",313.4,4,30,562
+"PT-330","","","1995","Medium",2023,"Ammaar al-Salahuddin",6,0,50,"Prt","Vivenda",311.59,4,3,511
+"PT-699","","","2001","Low",2023,"Kaitlyn Mccabe",1,1,30,"Prt","Quinta",113.03,4,2,632
+"PT-476","Portimão","Female","2007","Very High",2016,"Adina Jackson",3,1,47,"Pt","Vivenda",122.52,4,4,737
+"PT-639","Lx","Female","2012","High",2015,"Holidai Salas",4,1,52,"United States of America","Vivenda",328.6,4,3,718
+"PT-360","Portimão","","2013","",2023,"Karak Ebat",2,0,24,"EUA","Vivenda",94.55,4,3,525
+"PT-248","Lx","Male","2004","Low",2018,"Hamza el-Ozer",6,0,21,"","Apartamento",285.65,4,3,605
+"PT-602","Lisboa","Male","2013","",2015,"Carlos Alberto Kostur",4,0,58,"United States of America","Quinta",261.06,4,3,550
+"PT-114","Lagos","Male","1960","High",2023,"Caitlyn Martinez",4,1,11,"","Apartamento",262.12,4,4,567
+"PT-323","Lisboa","Female","2014","High",2020,"Jahnay Gray",3,1,44,"","Vivenda",271.39,4,2,634
+"PT-545","Lisboa","Female","2001","High",2015,"Emilio Diaz Daughtry",1,0,38,"Pt","Apartamento",93.22,4,1,561
+"PT-491","Coimbra","Male","2016","High",2015,"Christopher Lopez Garcia",4,0,33,"EUA","Vivenda",148,4,2,553
+"PT-298","","","2016","High",2015,"Nawaal el-Habibi",6,1,54,"Portugal","Vivenda",192.8,5,2,703
+"PT-470","","Female","1920","Perfect",2021,"Tammaam el-Hamady",6,0,44,"Portugal","Apartamento",191.18,5,2,764
+"PT-249","Porto","","","High",2022,"Tori Pan",2,1,49,"Prt","Apartamento",306.81,5,3,681
+"PT-271","Lisboa","","2005","High",2019,"Amanda Edmonds",5,1,37,"Portugal","Vivenda",289.11,5,1,733
+"PT-99","Lisboa","","1995","High",2020,"Tiana Robinson",3,1,37,"Pt","Apartamento",205.09,5,1,721
+"PT-467","Lisboa","","1920","High",2020,"Devion Henderson",3,0,42,"United States of America","Apartamento",111.44,5,3,658
+"PT-665","Lagos","","2007","High",2022,"Rashida Fennell Jr",3,1,53,"Prt","Vivenda",211.33,5,3,826
+"PT-531","","","2014","High",2021,"Jasmine Stier",5,1,28,"","Apartamento",347.32,5,2,880
+"PT-501","Faro","Male","1900","Perfect",2017,"Kailib Harvey",3,0,55,"England","",159.2,5,4,739
+"PT-735","Lisboa","","2000","Perfect",2022,"Marcus Simmons",3,0,24,"Pt","Apartamento",288.7,5,1,774
+"PT-309","Porto","","1995","Perfect",2015,"Mayra Contreras",4,1,52,"Pt","",168.9,5,1,688
+"PT-488","Porto","","","High",2017,"Graydon Birt",5,0,20,"Prt","Apartamento",217.61,5,2,666
+"PT-737","","","1998","High",2020,"Joshua Xiong",2,0,43,"Portugal","Apartamento",248.46,5,4,693
+"PT-112","Coimbra","Female","2002","High",2016,"Travis Cole",5,0,46,"ENGLAND","Apartamento",305.83,5,2,735
+"PT-442","PORTO","Male","1995","High",2022,"Naadiya al-Burki",6,1,43,"United States of America","Apartamento",328.9,5,1,689
+"PT-760","Proto","Male","1980","",2016,"Manuel Arreguin Bojorquez",4,0,65,"USA","Vivenda",292.22,5,2,686
+"PT-573","Lisboa","Female","1920","High",2018,"Taamir el-Shehadeh",6,0,50,"Portugal","Apartamento",244.87,5,3,955
+"PT-557","","Female","2000","",2018,"Ashleigh Mostafa",2,1,44,"Portugal","",250.7,5,2,689
+"PT-797","Lagos","","2008","",2023,"Ethan Rose",5,0,55,"Pt","Apartamento",99.52,5,3,781
+"PT-95","LISBOA","Male","2013","High",2023,"Bryce Austria",2,0,44,"PT","Apartamento",315.81,5,4,844
+"PT-43","","","","",2020,"Chris Edwards Jr",2,0,36,"PT","Quinta",119.33,5,30,635
+"PT-506","Porto","","1960","Perfect",2022,"Elizabeth Pham",2,1,52,"United States of America","Vivenda",145.43,5,3,672
+"PT-18","Lagos","","1996","High",2015,"Jesse Ricketts",1,0,25,"Portugal","Apartamento",254.91,5,4,828
+"PT-702","Lx","Male","","Low",2023,"Adriana Gutierrez",4,1,67,"Portugal","Apartamento",228.08,5,1,649
+"PT-315","Lisboa","Male","1975","Low",2023,"Aylissa Jacket",1,1,50,"United States of America","Apartamento",271.26,5,4,765
+"PT-778","Coimbra","Female","1900","",2018,"Aisha Distel",5,1,78,"Pt","Vivenda",349.72,5,1,804
+"PT-183","Lagos","","2016","Perfect",2015,"Mudrika el-Koroma",6,1,51,"","",118.89,5,2,743
+"PT-3","","Male","","",2016,"Tasneem al-Fahmy",6,1,31,"","Vivenda",174.37,5,3,744
+"PT-554","Coimbra","","2002","High",2019,"Dylan Reeves",2,0,86,"USA","Vivenda",199.89,5,1,731
+"PT-350","","","1999","",2017,"Navro Martinez",1,0,56,"Portugl","",107.17,5,3,746
+"PT-27","","Female","","High",2015,"Toshio Abbott",2,0,65,"Prt","",169.98,5,1,725
+"PT-707","Lisboa","","1995","Perfect",2023,"Haneef al-Emami",6,0,25,"Pt","Apartamento",96.1,5,4,731
+"PT-463","Lagos","Male","2017","High",2021,"Desiree Olivas",4,1,43,"EUA","Apartamento",129.9,5,2,855
+"PT-479","","Female","2003","Medium",2020,"Michaela Marlow",1,1,69,"UK","Vivenda",335.16,5,2,602
+"PT-668","Lisboa","Female","2016","High",2017,"Marina Meer",5,1,86,"ENGLAND","Quinta",153.67,5,2,836
+"PT-514","PORTO","Female","2008","High",2022,"Baheej al-Salaam",6,0,49,"England","Apartamento",315.81,5,1,821
+"PT-252","PORTO","","1997","High",2015,"Humza Berntsen",2,0,47,"USA","Quinta",231,5,3,593
+"PT-420","Lx","","2014","",2022,"Joseph Hardin",3,0,73,"Portugal","Quinta",313.34,5,3,1037
+"PT-331","Lisboa","","1980","High",2017,"Danielle Pier",3,1,31,"United States of America","Apartamento",141.9,5,30,693
+"PT-213","","","2002","Perfect",2021,"Brandon Garcia",4,0,58,"Portugl","",256.66,5,2,795
+"PT-419","Proto","Female","2013","",2016,"Ronnie Burns",3,0,56,"UK","Vivenda",342.44,5,3,767
+"PT-131","Faro","Female","2012","",2021,"Victoria Prather",3,1,23,"Pt","Vivenda",319.93,5,4,796
+"PT-432","Porto","Female","1980","Medium",2018,"Hakeem Mosley",3,0,29,"USA","Apartamento",154.38,5,2,757
+"PT-712","","Female","1980","Low",2016,"Danni Truitt",1,1,34,"","Vivenda",143.91,5,4,704
+"PT-345","","","2003","Perfect",2016,"Timothy Corey",5,0,47,"UK","Quinta",184.64,5,2,757
+"PT-358","","","","Very High",2022,"Ka'Ima Whitaker",3,1,19,"Pt","",103.52,5,3,701
+"PT-660","","Female","2017","High",2016,"Kaejauny Quiel",3,1,47,"EUA","Apartamento",258.25,5,2,686
+"PT-769","","Male","1900","Perfect",2016,"Sumaita al-Mohammed",6,1,79,"UK","Quinta",272.44,5,4,830
+"PT-499","LISBOA","Male","2001","",2023,"Ciara Sylvain",3,1,50,"","Vivenda",280.47,5,3,705
+"PT-544","Porto","Female","2012","High",2017,"Francisco Lucero",4,0,45,"United States of America","",210.62,5,2,815
+"PT-107","Lisboa","Female","2006","High",2018,"Jacob Stufflebean",1,0,41,"USA","Vivenda",195.27,5,3,740
+"PT-341","Porto","Female","2013","Medium",2020,"Edite Jarrell",5,1,25,"EUA","Quinta",326.31,5,2,757
+"PT-185","Lisboa","Female","1998","High",2018,"Helena Yang",2,1,35,"ENGLAND","Vivenda",313.54,5,2,802
+"PT-644","Lisboa","","","",2017,"Ryan Henry",5,0,73,"","",248.57,5,3,744
+"PT-265","Lisboa","","2005","High",2022,"Andre Ruff",3,0,65,"","Quinta",105.19,5,4,794
+"PT-427","","Male","1980","Perfect",2015,"Ronald Adiso",3,0,28,"England","Apartamento",349.95,5,3,835
+"PT-578","Lisboa","","2006","Low",2015,"Brian Berumen",4,0,24,"Portugal","",159.57,5,3,861
+"PT-498","Lx","","1960","High",2023,"Stephon Ryan",3,0,40,"UK","Apartamento",145.64,5,4,724
+"PT-409","Lisboa","Female","1995","",2018,"Sabri al-Rehman",6,0,37,"Portugl","Apartamento",143.42,5,3,723
+"PT-57","Porto","Female","1900","High",2020,"Sarah Romero",4,1,60,"Pt","Quinta",297.34,5,1,831
+"PT-262","","","","High",2017,"Maria L'Hirondelle",1,1,54,"Portugal","Quinta",240.61,5,4,639
+"PT-7","Porto","Female","1960","High",2019,"Miles Schmauder",5,0,48,"Portugl","Apartamento",273.05,5,4,760
+"PT-767","","Male","2003","High",2022,"Mercy Lee",2,1,53,"ENGLAND","Quinta",105.07,5,2,707
+"PT-261","Coimbra","Male","2013","High",2017,"Rafeeq al-Bahri",6,0,65,"United States of America","Quinta",326.18,5,4,697
+"PT-744","Lisboa","Male","2000","High",2021,"John Diaz Pizarro",4,0,42,"","Apartamento",127.05,5,2,718
+"PT-622","Faro","Female","","High",2016,"Ashley Sanchez",4,1,53,"PT","Vivenda",214.94,5,3,746
+"PT-618","","","1999","High",2022,"Jim Buse",2,0,47,"","",247.53,5,2,609
+"PT-137","PORTO","Female","2000","",2023,"Nehumi Wang",2,0,42,"Pt","",136.9,5,4,768
+"PT-429","Portimão","Male","2008","Medium",2015,"Cindy Trujillo",4,1,56,"Prt","Quinta",171.17,5,2,670
+"PT-66","Lisboa","","","Medium",2019,"Rumaana al-Ammar",6,1,46,"UK","",297.25,5,4,791
+"PT-24","Lisboa","Female","1975","Very High",2021,"Matthew Wisham",1,0,59,"Portugl","",130.72,5,1,726
+"PT-713","Lagos","Male","1996","High",2023,"Devundrick Chiles",3,0,42,"UK","Apartamento",205.11,5,3,670
+"PT-724","","","1960","",2018,"Jordan Graham",3,0,75,"UK","Apartamento",265.44,5,1,674
+"PT-260","","","2016","Very High",2018,"Steven Cox Smith",5,0,40,"Portugal","",338.85,5,4,876
+"PT-678","Coimbra","","","High",2015,"Abelard Gilkey",3,0,57,"Portugal","",327.92,5,4,789
+"PT-100","PORTO","Female","2015","High",2016,"Michael Baggett",5,0,42,"USA","Vivenda",144.5,5,4,842
+"PT-391","PORTO","Female","2005","High",2019,"Lakesha Ouellette",1,1,49,"USA","",274.3,5,4,721
+"PT-392","Porto","","2013","High",2019,"Je Young Suriwong",2,0,22,"USA","Apartamento",103.89,5,2,701
+"PT-483","","","1997","Very High",2020,"Jacob Yousif",3,0,13,"United States of America","Apartamento",234.15,5,3,907
+"PT-449","Portimão","","2004","Perfect",2020,"Xai Son",2,0,22,"Portugl","",205.08,5,4,684
+"PT-539","Lisboa","Male","","",2022,"Ashley Groesbeck",1,1,35,"UK","Quinta",302.18,5,3,659
+"PT-59","Lagos","Female","1920","High",2016,"Kiara Williams",3,1,30,"Prt","Vivenda",224.88,5,4,590
+"PT-658","Lagos","Female","","Very High",2020,"Danielle Frost",1,1,45,"Prt","Quinta",201.52,6,2,996
+"PT-187","Lisboa","Female","2006","High",2019,"Waheeba al-Parsa",6,1,23,"UK","Apartamento",290.79,6,4,942
+"PT-451","Proto","Female","","Medium",2022,"Isiaih Prutch",4,0,40,"ENGLAND","Quinta",258.83,6,3,1085
+"PT-792","Lisboa","Female","1996","Medium",2015,"Cissy Dang",2,1,48,"","Vivenda",227.21,6,2,1049
+"PT-625","Porto","Female","1998","High",2017,"John Lester",3,0,35,"Prt","Vivenda",112.21,6,3,906
+"PT-206","Lisboa","Male","1950","Medium",2019,"Talon Perkins",3,0,44,"Pt","Apartamento",172.47,6,2,843
+"PT-152","PORTO","","1980","Very High",2018,"Darlin Walker",3,1,73,"Portugal","Apartamento",206.37,6,3,996
+"PT-494","Faro","","","Low",2015,"Brittany Mcgowan",1,1,44,"EUA","Quinta",337.13,6,1,956
+"PT-793","Proto","","2000","Low",2022,"Haley Martzloff",1,1,54,"United States of America","Apartamento",90.12,6,30,1017
+"PT-715","","Female","2001","High",2023,"Abdul Hameed el-Baccus",6,0,46,"PT","Apartamento",98.66,6,3,1033
+"PT-464","","Female","2008","High",2018,"Megan Mccormick",5,1,40,"England","",334.28,6,4,1041
+"PT-149","Lisboa","Male","2006","High",2020,"Chantell Richey",3,1,61,"","Apartamento",165.3,6,3,945
+"PT-157","Lisboa","Female","2003","",2016,"Sumaita al-Zaki",6,1,42,"UK","Vivenda",276.43,6,3,844
+"PT-492","Coimbra","","","Very High",2015,"Jamison Trotter",5,0,61,"EUA","Apartamento",261.04,6,2,955
+"PT-361","","","1995","",2016,"Yuka Turner",2,1,39,"Portugal","",340.35,6,2,1014
+"PT-704","Faro","","2000","",2023,"Cierra Oneal",3,1,26,"USA","",240.45,6,1,802
+"PT-16","Lisboa","","2012","Low",2023,"Destiny Winklmann",2,1,49,"","Vivenda",108.38,6,2,1042
+"PT-235","Porto","Male","1980","High",2022,"Tisha Pacheco",1,1,60,"USA","Quinta",270.91,6,2,879
+"PT-259","LISBOA","Male","2017","Very High",2022,"Muthanna al-Farran",6,0,35,"Portugal","Vivenda",200.54,6,3,1022
+"PT-428","Portimão","Male","2016","",2023,"Darius Bhakta",2,0,44,"Portugal","Vivenda",305.3,6,2,951
+"PT-502","Lisboa","Female","2012","High",2021,"Nadiyya al-Zakaria",6,1,31,"","Vivenda",134.34,6,2,901
+"PT-764","","Female","1995","High",2023,"Kaylla Blea",4,1,53,"PT","Vivenda",241.62,6,2,907
+"PT-629","Lisboa","Female","2000","High",2023,"Brandon Famber",3,0,43,"Portugl","Apartamento",162.69,6,3,952
+"PT-579","Coimbra","Female","2017","Medium",2017,"Waddaah el-Imam",6,0,49,"Prt","Quinta",261.78,6,3,1080
+"PT-413","Lagos","Female","1997","High",2019,"Joshua Mullins",5,0,23,"EUA","Vivenda",121.18,6,2,923
+"PT-117","PORTO","Female","","High",2019,"Chandler Siewiyumptewa",1,1,46,"Pt","Apartamento",276.34,6,4,984
+"PT-632","Proto","","2002","High",2016,"Anastasia Deboard",5,1,22,"","Vivenda",220.04,6,30,1050
+"PT-382","","Female","2004","",2023,"Brianna Venegas",4,1,37,"ENGLAND","Apartamento",207.18,6,4,974
+"PT-571","","","1995","",2017,"Hanna Oswalt-Naasz",1,1,53,"Prt","Apartamento",224.2,6,3,865
+"PT-166","Porto","Female","2007","Very High",2020,"Joshua Broderick",5,0,29,"USA","Apartamento",122.49,6,1,927
+"PT-381","Proto","","1950","",2017,"Rafeeda al-Badie",6,1,24,"Portugl","Vivenda",238.78,6,30,927
+"PT-196","PORTO","","","Very High",2016,"Jacob Samide",2,0,65,"United States of America","",215.21,6,3,883
+"PT-497","Lisboa","Female","","",2016,"Cordelia Nguyen",2,1,36,"Portugal","Apartamento",322.11,6,4,971
+"PT-366","","Female","","High",2017,"Kevin Chao",2,0,26,"Pt","Vivenda",127.27,6,2,878
+"PT-98","Proto","Male","2000","High",2015,"Salymata Allen",3,1,40,"Portugl","Apartamento",332.23,6,2,763
+"PT-605","Coimbra","Female","2013","High",2018,"Diana Winder Jr",4,1,72,"Portugal","Apartamento",137.55,6,3,971
+"PT-53","Lisboa","Male","1997","Very High",2019,"Niklaus Schwark",5,0,44,"Portugl","",212,6,2,974
+"PT-305","Lagos","Male","2016","High",2018,"Noah Hopson",3,0,62,"United States of America","Apartamento",226.68,6,3,854
+"PT-565","PORTO","","2002","High",2018,"Kevin Handshaw",5,0,57,"ENGLAND","Apartamento",246.33,6,2,849
+"PT-110","Proto","","2017","High",2016,"Zoe Holder",1,1,51,"ENGLAND","Apartamento",90.44,6,1,815
+"PT-730","Porto","","1995","High",2015,"Danielle Young",3,1,52,"","Vivenda",138.01,6,4,830
+"PT-119","Lisboa","Male","1920","High",2023,"Melissa Garcia",4,1,38,"England","Apartamento",261.11,6,3,885
+"PT-407","PORTO","","2017","Very High",2023,"Connor Graefe",5,1,55,"PT","Apartamento",347.34,6,2,871
+"PT-143","Lisboa","","2000","High",2018,"Pierce Nguyen",2,0,48,"Pt","Vivenda",202.09,6,2,925
+"PT-321","","Female","","Very High",2020,"Matthew Young",2,0,66,"Portugal","Apartamento",106.55,6,2,1036
+"PT-184","PORTO","Female","1950","High",2017,"Angel Ortiz",4,1,51,"England","Apartamento",248.1,6,3,976
+"PT-286","Porto","Male","2012","Low",2018,"Faheem al-Shakir",6,0,64,"PT","Vivenda",280.83,6,2,887
+"PT-766","Coimbra","Male","1996","",2020,"Eloy Ceja",4,0,36,"Prt","Apartamento",286.66,6,2,1014
+"PT-307","LISBOA","Male","1950","High",2018,"Janeah Gentry",1,1,41,"PT","Quinta",252.23,6,4,1039
+"PT-433","PORTO","Female","2005","High",2023,"Courtney Nold",5,1,58,"UK","Quinta",224.59,6,1,913
+"PT-40","LISBOA","","2007","Medium",2016,"Natasha Briones-Saucedo",4,1,47,"EUA","Quinta",348.22,6,4,1022
+"PT-495","Lisboa","Female","2000","High",2021,"Luis Espinoza",4,0,63,"England","Apartamento",310.66,6,30,1144
+"PT-28","","","2013","Low",2019,"Elsi Ocampo",4,1,52,"United States of America","Apartamento",149.23,6,4,1057
+"PT-226","LISBOA","Female","2004","High",2021,"Abdut Tawwab el-Ashraf",6,0,78,"USA","Vivenda",178.93,6,2,879
+"PT-410","Proto","","1950","Perfect",2022,"Steven Lam",2,0,41,"Pt","Quinta",93.68,6,4,864
+"PT-234","Lisboa","","","",2017,"Armand Sealey",3,0,50,"Pt","Vivenda",232.8,6,3,1115
